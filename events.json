@@ -6,5 +6,13 @@
     "startIso": "2026-07-29T18:30:00.000Z",
     "icon": "fas fa-skull",
     "host": "Discord Bot"
+  },
+  {
+    "title": "TEST EVENT",
+    "subtitle": "CLAN EVENT",
+    "date": "2026-07-31",
+    "startIso": "2026-07-31T00:00:00.000Z",
+    "icon": "fas fa-calendar-alt",
+    "host": "Discord Bot"
   }
 ]
