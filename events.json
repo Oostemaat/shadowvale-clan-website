@@ -3,7 +3,7 @@
     "title": "NEX",
     "subtitle": "CLAN EVENT",
     "date": "2026-07-29",
-    "time": "06:30 PM",
+    "startIso": "2026-07-29T18:30:00.000Z",
     "icon": "fas fa-skull",
     "host": "Discord Bot"
   }
