@@ -152,20 +152,20 @@
     "icon": "fas fa-skull"
   },
   {
-    "title": "500 Yama kills",
-    "member": "diggitydog10",
-    "category": "drop",
-    "desc": "Unlocked 500 Yama kills achievement.",
-    "date": "July 23, 2026",
-    "icon": "fas fa-skull"
-  },
-  {
     "title": "100m Overall Exp.",
     "member": "diggitydog10",
     "category": "skill",
     "desc": "Unlocked 100m Overall Exp. achievement.",
     "date": "July 23, 2026",
     "icon": "fas fa-trophy"
+  },
+  {
+    "title": "500 Yama kills",
+    "member": "diggitydog10",
+    "category": "drop",
+    "desc": "Unlocked 500 Yama kills achievement.",
+    "date": "July 23, 2026",
+    "icon": "fas fa-skull"
   },
   {
     "title": "100,000,000 Ranged Exp.",
@@ -232,6 +232,14 @@
     "icon": "fas fa-trophy"
   },
   {
+    "title": "99 Hunter",
+    "member": "duriel ghost",
+    "category": "skill",
+    "desc": "Unlocked 99 Hunter achievement.",
+    "date": "July 21, 2026",
+    "icon": "fas fa-trophy"
+  },
+  {
     "title": "99 Smithing",
     "member": "duriel ghost",
     "category": "skill",
@@ -244,14 +252,6 @@
     "member": "duriel ghost",
     "category": "skill",
     "desc": "Unlocked 99 Farming achievement.",
-    "date": "July 21, 2026",
-    "icon": "fas fa-trophy"
-  },
-  {
-    "title": "99 Hunter",
-    "member": "duriel ghost",
-    "category": "skill",
-    "desc": "Unlocked 99 Hunter achievement.",
     "date": "July 21, 2026",
     "icon": "fas fa-trophy"
   },
@@ -336,20 +336,20 @@
     "icon": "fas fa-trophy"
   },
   {
-    "title": "500 Collection Log Slots",
-    "member": "shadedwizard",
-    "category": "milestone",
-    "desc": "Unlocked 500 Collection Log Slots achievement.",
-    "date": "July 19, 2026",
-    "icon": "fas fa-box-open"
-  },
-  {
     "title": "500 Clue Scrolls All kills",
     "member": "shadedwizard",
     "category": "drop",
     "desc": "Unlocked 500 Clue Scrolls All kills achievement.",
     "date": "July 19, 2026",
     "icon": "fas fa-skull"
+  },
+  {
+    "title": "500 Collection Log Slots",
+    "member": "shadedwizard",
+    "category": "milestone",
+    "desc": "Unlocked 500 Collection Log Slots achievement.",
+    "date": "July 19, 2026",
+    "icon": "fas fa-box-open"
   },
   {
     "title": "99 Magic",
