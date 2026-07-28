@@ -248,18 +248,18 @@
     "icon": "fas fa-trophy"
   },
   {
-    "title": "99 Firemaking",
-    "member": "duriel ghost",
-    "category": "skill",
-    "desc": "Unlocked 99 Firemaking achievement.",
-    "date": "July 21, 2026",
-    "icon": "fas fa-trophy"
-  },
-  {
     "title": "99 Smithing",
     "member": "duriel ghost",
     "category": "skill",
     "desc": "Unlocked 99 Smithing achievement.",
+    "date": "July 21, 2026",
+    "icon": "fas fa-trophy"
+  },
+  {
+    "title": "99 Firemaking",
+    "member": "duriel ghost",
+    "category": "skill",
+    "desc": "Unlocked 99 Firemaking achievement.",
     "date": "July 21, 2026",
     "icon": "fas fa-trophy"
   },
