@@ -1,5 +1,13 @@
 [
   {
+    "title": "99 Attack",
+    "member": "BGSlayer",
+    "category": "skill",
+    "desc": "Unlocked Attack milestone at 13,034,431 kc/exp.",
+    "date": "July 28, 2026",
+    "icon": "fas fa-trophy"
+  },
+  {
     "title": "100 The Corrupted Gauntlet kills",
     "member": "Void of Echo",
     "category": "drop",
@@ -136,20 +144,20 @@
     "icon": "fas fa-skull"
   },
   {
-    "title": "100m Overall Exp.",
-    "member": "diggitydog10",
-    "category": "skill",
-    "desc": "Unlocked Overall milestone at 100,000,000 kc/exp.",
-    "date": "July 23, 2026",
-    "icon": "fas fa-trophy"
-  },
-  {
     "title": "500 Yama kills",
     "member": "diggitydog10",
     "category": "drop",
     "desc": "Unlocked Yama milestone at 500 kc/exp.",
     "date": "July 23, 2026",
     "icon": "fas fa-skull"
+  },
+  {
+    "title": "100m Overall Exp.",
+    "member": "diggitydog10",
+    "category": "skill",
+    "desc": "Unlocked Overall milestone at 100,000,000 kc/exp.",
+    "date": "July 23, 2026",
+    "icon": "fas fa-trophy"
   },
   {
     "title": "100,000,000 Ranged Exp.",
@@ -192,22 +200,6 @@
     "icon": "fas fa-trophy"
   },
   {
-    "title": "99 Firemaking",
-    "member": "duriel ghost",
-    "category": "skill",
-    "desc": "Unlocked Firemaking milestone at 13,034,431 kc/exp.",
-    "date": "July 21, 2026",
-    "icon": "fas fa-trophy"
-  },
-  {
-    "title": "200m Overall Exp.",
-    "member": "duriel ghost",
-    "category": "skill",
-    "desc": "Unlocked Overall milestone at 200,000,000 kc/exp.",
-    "date": "July 21, 2026",
-    "icon": "fas fa-trophy"
-  },
-  {
     "title": "99 Fishing",
     "member": "duriel ghost",
     "category": "skill",
@@ -216,10 +208,26 @@
     "icon": "fas fa-trophy"
   },
   {
+    "title": "99 Firemaking",
+    "member": "duriel ghost",
+    "category": "skill",
+    "desc": "Unlocked Firemaking milestone at 13,034,431 kc/exp.",
+    "date": "July 21, 2026",
+    "icon": "fas fa-trophy"
+  },
+  {
     "title": "99 Smithing",
     "member": "duriel ghost",
     "category": "skill",
     "desc": "Unlocked Smithing milestone at 13,034,431 kc/exp.",
+    "date": "July 21, 2026",
+    "icon": "fas fa-trophy"
+  },
+  {
+    "title": "200m Overall Exp.",
+    "member": "duriel ghost",
+    "category": "skill",
+    "desc": "Unlocked Overall milestone at 200,000,000 kc/exp.",
     "date": "July 21, 2026",
     "icon": "fas fa-trophy"
   },
@@ -320,20 +328,20 @@
     "icon": "fas fa-trophy"
   },
   {
-    "title": "500 Clue Scrolls All kills",
-    "member": "shadedwizard",
-    "category": "drop",
-    "desc": "Unlocked Clue Scrolls All milestone at 500 kc/exp.",
-    "date": "July 19, 2026",
-    "icon": "fas fa-skull"
-  },
-  {
     "title": "500 Collection Log Slots",
     "member": "shadedwizard",
     "category": "milestone",
     "desc": "Unlocked Collections Logged milestone at 500 kc/exp.",
     "date": "July 19, 2026",
     "icon": "fas fa-box-open"
+  },
+  {
+    "title": "500 Clue Scrolls All kills",
+    "member": "shadedwizard",
+    "category": "drop",
+    "desc": "Unlocked Clue Scrolls All milestone at 500 kc/exp.",
+    "date": "July 19, 2026",
+    "icon": "fas fa-skull"
   },
   {
     "title": "99 Magic",
@@ -389,14 +397,6 @@
     "category": "skill",
     "desc": "Unlocked Overall milestone at 17,703,048 kc/exp.",
     "date": "July 17, 2026",
-    "icon": "fas fa-trophy"
-  },
-  {
-    "title": "17,703,048 Total Exp.",
-    "member": "ironskullyy",
-    "category": "skill",
-    "desc": "Unlocked Overall milestone at 17,703,048 kc/exp.",
-    "date": "July 16, 2026",
     "icon": "fas fa-trophy"
   }
 ]
