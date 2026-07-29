@@ -1,5 +1,13 @@
 [
   {
+    "title": "700 Collection Log Slots",
+    "member": "Manswarm",
+    "category": "milestone",
+    "desc": "Unlocked 700 Collection Log Slots achievement.",
+    "date": "July 29, 2026",
+    "icon": "fas fa-box-open"
+  },
+  {
     "title": "99 Defence",
     "member": "argetdraco",
     "category": "skill",
@@ -248,22 +256,6 @@
     "icon": "fas fa-trophy"
   },
   {
-    "title": "200m Overall Exp.",
-    "member": "duriel ghost",
-    "category": "skill",
-    "desc": "Unlocked 200m Overall Exp. achievement.",
-    "date": "July 21, 2026",
-    "icon": "fas fa-trophy"
-  },
-  {
-    "title": "99 Farming",
-    "member": "duriel ghost",
-    "category": "skill",
-    "desc": "Unlocked 99 Farming achievement.",
-    "date": "July 21, 2026",
-    "icon": "fas fa-trophy"
-  },
-  {
     "title": "99 Smithing",
     "member": "duriel ghost",
     "category": "skill",
@@ -280,6 +272,14 @@
     "icon": "fas fa-trophy"
   },
   {
+    "title": "200m Overall Exp.",
+    "member": "duriel ghost",
+    "category": "skill",
+    "desc": "Unlocked 200m Overall Exp. achievement.",
+    "date": "July 21, 2026",
+    "icon": "fas fa-trophy"
+  },
+  {
     "title": "99 Fishing",
     "member": "duriel ghost",
     "category": "skill",
@@ -292,6 +292,14 @@
     "member": "duriel ghost",
     "category": "skill",
     "desc": "Unlocked 99 Firemaking achievement.",
+    "date": "July 21, 2026",
+    "icon": "fas fa-trophy"
+  },
+  {
+    "title": "99 Farming",
+    "member": "duriel ghost",
+    "category": "skill",
+    "desc": "Unlocked 99 Farming achievement.",
     "date": "July 21, 2026",
     "icon": "fas fa-trophy"
   },
@@ -376,14 +384,6 @@
     "icon": "fas fa-trophy"
   },
   {
-    "title": "500 Clue Scrolls All kills",
-    "member": "shadedwizard",
-    "category": "drop",
-    "desc": "Unlocked 500 Clue Scrolls All kills achievement.",
-    "date": "July 19, 2026",
-    "icon": "fas fa-skull"
-  },
-  {
     "title": "500 Collection Log Slots",
     "member": "shadedwizard",
     "category": "milestone",
@@ -392,11 +392,11 @@
     "icon": "fas fa-box-open"
   },
   {
-    "title": "99 Magic",
-    "member": "Squiddy btw",
-    "category": "skill",
-    "desc": "Unlocked 99 Magic achievement.",
+    "title": "500 Clue Scrolls All kills",
+    "member": "shadedwizard",
+    "category": "drop",
+    "desc": "Unlocked 500 Clue Scrolls All kills achievement.",
     "date": "July 19, 2026",
-    "icon": "fas fa-trophy"
+    "icon": "fas fa-skull"
   }
 ]
