@@ -1,5 +1,13 @@
 [
   {
+    "title": "100 The Corrupted Gauntlet kills",
+    "member": "Dark Minds",
+    "category": "drop",
+    "desc": "Unlocked 100 The Corrupted Gauntlet kills achievement.",
+    "date": "July 29, 2026",
+    "icon": "fas fa-skull"
+  },
+  {
     "title": "1000 Kraken kills",
     "member": "frostdblaze",
     "category": "drop",
@@ -248,18 +256,18 @@
     "icon": "fas fa-trophy"
   },
   {
-    "title": "99 Hunter",
-    "member": "duriel ghost",
-    "category": "skill",
-    "desc": "Unlocked 99 Hunter achievement.",
-    "date": "July 21, 2026",
-    "icon": "fas fa-trophy"
-  },
-  {
     "title": "99 Smithing",
     "member": "duriel ghost",
     "category": "skill",
     "desc": "Unlocked 99 Smithing achievement.",
+    "date": "July 21, 2026",
+    "icon": "fas fa-trophy"
+  },
+  {
+    "title": "99 Hunter",
+    "member": "duriel ghost",
+    "category": "skill",
+    "desc": "Unlocked 99 Hunter achievement.",
     "date": "July 21, 2026",
     "icon": "fas fa-trophy"
   },
@@ -388,14 +396,6 @@
     "member": "jnic",
     "category": "drop",
     "desc": "Unlocked 500 Chaos Elemental kills achievement.",
-    "date": "July 18, 2026",
-    "icon": "fas fa-skull"
-  },
-  {
-    "title": "50 Hespori kills",
-    "member": "Yatted",
-    "category": "drop",
-    "desc": "Unlocked 50 Hespori kills achievement.",
     "date": "July 18, 2026",
     "icon": "fas fa-skull"
   }
