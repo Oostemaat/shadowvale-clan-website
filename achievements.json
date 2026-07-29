@@ -1,5 +1,13 @@
 [
   {
+    "title": "1000 Kraken kills",
+    "member": "frostdblaze",
+    "category": "drop",
+    "desc": "Unlocked 1000 Kraken kills achievement.",
+    "date": "July 29, 2026",
+    "icon": "fas fa-skull"
+  },
+  {
     "title": "99 Strength",
     "member": "youngninja",
     "category": "skill",
@@ -388,14 +396,6 @@
     "member": "Yatted",
     "category": "drop",
     "desc": "Unlocked 50 Hespori kills achievement.",
-    "date": "July 18, 2026",
-    "icon": "fas fa-skull"
-  },
-  {
-    "title": "500 Hespori kills",
-    "member": "ComingHome",
-    "category": "drop",
-    "desc": "Unlocked 500 Hespori kills achievement.",
     "date": "July 18, 2026",
     "icon": "fas fa-skull"
   }
