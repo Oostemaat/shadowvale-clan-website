@@ -1,5 +1,13 @@
 [
   {
+    "title": "99 Defence",
+    "member": "argetdraco",
+    "category": "skill",
+    "desc": "Unlocked 99 Defence achievement.",
+    "date": "July 29, 2026",
+    "icon": "fas fa-trophy"
+  },
+  {
     "title": "100 The Corrupted Gauntlet kills",
     "member": "Dark Minds",
     "category": "drop",
@@ -390,13 +398,5 @@
     "desc": "Unlocked 99 Magic achievement.",
     "date": "July 19, 2026",
     "icon": "fas fa-trophy"
-  },
-  {
-    "title": "500 Chaos Elemental kills",
-    "member": "jnic",
-    "category": "drop",
-    "desc": "Unlocked 500 Chaos Elemental kills achievement.",
-    "date": "July 18, 2026",
-    "icon": "fas fa-skull"
   }
 ]
