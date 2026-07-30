@@ -1,5 +1,13 @@
 [
   {
+    "title": "100 The Corrupted Gauntlet kills",
+    "member": "youngninja",
+    "category": "drop",
+    "desc": "Unlocked 100 The Corrupted Gauntlet kills achievement.",
+    "date": "July 30, 2026",
+    "icon": "fas fa-skull"
+  },
+  {
     "title": "Base 60 Stats",
     "member": "dumblycanroc",
     "category": "skill",
@@ -390,13 +398,5 @@
     "desc": "Unlocked Base 60 Stats achievement.",
     "date": "July 19, 2026",
     "icon": "fas fa-trophy"
-  },
-  {
-    "title": "500 Collection Log Slots",
-    "member": "shadedwizard",
-    "category": "milestone",
-    "desc": "Unlocked 500 Collection Log Slots achievement.",
-    "date": "July 19, 2026",
-    "icon": "fas fa-box-open"
   }
 ]
