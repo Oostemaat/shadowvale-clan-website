@@ -1,5 +1,13 @@
 [
   {
+    "title": "Base 60 Stats",
+    "member": "y1non",
+    "category": "skill",
+    "desc": "Unlocked Base 60 Stats achievement.",
+    "date": "July 30, 2026",
+    "icon": "fas fa-trophy"
+  },
+  {
     "title": "100 Brutus kills",
     "member": "5DMG",
     "category": "drop",
@@ -388,14 +396,6 @@
     "member": "Jmnz88",
     "category": "skill",
     "desc": "Unlocked 99 Slayer achievement.",
-    "date": "July 19, 2026",
-    "icon": "fas fa-trophy"
-  },
-  {
-    "title": "99 Magic",
-    "member": "ADHDasFUUUUU",
-    "category": "skill",
-    "desc": "Unlocked 99 Magic achievement.",
     "date": "July 19, 2026",
     "icon": "fas fa-trophy"
   }
