@@ -280,10 +280,10 @@
     "icon": "fas fa-trophy"
   },
   {
-    "title": "99 Farming",
+    "title": "99 Hunter",
     "member": "duriel ghost",
     "category": "skill",
-    "desc": "Unlocked 99 Farming achievement.",
+    "desc": "Unlocked 99 Hunter achievement.",
     "date": "July 21, 2026",
     "icon": "fas fa-trophy"
   },
@@ -296,10 +296,10 @@
     "icon": "fas fa-trophy"
   },
   {
-    "title": "200m Overall Exp.",
+    "title": "99 Fishing",
     "member": "duriel ghost",
     "category": "skill",
-    "desc": "Unlocked 200m Overall Exp. achievement.",
+    "desc": "Unlocked 99 Fishing achievement.",
     "date": "July 21, 2026",
     "icon": "fas fa-trophy"
   },
@@ -312,18 +312,18 @@
     "icon": "fas fa-trophy"
   },
   {
-    "title": "99 Hunter",
+    "title": "99 Farming",
     "member": "duriel ghost",
     "category": "skill",
-    "desc": "Unlocked 99 Hunter achievement.",
+    "desc": "Unlocked 99 Farming achievement.",
     "date": "July 21, 2026",
     "icon": "fas fa-trophy"
   },
   {
-    "title": "99 Fishing",
+    "title": "200m Overall Exp.",
     "member": "duriel ghost",
     "category": "skill",
-    "desc": "Unlocked 99 Fishing achievement.",
+    "desc": "Unlocked 200m Overall Exp. achievement.",
     "date": "July 21, 2026",
     "icon": "fas fa-trophy"
   },
