@@ -1,6 +1,14 @@
 [
   {
     "title": "Base 60 Stats",
+    "member": "jnic",
+    "category": "skill",
+    "desc": "Unlocked Base 60 Stats achievement.",
+    "date": "July 30, 2026",
+    "icon": "fas fa-trophy"
+  },
+  {
+    "title": "Base 60 Stats",
     "member": "y1non",
     "category": "skill",
     "desc": "Unlocked Base 60 Stats achievement.",
@@ -232,20 +240,20 @@
     "icon": "fas fa-skull"
   },
   {
-    "title": "500 Yama kills",
-    "member": "diggitydog10",
-    "category": "drop",
-    "desc": "Unlocked 500 Yama kills achievement.",
-    "date": "July 23, 2026",
-    "icon": "fas fa-skull"
-  },
-  {
     "title": "100m Overall Exp.",
     "member": "diggitydog10",
     "category": "skill",
     "desc": "Unlocked 100m Overall Exp. achievement.",
     "date": "July 23, 2026",
     "icon": "fas fa-trophy"
+  },
+  {
+    "title": "500 Yama kills",
+    "member": "diggitydog10",
+    "category": "drop",
+    "desc": "Unlocked 500 Yama kills achievement.",
+    "date": "July 23, 2026",
+    "icon": "fas fa-skull"
   },
   {
     "title": "100,000,000 Ranged Exp.",
@@ -390,13 +398,5 @@
     "desc": "Unlocked 100 Tombs Of Amascut Expert kills achievement.",
     "date": "July 19, 2026",
     "icon": "fas fa-skull"
-  },
-  {
-    "title": "99 Slayer",
-    "member": "Jmnz88",
-    "category": "skill",
-    "desc": "Unlocked 99 Slayer achievement.",
-    "date": "July 19, 2026",
-    "icon": "fas fa-trophy"
   }
 ]
