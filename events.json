@@ -134,5 +134,13 @@
     "startIso": "2026-08-28T16:00:00.000Z",
     "icon": "fas fa-calendar-alt",
     "host": "Discord Bot"
+  },
+  {
+    "title": "RAFFLE TIME",
+    "subtitle": "Duration: 122h",
+    "date": "2026-08-10",
+    "startIso": "2026-08-10T18:00:00.000Z",
+    "icon": "fas fa-calendar-alt",
+    "host": "Discord Bot"
   }
 ]
