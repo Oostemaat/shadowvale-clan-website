@@ -70,5 +70,45 @@
     "startIso": "2026-08-06T19:00:00.000Z",
     "icon": "fas fa-book",
     "host": "Discord Bot"
+  },
+  {
+    "title": "HUEY",
+    "subtitle": "CLAN EVENT",
+    "date": "2026-08-11",
+    "startIso": "2026-08-11T22:45:00.000Z",
+    "icon": "fas fa-calendar-alt",
+    "host": "Discord Bot"
+  },
+  {
+    "title": "CORP MASS",
+    "subtitle": "CLAN EVENT",
+    "date": "2026-08-14",
+    "startIso": "2026-08-14T19:30:00.000Z",
+    "icon": "fas fa-skull",
+    "host": "Discord Bot"
+  },
+  {
+    "title": "HC BOTW - COX",
+    "subtitle": "Duration: 168h",
+    "date": "2026-08-17",
+    "startIso": "2026-08-17T16:00:00.000Z",
+    "icon": "fas fa-dragon",
+    "host": "Discord Bot"
+  },
+  {
+    "title": "RAID TEACHING WITH CUMSWARM",
+    "subtitle": "CLAN EVENT",
+    "date": "2026-07-31",
+    "startIso": "2026-07-31T22:00:00.505Z",
+    "icon": "fas fa-calendar-alt",
+    "host": "Discord Bot"
+  },
+  {
+    "title": "COX / CM",
+    "subtitle": "CLAN EVENT",
+    "date": "2026-08-21",
+    "startIso": "2026-08-21T18:00:00.000Z",
+    "icon": "fas fa-dragon",
+    "host": "Discord Bot"
   }
 ]
