@@ -110,5 +110,29 @@
     "startIso": "2026-08-21T18:00:00.000Z",
     "icon": "fas fa-dragon",
     "host": "Discord Bot"
+  },
+  {
+    "title": "TEMPOROSS",
+    "subtitle": "CLAN EVENT",
+    "date": "2026-08-25",
+    "startIso": "2026-08-25T15:30:00.000Z",
+    "icon": "fas fa-calendar-alt",
+    "host": "Discord Bot"
+  },
+  {
+    "title": "CLAN FUND BOSSING",
+    "subtitle": "CLAN EVENT",
+    "date": "2026-08-27",
+    "startIso": "2026-08-27T19:00:00.000Z",
+    "icon": "fas fa-skull",
+    "host": "Discord Bot"
+  },
+  {
+    "title": "GODWARS",
+    "subtitle": "CLAN EVENT",
+    "date": "2026-08-28",
+    "startIso": "2026-08-28T16:00:00.000Z",
+    "icon": "fas fa-calendar-alt",
+    "host": "Discord Bot"
   }
 ]
