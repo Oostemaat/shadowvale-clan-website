@@ -1,41 +1,17 @@
 [
   {
+    "title": "18m Overall Exp.",
+    "member": "guzanator",
+    "category": "skill",
+    "desc": "Unlocked 18m Overall Exp. achievement.",
+    "date": "August 2, 2026",
+    "icon": "fas fa-trophy"
+  },
+  {
     "title": "99 Strength",
     "member": "ryanwri",
     "category": "skill",
     "desc": "Unlocked 99 Strength achievement.",
-    "date": "August 1, 2026",
-    "icon": "fas fa-trophy"
-  },
-  {
-    "title": "500 Yama kills",
-    "member": "ryanwri",
-    "category": "drop",
-    "desc": "Unlocked 500 Yama kills achievement.",
-    "date": "August 1, 2026",
-    "icon": "fas fa-skull"
-  },
-  {
-    "title": "99 Ranged",
-    "member": "ryanwri",
-    "category": "skill",
-    "desc": "Unlocked 99 Ranged achievement.",
-    "date": "August 1, 2026",
-    "icon": "fas fa-trophy"
-  },
-  {
-    "title": "99 Hitpoints",
-    "member": "ryanwri",
-    "category": "skill",
-    "desc": "Unlocked 99 Hitpoints achievement.",
-    "date": "August 1, 2026",
-    "icon": "fas fa-trophy"
-  },
-  {
-    "title": "99 Attack",
-    "member": "ryanwri",
-    "category": "skill",
-    "desc": "Unlocked 99 Attack achievement.",
     "date": "August 1, 2026",
     "icon": "fas fa-trophy"
   },
@@ -56,10 +32,42 @@
     "icon": "fas fa-trophy"
   },
   {
+    "title": "99 Ranged",
+    "member": "ryanwri",
+    "category": "skill",
+    "desc": "Unlocked 99 Ranged achievement.",
+    "date": "August 1, 2026",
+    "icon": "fas fa-trophy"
+  },
+  {
+    "title": "99 Attack",
+    "member": "ryanwri",
+    "category": "skill",
+    "desc": "Unlocked 99 Attack achievement.",
+    "date": "August 1, 2026",
+    "icon": "fas fa-trophy"
+  },
+  {
     "title": "100m Overall Exp.",
     "member": "ryanwri",
     "category": "skill",
     "desc": "Unlocked 100m Overall Exp. achievement.",
+    "date": "August 1, 2026",
+    "icon": "fas fa-trophy"
+  },
+  {
+    "title": "500 Yama kills",
+    "member": "ryanwri",
+    "category": "drop",
+    "desc": "Unlocked 500 Yama kills achievement.",
+    "date": "August 1, 2026",
+    "icon": "fas fa-skull"
+  },
+  {
+    "title": "99 Hitpoints",
+    "member": "ryanwri",
+    "category": "skill",
+    "desc": "Unlocked 99 Hitpoints achievement.",
     "date": "August 1, 2026",
     "icon": "fas fa-trophy"
   },
@@ -72,42 +80,18 @@
     "icon": "fas fa-trophy"
   },
   {
-    "title": "18m Overall Exp.",
+    "title": "100 Brutus kills",
     "member": "hufe",
-    "category": "skill",
-    "desc": "Unlocked 18m Overall Exp. achievement.",
+    "category": "drop",
+    "desc": "Unlocked 100 Brutus kills achievement.",
     "date": "July 31, 2026",
-    "icon": "fas fa-trophy"
+    "icon": "fas fa-skull"
   },
   {
     "title": "100 Hespori kills",
     "member": "hufe",
     "category": "drop",
     "desc": "Unlocked 100 Hespori kills achievement.",
-    "date": "July 31, 2026",
-    "icon": "fas fa-skull"
-  },
-  {
-    "title": "99 Farming",
-    "member": "hufe",
-    "category": "skill",
-    "desc": "Unlocked 99 Farming achievement.",
-    "date": "July 31, 2026",
-    "icon": "fas fa-trophy"
-  },
-  {
-    "title": "48m Overall Exp.",
-    "member": "hufe",
-    "category": "skill",
-    "desc": "Unlocked 48m Overall Exp. achievement.",
-    "date": "July 31, 2026",
-    "icon": "fas fa-trophy"
-  },
-  {
-    "title": "500 Yama kills",
-    "member": "hufe",
-    "category": "drop",
-    "desc": "Unlocked 500 Yama kills achievement.",
     "date": "July 31, 2026",
     "icon": "fas fa-skull"
   },
@@ -120,6 +104,14 @@
     "icon": "fas fa-skull"
   },
   {
+    "title": "500 Yama kills",
+    "member": "hufe",
+    "category": "drop",
+    "desc": "Unlocked 500 Yama kills achievement.",
+    "date": "July 31, 2026",
+    "icon": "fas fa-skull"
+  },
+  {
     "title": "99 Attack",
     "member": "hufe",
     "category": "skill",
@@ -128,18 +120,34 @@
     "icon": "fas fa-trophy"
   },
   {
-    "title": "100 Brutus kills",
+    "title": "48m Overall Exp.",
     "member": "hufe",
-    "category": "drop",
-    "desc": "Unlocked 100 Brutus kills achievement.",
+    "category": "skill",
+    "desc": "Unlocked 48m Overall Exp. achievement.",
     "date": "July 31, 2026",
-    "icon": "fas fa-skull"
+    "icon": "fas fa-trophy"
+  },
+  {
+    "title": "18m Overall Exp.",
+    "member": "hufe",
+    "category": "skill",
+    "desc": "Unlocked 18m Overall Exp. achievement.",
+    "date": "July 31, 2026",
+    "icon": "fas fa-trophy"
   },
   {
     "title": "Base 60 Stats",
     "member": "hufe",
     "category": "skill",
     "desc": "Unlocked Base 60 Stats achievement.",
+    "date": "July 31, 2026",
+    "icon": "fas fa-trophy"
+  },
+  {
+    "title": "99 Farming",
+    "member": "hufe",
+    "category": "skill",
+    "desc": "Unlocked 99 Farming achievement.",
     "date": "July 31, 2026",
     "icon": "fas fa-trophy"
   },
@@ -382,14 +390,6 @@
     "desc": "Unlocked 500 Thermonuclear Smoke Devil kills achievement.",
     "date": "July 23, 2026",
     "icon": "fas fa-skull"
-  },
-  {
-    "title": "100m Overall Exp.",
-    "member": "diggitydog10",
-    "category": "skill",
-    "desc": "Unlocked 100m Overall Exp. achievement.",
-    "date": "July 23, 2026",
-    "icon": "fas fa-trophy"
   },
   {
     "title": "500 Yama kills",
