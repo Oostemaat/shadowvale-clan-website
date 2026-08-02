@@ -142,5 +142,13 @@
     "startIso": "2026-08-10T18:00:00.000Z",
     "icon": "fas fa-calendar-alt",
     "host": "Discord Bot"
+  },
+  {
+    "title": "HOFFS BALLISTA PK EVENT",
+    "subtitle": "CLAN EVENT",
+    "date": "2026-08-02",
+    "startIso": "2026-08-02T18:00:00.691Z",
+    "icon": "fas fa-calendar-alt",
+    "host": "Discord Bot"
   }
 ]
