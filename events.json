@@ -150,5 +150,13 @@
     "startIso": "2026-08-07T22:00:00.000Z",
     "icon": "fas fa-book",
     "host": "Discord Bot"
+  },
+  {
+    "title": "COX LEARNERS",
+    "subtitle": "CLAN EVENT",
+    "date": "2026-08-08",
+    "startIso": "2026-08-08T01:00:00.000Z",
+    "icon": "fas fa-dragon",
+    "host": "Discord Bot"
   }
 ]
