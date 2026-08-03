@@ -1,5 +1,13 @@
 [
   {
+    "title": "1000 Alchemical Hydra kills",
+    "member": "statgrabber1",
+    "category": "drop",
+    "desc": "Unlocked 1000 Alchemical Hydra kills achievement.",
+    "date": "August 3, 2026",
+    "icon": "fas fa-skull"
+  },
+  {
     "title": "500 The Leviathan kills",
     "member": "crippled2k87",
     "category": "drop",
@@ -40,18 +48,18 @@
     "icon": "fas fa-trophy"
   },
   {
-    "title": "99 Attack",
-    "member": "ryanwri",
-    "category": "skill",
-    "desc": "Unlocked 99 Attack achievement.",
-    "date": "August 1, 2026",
-    "icon": "fas fa-trophy"
-  },
-  {
     "title": "99 Strength",
     "member": "ryanwri",
     "category": "skill",
     "desc": "Unlocked 99 Strength achievement.",
+    "date": "August 1, 2026",
+    "icon": "fas fa-trophy"
+  },
+  {
+    "title": "99 Attack",
+    "member": "ryanwri",
+    "category": "skill",
+    "desc": "Unlocked 99 Attack achievement.",
     "date": "August 1, 2026",
     "icon": "fas fa-trophy"
   },
@@ -88,6 +96,14 @@
     "icon": "fas fa-trophy"
   },
   {
+    "title": "500 Yama kills",
+    "member": "hufe",
+    "category": "drop",
+    "desc": "Unlocked 500 Yama kills achievement.",
+    "date": "July 31, 2026",
+    "icon": "fas fa-skull"
+  },
+  {
     "title": "100 Brutus kills",
     "member": "hufe",
     "category": "drop",
@@ -104,14 +120,6 @@
     "icon": "fas fa-trophy"
   },
   {
-    "title": "500 Yama kills",
-    "member": "hufe",
-    "category": "drop",
-    "desc": "Unlocked 500 Yama kills achievement.",
-    "date": "July 31, 2026",
-    "icon": "fas fa-skull"
-  },
-  {
     "title": "100 Hespori kills",
     "member": "hufe",
     "category": "drop",
@@ -120,12 +128,12 @@
     "icon": "fas fa-skull"
   },
   {
-    "title": "99 Attack",
+    "title": "1000 Yama kills",
     "member": "hufe",
-    "category": "skill",
-    "desc": "Unlocked 99 Attack achievement.",
+    "category": "drop",
+    "desc": "Unlocked 1000 Yama kills achievement.",
     "date": "July 31, 2026",
-    "icon": "fas fa-trophy"
+    "icon": "fas fa-skull"
   },
   {
     "title": "Base 60 Stats",
@@ -136,10 +144,10 @@
     "icon": "fas fa-trophy"
   },
   {
-    "title": "99 Farming",
+    "title": "99 Attack",
     "member": "hufe",
     "category": "skill",
-    "desc": "Unlocked 99 Farming achievement.",
+    "desc": "Unlocked 99 Attack achievement.",
     "date": "July 31, 2026",
     "icon": "fas fa-trophy"
   },
@@ -152,12 +160,12 @@
     "icon": "fas fa-trophy"
   },
   {
-    "title": "1000 Yama kills",
+    "title": "99 Farming",
     "member": "hufe",
-    "category": "drop",
-    "desc": "Unlocked 1000 Yama kills achievement.",
+    "category": "skill",
+    "desc": "Unlocked 99 Farming achievement.",
     "date": "July 31, 2026",
-    "icon": "fas fa-skull"
+    "icon": "fas fa-trophy"
   },
   {
     "title": "Base 60 Stats",
@@ -388,14 +396,6 @@
     "member": "AlexLix",
     "category": "drop",
     "desc": "Unlocked 1000 Vorkath kills achievement.",
-    "date": "July 23, 2026",
-    "icon": "fas fa-skull"
-  },
-  {
-    "title": "500 Thermonuclear Smoke Devil kills",
-    "member": "frostdblaze",
-    "category": "drop",
-    "desc": "Unlocked 500 Thermonuclear Smoke Devil kills achievement.",
     "date": "July 23, 2026",
     "icon": "fas fa-skull"
   }
