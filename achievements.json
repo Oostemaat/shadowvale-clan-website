@@ -1,5 +1,13 @@
 [
   {
+    "title": "Base 60 Stats",
+    "member": "snuffles11",
+    "category": "skill",
+    "desc": "Unlocked Base 60 Stats achievement.",
+    "date": "August 6, 2026",
+    "icon": "fas fa-trophy"
+  },
+  {
     "title": "1000 Maggot King kills",
     "member": "Manswarm",
     "category": "drop",
@@ -8,18 +16,18 @@
     "icon": "fas fa-skull"
   },
   {
-    "title": "99 Strength",
-    "member": "Jearbear1821",
-    "category": "skill",
-    "desc": "Unlocked 99 Strength achievement.",
-    "date": "August 5, 2026",
-    "icon": "fas fa-trophy"
-  },
-  {
     "title": "99 Hitpoints",
     "member": "Jearbear1821",
     "category": "skill",
     "desc": "Unlocked 99 Hitpoints achievement.",
+    "date": "August 5, 2026",
+    "icon": "fas fa-trophy"
+  },
+  {
+    "title": "99 Strength",
+    "member": "Jearbear1821",
+    "category": "skill",
+    "desc": "Unlocked 99 Strength achievement.",
     "date": "August 5, 2026",
     "icon": "fas fa-trophy"
   },
@@ -120,14 +128,6 @@
     "icon": "fas fa-trophy"
   },
   {
-    "title": "99 Ranged",
-    "member": "ryanwri",
-    "category": "skill",
-    "desc": "Unlocked 99 Ranged achievement.",
-    "date": "August 1, 2026",
-    "icon": "fas fa-trophy"
-  },
-  {
     "title": "500 Yama kills",
     "member": "ryanwri",
     "category": "drop",
@@ -136,12 +136,12 @@
     "icon": "fas fa-skull"
   },
   {
-    "title": "99 Strength",
+    "title": "500 Araxxor kills",
     "member": "ryanwri",
-    "category": "skill",
-    "desc": "Unlocked 99 Strength achievement.",
+    "category": "drop",
+    "desc": "Unlocked 500 Araxxor kills achievement.",
     "date": "August 1, 2026",
-    "icon": "fas fa-trophy"
+    "icon": "fas fa-skull"
   },
   {
     "title": "99 Attack",
@@ -152,10 +152,18 @@
     "icon": "fas fa-trophy"
   },
   {
-    "title": "99 Magic",
+    "title": "99 Ranged",
     "member": "ryanwri",
     "category": "skill",
-    "desc": "Unlocked 99 Magic achievement.",
+    "desc": "Unlocked 99 Ranged achievement.",
+    "date": "August 1, 2026",
+    "icon": "fas fa-trophy"
+  },
+  {
+    "title": "99 Hitpoints",
+    "member": "ryanwri",
+    "category": "skill",
+    "desc": "Unlocked 99 Hitpoints achievement.",
     "date": "August 1, 2026",
     "icon": "fas fa-trophy"
   },
@@ -168,18 +176,18 @@
     "icon": "fas fa-trophy"
   },
   {
-    "title": "500 Araxxor kills",
-    "member": "ryanwri",
-    "category": "drop",
-    "desc": "Unlocked 500 Araxxor kills achievement.",
-    "date": "August 1, 2026",
-    "icon": "fas fa-skull"
-  },
-  {
-    "title": "99 Hitpoints",
+    "title": "99 Magic",
     "member": "ryanwri",
     "category": "skill",
-    "desc": "Unlocked 99 Hitpoints achievement.",
+    "desc": "Unlocked 99 Magic achievement.",
+    "date": "August 1, 2026",
+    "icon": "fas fa-trophy"
+  },
+  {
+    "title": "99 Strength",
+    "member": "ryanwri",
+    "category": "skill",
+    "desc": "Unlocked 99 Strength achievement.",
     "date": "August 1, 2026",
     "icon": "fas fa-trophy"
   },
@@ -388,14 +396,6 @@
     "member": "Yatted",
     "category": "skill",
     "desc": "Unlocked Base 60 Stats achievement.",
-    "date": "July 27, 2026",
-    "icon": "fas fa-trophy"
-  },
-  {
-    "title": "100m Overall Exp.",
-    "member": "cbrkenny",
-    "category": "skill",
-    "desc": "Unlocked 100m Overall Exp. achievement.",
     "date": "July 27, 2026",
     "icon": "fas fa-trophy"
   }
