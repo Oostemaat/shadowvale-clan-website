@@ -1,17 +1,25 @@
 [
   {
-    "title": "99 Hitpoints",
-    "member": "Jearbear1821",
-    "category": "skill",
-    "desc": "Unlocked 99 Hitpoints achievement.",
-    "date": "August 5, 2026",
-    "icon": "fas fa-trophy"
+    "title": "1000 Maggot King kills",
+    "member": "Manswarm",
+    "category": "drop",
+    "desc": "Unlocked 1000 Maggot King kills achievement.",
+    "date": "August 6, 2026",
+    "icon": "fas fa-skull"
   },
   {
     "title": "99 Strength",
     "member": "Jearbear1821",
     "category": "skill",
     "desc": "Unlocked 99 Strength achievement.",
+    "date": "August 5, 2026",
+    "icon": "fas fa-trophy"
+  },
+  {
+    "title": "99 Hitpoints",
+    "member": "Jearbear1821",
+    "category": "skill",
+    "desc": "Unlocked 99 Hitpoints achievement.",
     "date": "August 5, 2026",
     "icon": "fas fa-trophy"
   },
@@ -120,6 +128,14 @@
     "icon": "fas fa-trophy"
   },
   {
+    "title": "500 Yama kills",
+    "member": "ryanwri",
+    "category": "drop",
+    "desc": "Unlocked 500 Yama kills achievement.",
+    "date": "August 1, 2026",
+    "icon": "fas fa-skull"
+  },
+  {
     "title": "99 Strength",
     "member": "ryanwri",
     "category": "skill",
@@ -128,12 +144,12 @@
     "icon": "fas fa-trophy"
   },
   {
-    "title": "500 Yama kills",
+    "title": "99 Attack",
     "member": "ryanwri",
-    "category": "drop",
-    "desc": "Unlocked 500 Yama kills achievement.",
+    "category": "skill",
+    "desc": "Unlocked 99 Attack achievement.",
     "date": "August 1, 2026",
-    "icon": "fas fa-skull"
+    "icon": "fas fa-trophy"
   },
   {
     "title": "99 Magic",
@@ -148,14 +164,6 @@
     "member": "ryanwri",
     "category": "skill",
     "desc": "Unlocked 100m Overall Exp. achievement.",
-    "date": "August 1, 2026",
-    "icon": "fas fa-trophy"
-  },
-  {
-    "title": "99 Attack",
-    "member": "ryanwri",
-    "category": "skill",
-    "desc": "Unlocked 99 Attack achievement.",
     "date": "August 1, 2026",
     "icon": "fas fa-trophy"
   },
@@ -184,18 +192,18 @@
     "icon": "fas fa-trophy"
   },
   {
+    "title": "100 Brutus kills",
+    "member": "hufe",
+    "category": "drop",
+    "desc": "Unlocked 100 Brutus kills achievement.",
+    "date": "July 31, 2026",
+    "icon": "fas fa-skull"
+  },
+  {
     "title": "Base 60 Stats",
     "member": "hufe",
     "category": "skill",
     "desc": "Unlocked Base 60 Stats achievement.",
-    "date": "July 31, 2026",
-    "icon": "fas fa-trophy"
-  },
-  {
-    "title": "48m Overall Exp.",
-    "member": "hufe",
-    "category": "skill",
-    "desc": "Unlocked 48m Overall Exp. achievement.",
     "date": "July 31, 2026",
     "icon": "fas fa-trophy"
   },
@@ -208,12 +216,20 @@
     "icon": "fas fa-trophy"
   },
   {
-    "title": "100 Brutus kills",
+    "title": "1000 Yama kills",
     "member": "hufe",
     "category": "drop",
-    "desc": "Unlocked 100 Brutus kills achievement.",
+    "desc": "Unlocked 1000 Yama kills achievement.",
     "date": "July 31, 2026",
     "icon": "fas fa-skull"
+  },
+  {
+    "title": "48m Overall Exp.",
+    "member": "hufe",
+    "category": "skill",
+    "desc": "Unlocked 48m Overall Exp. achievement.",
+    "date": "July 31, 2026",
+    "icon": "fas fa-trophy"
   },
   {
     "title": "500 Yama kills",
@@ -224,18 +240,10 @@
     "icon": "fas fa-skull"
   },
   {
-    "title": "99 Attack",
-    "member": "hufe",
-    "category": "skill",
-    "desc": "Unlocked 99 Attack achievement.",
-    "date": "July 31, 2026",
-    "icon": "fas fa-trophy"
-  },
-  {
-    "title": "1000 Yama kills",
+    "title": "100 Hespori kills",
     "member": "hufe",
     "category": "drop",
-    "desc": "Unlocked 1000 Yama kills achievement.",
+    "desc": "Unlocked 100 Hespori kills achievement.",
     "date": "July 31, 2026",
     "icon": "fas fa-skull"
   },
@@ -248,12 +256,12 @@
     "icon": "fas fa-trophy"
   },
   {
-    "title": "100 Hespori kills",
+    "title": "99 Attack",
     "member": "hufe",
-    "category": "drop",
-    "desc": "Unlocked 100 Hespori kills achievement.",
+    "category": "skill",
+    "desc": "Unlocked 99 Attack achievement.",
     "date": "July 31, 2026",
-    "icon": "fas fa-skull"
+    "icon": "fas fa-trophy"
   },
   {
     "title": "Base 60 Stats",
@@ -388,14 +396,6 @@
     "member": "cbrkenny",
     "category": "skill",
     "desc": "Unlocked 100m Overall Exp. achievement.",
-    "date": "July 27, 2026",
-    "icon": "fas fa-trophy"
-  },
-  {
-    "title": "99 Fishing",
-    "member": "PewPewPachu",
-    "category": "skill",
-    "desc": "Unlocked 99 Fishing achievement.",
     "date": "July 27, 2026",
     "icon": "fas fa-trophy"
   }
