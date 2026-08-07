@@ -1,5 +1,13 @@
 [
   {
+    "title": "1000 The Royal Titans kills",
+    "member": "cbrkenny",
+    "category": "drop",
+    "desc": "Unlocked 1000 The Royal Titans kills achievement.",
+    "date": "August 7, 2026",
+    "icon": "fas fa-skull"
+  },
+  {
     "title": "100 Brutus kills",
     "member": "nylawen",
     "category": "drop",
@@ -136,14 +144,6 @@
     "icon": "fas fa-trophy"
   },
   {
-    "title": "500 Araxxor kills",
-    "member": "ryanwri",
-    "category": "drop",
-    "desc": "Unlocked 500 Araxxor kills achievement.",
-    "date": "August 1, 2026",
-    "icon": "fas fa-skull"
-  },
-  {
     "title": "99 Magic",
     "member": "ryanwri",
     "category": "skill",
@@ -156,6 +156,14 @@
     "member": "ryanwri",
     "category": "skill",
     "desc": "Unlocked 100m Overall Exp. achievement.",
+    "date": "August 1, 2026",
+    "icon": "fas fa-trophy"
+  },
+  {
+    "title": "99 Hitpoints",
+    "member": "ryanwri",
+    "category": "skill",
+    "desc": "Unlocked 99 Hitpoints achievement.",
     "date": "August 1, 2026",
     "icon": "fas fa-trophy"
   },
@@ -184,20 +192,20 @@
     "icon": "fas fa-trophy"
   },
   {
-    "title": "99 Hitpoints",
-    "member": "ryanwri",
-    "category": "skill",
-    "desc": "Unlocked 99 Hitpoints achievement.",
-    "date": "August 1, 2026",
-    "icon": "fas fa-trophy"
-  },
-  {
     "title": "99 Attack",
     "member": "ryanwri",
     "category": "skill",
     "desc": "Unlocked 99 Attack achievement.",
     "date": "August 1, 2026",
     "icon": "fas fa-trophy"
+  },
+  {
+    "title": "500 Araxxor kills",
+    "member": "ryanwri",
+    "category": "drop",
+    "desc": "Unlocked 500 Araxxor kills achievement.",
+    "date": "August 1, 2026",
+    "icon": "fas fa-skull"
   },
   {
     "title": "99 Fletching",
@@ -388,14 +396,6 @@
     "member": "Void of Echo",
     "category": "drop",
     "desc": "Unlocked 100 The Corrupted Gauntlet kills achievement.",
-    "date": "July 27, 2026",
-    "icon": "fas fa-skull"
-  },
-  {
-    "title": "100 Lunar Chests",
-    "member": "Sk8err Sk",
-    "category": "drop",
-    "desc": "Unlocked 100 Lunar Chests achievement.",
     "date": "July 27, 2026",
     "icon": "fas fa-skull"
   }
