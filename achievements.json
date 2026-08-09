@@ -1,5 +1,13 @@
 [
   {
+    "title": "500 Shellbane Gryphon kills",
+    "member": "7up is ass",
+    "category": "drop",
+    "desc": "Unlocked 500 Shellbane Gryphon kills achievement.",
+    "date": "August 9, 2026",
+    "icon": "fas fa-skull"
+  },
+  {
     "title": "100 Brutus kills",
     "member": "lvl 420",
     "category": "drop",
@@ -104,18 +112,18 @@
     "icon": "fas fa-skull"
   },
   {
-    "title": "99 Hitpoints",
-    "member": "Jearbear1821",
-    "category": "skill",
-    "desc": "Unlocked 99 Hitpoints achievement.",
-    "date": "August 5, 2026",
-    "icon": "fas fa-trophy"
-  },
-  {
     "title": "99 Strength",
     "member": "Jearbear1821",
     "category": "skill",
     "desc": "Unlocked 99 Strength achievement.",
+    "date": "August 5, 2026",
+    "icon": "fas fa-trophy"
+  },
+  {
+    "title": "99 Hitpoints",
+    "member": "Jearbear1821",
+    "category": "skill",
+    "desc": "Unlocked 99 Hitpoints achievement.",
     "date": "August 5, 2026",
     "icon": "fas fa-trophy"
   },
@@ -388,14 +396,6 @@
     "member": "5DMG",
     "category": "drop",
     "desc": "Unlocked 100 Brutus kills achievement.",
-    "date": "July 30, 2026",
-    "icon": "fas fa-skull"
-  },
-  {
-    "title": "100 The Corrupted Gauntlet kills",
-    "member": "youngninja",
-    "category": "drop",
-    "desc": "Unlocked 100 The Corrupted Gauntlet kills achievement.",
     "date": "July 30, 2026",
     "icon": "fas fa-skull"
   }
