@@ -24,6 +24,14 @@
     "icon": "fas fa-trophy"
   },
   {
+    "title": "1000 Mad Angel kills",
+    "member": "mini smurf",
+    "category": "drop",
+    "desc": "Unlocked 1000 Mad Angel kills achievement.",
+    "date": "August 8, 2026",
+    "icon": "fas fa-skull"
+  },
+  {
     "title": "100 Clue Scrolls Master kills",
     "member": "kodakid98",
     "category": "drop",
@@ -96,18 +104,18 @@
     "icon": "fas fa-skull"
   },
   {
-    "title": "99 Strength",
-    "member": "Jearbear1821",
-    "category": "skill",
-    "desc": "Unlocked 99 Strength achievement.",
-    "date": "August 5, 2026",
-    "icon": "fas fa-trophy"
-  },
-  {
     "title": "99 Hitpoints",
     "member": "Jearbear1821",
     "category": "skill",
     "desc": "Unlocked 99 Hitpoints achievement.",
+    "date": "August 5, 2026",
+    "icon": "fas fa-trophy"
+  },
+  {
+    "title": "99 Strength",
+    "member": "Jearbear1821",
+    "category": "skill",
+    "desc": "Unlocked 99 Strength achievement.",
     "date": "August 5, 2026",
     "icon": "fas fa-trophy"
   },
@@ -132,6 +140,14 @@
     "member": "Naught",
     "category": "drop",
     "desc": "Unlocked 13034431 Sailing kills achievement.",
+    "date": "August 4, 2026",
+    "icon": "fas fa-skull"
+  },
+  {
+    "title": "500 Mad Angel kills",
+    "member": "mini smurf",
+    "category": "drop",
+    "desc": "Unlocked 500 Mad Angel kills achievement.",
     "date": "August 4, 2026",
     "icon": "fas fa-skull"
   },
@@ -208,10 +224,10 @@
     "icon": "fas fa-trophy"
   },
   {
-    "title": "100m Overall Exp.",
+    "title": "99 Magic",
     "member": "ryanwri",
     "category": "skill",
-    "desc": "Unlocked 100m Overall Exp. achievement.",
+    "desc": "Unlocked 99 Magic achievement.",
     "date": "August 1, 2026",
     "icon": "fas fa-trophy"
   },
@@ -222,30 +238,6 @@
     "desc": "Unlocked 500 Yama kills achievement.",
     "date": "August 1, 2026",
     "icon": "fas fa-skull"
-  },
-  {
-    "title": "99 Hitpoints",
-    "member": "ryanwri",
-    "category": "skill",
-    "desc": "Unlocked 99 Hitpoints achievement.",
-    "date": "August 1, 2026",
-    "icon": "fas fa-trophy"
-  },
-  {
-    "title": "99 Ranged",
-    "member": "ryanwri",
-    "category": "skill",
-    "desc": "Unlocked 99 Ranged achievement.",
-    "date": "August 1, 2026",
-    "icon": "fas fa-trophy"
-  },
-  {
-    "title": "99 Magic",
-    "member": "ryanwri",
-    "category": "skill",
-    "desc": "Unlocked 99 Magic achievement.",
-    "date": "August 1, 2026",
-    "icon": "fas fa-trophy"
   },
   {
     "title": "500 Araxxor kills",
@@ -268,6 +260,30 @@
     "member": "ryanwri",
     "category": "skill",
     "desc": "Unlocked 99 Strength achievement.",
+    "date": "August 1, 2026",
+    "icon": "fas fa-trophy"
+  },
+  {
+    "title": "99 Ranged",
+    "member": "ryanwri",
+    "category": "skill",
+    "desc": "Unlocked 99 Ranged achievement.",
+    "date": "August 1, 2026",
+    "icon": "fas fa-trophy"
+  },
+  {
+    "title": "100m Overall Exp.",
+    "member": "ryanwri",
+    "category": "skill",
+    "desc": "Unlocked 100m Overall Exp. achievement.",
+    "date": "August 1, 2026",
+    "icon": "fas fa-trophy"
+  },
+  {
+    "title": "99 Hitpoints",
+    "member": "ryanwri",
+    "category": "skill",
+    "desc": "Unlocked 99 Hitpoints achievement.",
     "date": "August 1, 2026",
     "icon": "fas fa-trophy"
   },
@@ -382,21 +398,5 @@
     "desc": "Unlocked 100 The Corrupted Gauntlet kills achievement.",
     "date": "July 30, 2026",
     "icon": "fas fa-skull"
-  },
-  {
-    "title": "Base 60 Stats",
-    "member": "dumblycanroc",
-    "category": "skill",
-    "desc": "Unlocked Base 60 Stats achievement.",
-    "date": "July 29, 2026",
-    "icon": "fas fa-trophy"
-  },
-  {
-    "title": "700 Collection Log Slots",
-    "member": "Manswarm",
-    "category": "milestone",
-    "desc": "Unlocked 700 Collection Log Slots achievement.",
-    "date": "July 29, 2026",
-    "icon": "fas fa-box-open"
   }
 ]
