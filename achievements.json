@@ -1,5 +1,13 @@
 [
   {
+    "title": "50,000,000 Hitpoints Exp.",
+    "member": "crippled2k87",
+    "category": "skill",
+    "desc": "Unlocked 50,000,000 Hitpoints Exp. achievement.",
+    "date": "August 9, 2026",
+    "icon": "fas fa-trophy"
+  },
+  {
     "title": "100 Clue Scrolls Master kills",
     "member": "kodakid98",
     "category": "drop",
@@ -72,18 +80,18 @@
     "icon": "fas fa-skull"
   },
   {
-    "title": "99 Hitpoints",
-    "member": "Jearbear1821",
-    "category": "skill",
-    "desc": "Unlocked 99 Hitpoints achievement.",
-    "date": "August 5, 2026",
-    "icon": "fas fa-trophy"
-  },
-  {
     "title": "99 Strength",
     "member": "Jearbear1821",
     "category": "skill",
     "desc": "Unlocked 99 Strength achievement.",
+    "date": "August 5, 2026",
+    "icon": "fas fa-trophy"
+  },
+  {
+    "title": "99 Hitpoints",
+    "member": "Jearbear1821",
+    "category": "skill",
+    "desc": "Unlocked 99 Hitpoints achievement.",
     "date": "August 5, 2026",
     "icon": "fas fa-trophy"
   },
@@ -184,18 +192,34 @@
     "icon": "fas fa-trophy"
   },
   {
-    "title": "99 Attack",
-    "member": "ryanwri",
-    "category": "skill",
-    "desc": "Unlocked 99 Attack achievement.",
-    "date": "August 1, 2026",
-    "icon": "fas fa-trophy"
-  },
-  {
     "title": "100m Overall Exp.",
     "member": "ryanwri",
     "category": "skill",
     "desc": "Unlocked 100m Overall Exp. achievement.",
+    "date": "August 1, 2026",
+    "icon": "fas fa-trophy"
+  },
+  {
+    "title": "500 Araxxor kills",
+    "member": "ryanwri",
+    "category": "drop",
+    "desc": "Unlocked 500 Araxxor kills achievement.",
+    "date": "August 1, 2026",
+    "icon": "fas fa-skull"
+  },
+  {
+    "title": "500 Yama kills",
+    "member": "ryanwri",
+    "category": "drop",
+    "desc": "Unlocked 500 Yama kills achievement.",
+    "date": "August 1, 2026",
+    "icon": "fas fa-skull"
+  },
+  {
+    "title": "99 Hitpoints",
+    "member": "ryanwri",
+    "category": "skill",
+    "desc": "Unlocked 99 Hitpoints achievement.",
     "date": "August 1, 2026",
     "icon": "fas fa-trophy"
   },
@@ -216,34 +240,18 @@
     "icon": "fas fa-trophy"
   },
   {
-    "title": "500 Araxxor kills",
+    "title": "99 Attack",
     "member": "ryanwri",
-    "category": "drop",
-    "desc": "Unlocked 500 Araxxor kills achievement.",
+    "category": "skill",
+    "desc": "Unlocked 99 Attack achievement.",
     "date": "August 1, 2026",
-    "icon": "fas fa-skull"
+    "icon": "fas fa-trophy"
   },
   {
     "title": "99 Strength",
     "member": "ryanwri",
     "category": "skill",
     "desc": "Unlocked 99 Strength achievement.",
-    "date": "August 1, 2026",
-    "icon": "fas fa-trophy"
-  },
-  {
-    "title": "500 Yama kills",
-    "member": "ryanwri",
-    "category": "drop",
-    "desc": "Unlocked 500 Yama kills achievement.",
-    "date": "August 1, 2026",
-    "icon": "fas fa-skull"
-  },
-  {
-    "title": "99 Hitpoints",
-    "member": "ryanwri",
-    "category": "skill",
-    "desc": "Unlocked 99 Hitpoints achievement.",
     "date": "August 1, 2026",
     "icon": "fas fa-trophy"
   },
@@ -388,14 +396,6 @@
     "member": "Dark Minds",
     "category": "drop",
     "desc": "Unlocked 100 The Corrupted Gauntlet kills achievement.",
-    "date": "July 29, 2026",
-    "icon": "fas fa-skull"
-  },
-  {
-    "title": "1000 Kraken kills",
-    "member": "frostdblaze",
-    "category": "drop",
-    "desc": "Unlocked 1000 Kraken kills achievement.",
     "date": "July 29, 2026",
     "icon": "fas fa-skull"
   }
