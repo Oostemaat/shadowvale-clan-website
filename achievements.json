@@ -1,5 +1,13 @@
 [
   {
+    "title": "100 Brutus kills",
+    "member": "lvl 420",
+    "category": "drop",
+    "desc": "Unlocked 100 Brutus kills achievement.",
+    "date": "August 9, 2026",
+    "icon": "fas fa-skull"
+  },
+  {
     "title": "Base 60 Stats",
     "member": "Bloats_Flys",
     "category": "skill",
@@ -216,14 +224,6 @@
     "icon": "fas fa-skull"
   },
   {
-    "title": "500 Araxxor kills",
-    "member": "ryanwri",
-    "category": "drop",
-    "desc": "Unlocked 500 Araxxor kills achievement.",
-    "date": "August 1, 2026",
-    "icon": "fas fa-skull"
-  },
-  {
     "title": "99 Hitpoints",
     "member": "ryanwri",
     "category": "skill",
@@ -246,6 +246,14 @@
     "desc": "Unlocked 99 Magic achievement.",
     "date": "August 1, 2026",
     "icon": "fas fa-trophy"
+  },
+  {
+    "title": "500 Araxxor kills",
+    "member": "ryanwri",
+    "category": "drop",
+    "desc": "Unlocked 500 Araxxor kills achievement.",
+    "date": "August 1, 2026",
+    "icon": "fas fa-skull"
   },
   {
     "title": "99 Attack",
@@ -390,13 +398,5 @@
     "desc": "Unlocked 700 Collection Log Slots achievement.",
     "date": "July 29, 2026",
     "icon": "fas fa-box-open"
-  },
-  {
-    "title": "99 Defence",
-    "member": "argetdraco",
-    "category": "skill",
-    "desc": "Unlocked 99 Defence achievement.",
-    "date": "July 29, 2026",
-    "icon": "fas fa-trophy"
   }
 ]
