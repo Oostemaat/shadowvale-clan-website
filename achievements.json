@@ -1,5 +1,13 @@
 [
   {
+    "title": "Base 60 Stats",
+    "member": "Bloats_Flys",
+    "category": "skill",
+    "desc": "Unlocked Base 60 Stats achievement.",
+    "date": "August 9, 2026",
+    "icon": "fas fa-trophy"
+  },
+  {
     "title": "50,000,000 Hitpoints Exp.",
     "member": "crippled2k87",
     "category": "skill",
@@ -200,18 +208,18 @@
     "icon": "fas fa-trophy"
   },
   {
-    "title": "500 Araxxor kills",
-    "member": "ryanwri",
-    "category": "drop",
-    "desc": "Unlocked 500 Araxxor kills achievement.",
-    "date": "August 1, 2026",
-    "icon": "fas fa-skull"
-  },
-  {
     "title": "500 Yama kills",
     "member": "ryanwri",
     "category": "drop",
     "desc": "Unlocked 500 Yama kills achievement.",
+    "date": "August 1, 2026",
+    "icon": "fas fa-skull"
+  },
+  {
+    "title": "500 Araxxor kills",
+    "member": "ryanwri",
+    "category": "drop",
+    "desc": "Unlocked 500 Araxxor kills achievement.",
     "date": "August 1, 2026",
     "icon": "fas fa-skull"
   },
@@ -390,13 +398,5 @@
     "desc": "Unlocked 99 Defence achievement.",
     "date": "July 29, 2026",
     "icon": "fas fa-trophy"
-  },
-  {
-    "title": "100 The Corrupted Gauntlet kills",
-    "member": "Dark Minds",
-    "category": "drop",
-    "desc": "Unlocked 100 The Corrupted Gauntlet kills achievement.",
-    "date": "July 29, 2026",
-    "icon": "fas fa-skull"
   }
 ]
