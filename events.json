@@ -166,5 +166,13 @@
     "startIso": "2026-08-12T18:00:00.000Z",
     "icon": "fas fa-calendar-alt",
     "host": "Discord Bot"
+  },
+  {
+    "title": "HALLOWED SEPULCHRE RUNS PART II",
+    "subtitle": "CLAN EVENT",
+    "date": "2026-08-13",
+    "startIso": "2026-08-13T00:00:00.000Z",
+    "icon": "fas fa-calendar-alt",
+    "host": "Discord Bot"
   }
 ]
