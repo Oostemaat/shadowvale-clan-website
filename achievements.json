@@ -1,5 +1,53 @@
 [
   {
+    "title": "500 Duke Sucellus kills",
+    "member": "cbrkenny",
+    "category": "drop",
+    "desc": "Unlocked 500 Duke Sucellus kills achievement.",
+    "date": "August 11, 2026",
+    "icon": "fas fa-skull"
+  },
+  {
+    "title": "99 Slayer",
+    "member": "5DMG",
+    "category": "skill",
+    "desc": "Unlocked 99 Slayer achievement.",
+    "date": "August 11, 2026",
+    "icon": "fas fa-trophy"
+  },
+  {
+    "title": "500 Vardorvis kills",
+    "member": "youngninja",
+    "category": "drop",
+    "desc": "Unlocked 500 Vardorvis kills achievement.",
+    "date": "August 11, 2026",
+    "icon": "fas fa-skull"
+  },
+  {
+    "title": "100 Tombs Of Amascut Expert kills",
+    "member": "1I 1I",
+    "category": "drop",
+    "desc": "Unlocked 100 Tombs Of Amascut Expert kills achievement.",
+    "date": "August 11, 2026",
+    "icon": "fas fa-skull"
+  },
+  {
+    "title": "1000 Callisto kills",
+    "member": "dyrn",
+    "category": "drop",
+    "desc": "Unlocked 1000 Callisto kills achievement.",
+    "date": "August 11, 2026",
+    "icon": "fas fa-skull"
+  },
+  {
+    "title": "1000 Yama kills",
+    "member": "PushingPoops",
+    "category": "drop",
+    "desc": "Unlocked 1000 Yama kills achievement.",
+    "date": "August 11, 2026",
+    "icon": "fas fa-skull"
+  },
+  {
     "title": "500 Abyssal Sire kills",
     "member": "crit seeker",
     "category": "drop",
@@ -256,6 +304,22 @@
     "icon": "fas fa-skull"
   },
   {
+    "title": "500 Araxxor kills",
+    "member": "ryanwri",
+    "category": "drop",
+    "desc": "Unlocked 500 Araxxor kills achievement.",
+    "date": "August 1, 2026",
+    "icon": "fas fa-skull"
+  },
+  {
+    "title": "99 Attack",
+    "member": "ryanwri",
+    "category": "skill",
+    "desc": "Unlocked 99 Attack achievement.",
+    "date": "August 1, 2026",
+    "icon": "fas fa-trophy"
+  },
+  {
     "title": "99 Strength",
     "member": "ryanwri",
     "category": "skill",
@@ -272,10 +336,10 @@
     "icon": "fas fa-skull"
   },
   {
-    "title": "99 Attack",
+    "title": "99 Hitpoints",
     "member": "ryanwri",
     "category": "skill",
-    "desc": "Unlocked 99 Attack achievement.",
+    "desc": "Unlocked 99 Hitpoints achievement.",
     "date": "August 1, 2026",
     "icon": "fas fa-trophy"
   },
@@ -288,14 +352,6 @@
     "icon": "fas fa-trophy"
   },
   {
-    "title": "99 Magic",
-    "member": "ryanwri",
-    "category": "skill",
-    "desc": "Unlocked 99 Magic achievement.",
-    "date": "August 1, 2026",
-    "icon": "fas fa-trophy"
-  },
-  {
     "title": "100m Overall Exp.",
     "member": "ryanwri",
     "category": "skill",
@@ -304,20 +360,12 @@
     "icon": "fas fa-trophy"
   },
   {
-    "title": "99 Hitpoints",
+    "title": "99 Magic",
     "member": "ryanwri",
     "category": "skill",
-    "desc": "Unlocked 99 Hitpoints achievement.",
+    "desc": "Unlocked 99 Magic achievement.",
     "date": "August 1, 2026",
     "icon": "fas fa-trophy"
-  },
-  {
-    "title": "500 Araxxor kills",
-    "member": "ryanwri",
-    "category": "drop",
-    "desc": "Unlocked 500 Araxxor kills achievement.",
-    "date": "August 1, 2026",
-    "icon": "fas fa-skull"
   },
   {
     "title": "99 Fletching",
@@ -325,30 +373,6 @@
     "category": "skill",
     "desc": "Unlocked 99 Fletching achievement.",
     "date": "August 1, 2026",
-    "icon": "fas fa-trophy"
-  },
-  {
-    "title": "99 Attack",
-    "member": "hufe",
-    "category": "skill",
-    "desc": "Unlocked 99 Attack achievement.",
-    "date": "July 31, 2026",
-    "icon": "fas fa-trophy"
-  },
-  {
-    "title": "48m Overall Exp.",
-    "member": "hufe",
-    "category": "skill",
-    "desc": "Unlocked 48m Overall Exp. achievement.",
-    "date": "July 31, 2026",
-    "icon": "fas fa-trophy"
-  },
-  {
-    "title": "99 Farming",
-    "member": "hufe",
-    "category": "skill",
-    "desc": "Unlocked 99 Farming achievement.",
-    "date": "July 31, 2026",
     "icon": "fas fa-trophy"
   },
   {
@@ -360,20 +384,12 @@
     "icon": "fas fa-trophy"
   },
   {
-    "title": "500 Yama kills",
+    "title": "18m Overall Exp.",
     "member": "hufe",
-    "category": "drop",
-    "desc": "Unlocked 500 Yama kills achievement.",
+    "category": "skill",
+    "desc": "Unlocked 18m Overall Exp. achievement.",
     "date": "July 31, 2026",
-    "icon": "fas fa-skull"
-  },
-  {
-    "title": "1000 Yama kills",
-    "member": "hufe",
-    "category": "drop",
-    "desc": "Unlocked 1000 Yama kills achievement.",
-    "date": "July 31, 2026",
-    "icon": "fas fa-skull"
+    "icon": "fas fa-trophy"
   },
   {
     "title": "100 Brutus kills",
@@ -382,21 +398,5 @@
     "desc": "Unlocked 100 Brutus kills achievement.",
     "date": "July 31, 2026",
     "icon": "fas fa-skull"
-  },
-  {
-    "title": "100 Hespori kills",
-    "member": "hufe",
-    "category": "drop",
-    "desc": "Unlocked 100 Hespori kills achievement.",
-    "date": "July 31, 2026",
-    "icon": "fas fa-skull"
-  },
-  {
-    "title": "18m Overall Exp.",
-    "member": "hufe",
-    "category": "skill",
-    "desc": "Unlocked 18m Overall Exp. achievement.",
-    "date": "July 31, 2026",
-    "icon": "fas fa-trophy"
   }
 ]
