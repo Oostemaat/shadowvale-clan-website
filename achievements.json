@@ -1,5 +1,13 @@
 [
   {
+    "title": "500 The Royal Titans kills",
+    "member": "gim vxnm",
+    "category": "drop",
+    "desc": "Unlocked 500 The Royal Titans kills achievement.",
+    "date": "August 11, 2026",
+    "icon": "fas fa-skull"
+  },
+  {
     "title": "18m Overall Exp.",
     "member": "mini smurf",
     "category": "skill",
@@ -320,34 +328,18 @@
     "icon": "fas fa-skull"
   },
   {
-    "title": "500 Araxxor kills",
+    "title": "500 Yama kills",
     "member": "ryanwri",
     "category": "drop",
-    "desc": "Unlocked 500 Araxxor kills achievement.",
+    "desc": "Unlocked 500 Yama kills achievement.",
     "date": "August 1, 2026",
     "icon": "fas fa-skull"
   },
   {
-    "title": "99 Ranged",
+    "title": "99 Magic",
     "member": "ryanwri",
     "category": "skill",
-    "desc": "Unlocked 99 Ranged achievement.",
-    "date": "August 1, 2026",
-    "icon": "fas fa-trophy"
-  },
-  {
-    "title": "99 Attack",
-    "member": "ryanwri",
-    "category": "skill",
-    "desc": "Unlocked 99 Attack achievement.",
-    "date": "August 1, 2026",
-    "icon": "fas fa-trophy"
-  },
-  {
-    "title": "99 Strength",
-    "member": "ryanwri",
-    "category": "skill",
-    "desc": "Unlocked 99 Strength achievement.",
+    "desc": "Unlocked 99 Magic achievement.",
     "date": "August 1, 2026",
     "icon": "fas fa-trophy"
   },
@@ -368,18 +360,34 @@
     "icon": "fas fa-trophy"
   },
   {
-    "title": "99 Magic",
+    "title": "99 Attack",
     "member": "ryanwri",
     "category": "skill",
-    "desc": "Unlocked 99 Magic achievement.",
+    "desc": "Unlocked 99 Attack achievement.",
     "date": "August 1, 2026",
     "icon": "fas fa-trophy"
   },
   {
-    "title": "500 Yama kills",
+    "title": "99 Strength",
+    "member": "ryanwri",
+    "category": "skill",
+    "desc": "Unlocked 99 Strength achievement.",
+    "date": "August 1, 2026",
+    "icon": "fas fa-trophy"
+  },
+  {
+    "title": "99 Ranged",
+    "member": "ryanwri",
+    "category": "skill",
+    "desc": "Unlocked 99 Ranged achievement.",
+    "date": "August 1, 2026",
+    "icon": "fas fa-trophy"
+  },
+  {
+    "title": "500 Araxxor kills",
     "member": "ryanwri",
     "category": "drop",
-    "desc": "Unlocked 500 Yama kills achievement.",
+    "desc": "Unlocked 500 Araxxor kills achievement.",
     "date": "August 1, 2026",
     "icon": "fas fa-skull"
   },
@@ -389,14 +397,6 @@
     "category": "skill",
     "desc": "Unlocked 99 Fletching achievement.",
     "date": "August 1, 2026",
-    "icon": "fas fa-trophy"
-  },
-  {
-    "title": "99 Attack",
-    "member": "hufe",
-    "category": "skill",
-    "desc": "Unlocked 99 Attack achievement.",
-    "date": "July 31, 2026",
     "icon": "fas fa-trophy"
   }
 ]
