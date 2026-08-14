@@ -1,5 +1,21 @@
 [
   {
+    "title": "99 Defence",
+    "member": "cbrkenny",
+    "category": "skill",
+    "desc": "Unlocked 99 Defence achievement.",
+    "date": "August 14, 2026",
+    "icon": "fas fa-trophy"
+  },
+  {
+    "title": "500 Wintertodt kills",
+    "member": "OmgWtfHax",
+    "category": "drop",
+    "desc": "Unlocked 500 Wintertodt kills achievement.",
+    "date": "August 14, 2026",
+    "icon": "fas fa-skull"
+  },
+  {
     "title": "100m Overall Exp.",
     "member": "Jearbear1821",
     "category": "skill",
@@ -380,22 +396,6 @@
     "member": "ryanwri",
     "category": "skill",
     "desc": "Unlocked 100m Overall Exp. achievement.",
-    "date": "August 1, 2026",
-    "icon": "fas fa-trophy"
-  },
-  {
-    "title": "99 Ranged",
-    "member": "ryanwri",
-    "category": "skill",
-    "desc": "Unlocked 99 Ranged achievement.",
-    "date": "August 1, 2026",
-    "icon": "fas fa-trophy"
-  },
-  {
-    "title": "99 Strength",
-    "member": "ryanwri",
-    "category": "skill",
-    "desc": "Unlocked 99 Strength achievement.",
     "date": "August 1, 2026",
     "icon": "fas fa-trophy"
   }
