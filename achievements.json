@@ -80,14 +80,6 @@
     "icon": "fas fa-skull"
   },
   {
-    "title": "18m Overall Exp.",
-    "member": "mini smurf",
-    "category": "skill",
-    "desc": "Unlocked 18m Overall Exp. achievement.",
-    "date": "August 11, 2026",
-    "icon": "fas fa-trophy"
-  },
-  {
     "title": "100m Overall Exp.",
     "member": "zemberr",
     "category": "skill",
@@ -190,14 +182,6 @@
     "desc": "Unlocked 50,000,000 Hitpoints Exp. achievement.",
     "date": "August 9, 2026",
     "icon": "fas fa-trophy"
-  },
-  {
-    "title": "1000 Mad Angel kills",
-    "member": "mini smurf",
-    "category": "drop",
-    "desc": "Unlocked 1000 Mad Angel kills achievement.",
-    "date": "August 8, 2026",
-    "icon": "fas fa-skull"
   },
   {
     "title": "100 Clue Scrolls Master kills",
@@ -312,14 +296,6 @@
     "icon": "fas fa-skull"
   },
   {
-    "title": "500 Mad Angel kills",
-    "member": "mini smurf",
-    "category": "drop",
-    "desc": "Unlocked 500 Mad Angel kills achievement.",
-    "date": "August 4, 2026",
-    "icon": "fas fa-skull"
-  },
-  {
     "title": "1000 Maggot King kills",
     "member": "Superswale",
     "category": "drop",
@@ -398,5 +374,29 @@
     "desc": "Unlocked 500 Mad Angel kills achievement.",
     "date": "August 2, 2026",
     "icon": "fas fa-skull"
+  },
+  {
+    "title": "99 Hitpoints",
+    "member": "ryanwri",
+    "category": "skill",
+    "desc": "Unlocked 99 Hitpoints achievement.",
+    "date": "August 1, 2026",
+    "icon": "fas fa-trophy"
+  },
+  {
+    "title": "99 Magic",
+    "member": "ryanwri",
+    "category": "skill",
+    "desc": "Unlocked 99 Magic achievement.",
+    "date": "August 1, 2026",
+    "icon": "fas fa-trophy"
+  },
+  {
+    "title": "99 Strength",
+    "member": "ryanwri",
+    "category": "skill",
+    "desc": "Unlocked 99 Strength achievement.",
+    "date": "August 1, 2026",
+    "icon": "fas fa-trophy"
   }
 ]
