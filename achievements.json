@@ -1,5 +1,13 @@
 [
   {
+    "title": "500 Yama kills",
+    "member": "kodakid98",
+    "category": "drop",
+    "desc": "Unlocked 500 Yama kills achievement.",
+    "date": "August 15, 2026",
+    "icon": "fas fa-skull"
+  },
+  {
     "title": "200m Overall Exp.",
     "member": "Squiddy btw",
     "category": "skill",
@@ -390,13 +398,5 @@
     "desc": "Unlocked 18m Overall Exp. achievement.",
     "date": "August 2, 2026",
     "icon": "fas fa-trophy"
-  },
-  {
-    "title": "500 Mad Angel kills",
-    "member": "gxku",
-    "category": "drop",
-    "desc": "Unlocked 500 Mad Angel kills achievement.",
-    "date": "August 2, 2026",
-    "icon": "fas fa-skull"
   }
 ]
