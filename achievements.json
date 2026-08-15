@@ -1,5 +1,13 @@
 [
   {
+    "title": "99 Defence",
+    "member": "Jmnz88",
+    "category": "skill",
+    "desc": "Unlocked 99 Defence achievement.",
+    "date": "August 15, 2026",
+    "icon": "fas fa-trophy"
+  },
+  {
     "title": "500 Vorkath kills",
     "member": "kodakid98",
     "category": "drop",
@@ -384,18 +392,10 @@
     "icon": "fas fa-skull"
   },
   {
-    "title": "99 Hitpoints",
+    "title": "99 Strength",
     "member": "ryanwri",
     "category": "skill",
-    "desc": "Unlocked 99 Hitpoints achievement.",
-    "date": "August 1, 2026",
-    "icon": "fas fa-trophy"
-  },
-  {
-    "title": "99 Magic",
-    "member": "ryanwri",
-    "category": "skill",
-    "desc": "Unlocked 99 Magic achievement.",
+    "desc": "Unlocked 99 Strength achievement.",
     "date": "August 1, 2026",
     "icon": "fas fa-trophy"
   }
