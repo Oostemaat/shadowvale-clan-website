@@ -184,6 +184,14 @@
     "icon": "fas fa-trophy"
   },
   {
+    "title": "Base 60 Stats",
+    "member": "RNG Celery",
+    "category": "skill",
+    "desc": "Unlocked Base 60 Stats achievement.",
+    "date": "August 8, 2026",
+    "icon": "fas fa-trophy"
+  },
+  {
     "title": "100 Clue Scrolls Master kills",
     "member": "kodakid98",
     "category": "drop",
@@ -256,18 +264,18 @@
     "icon": "fas fa-skull"
   },
   {
-    "title": "99 Hitpoints",
-    "member": "Jearbear1821",
-    "category": "skill",
-    "desc": "Unlocked 99 Hitpoints achievement.",
-    "date": "August 5, 2026",
-    "icon": "fas fa-trophy"
-  },
-  {
     "title": "99 Strength",
     "member": "Jearbear1821",
     "category": "skill",
     "desc": "Unlocked 99 Strength achievement.",
+    "date": "August 5, 2026",
+    "icon": "fas fa-trophy"
+  },
+  {
+    "title": "99 Hitpoints",
+    "member": "Jearbear1821",
+    "category": "skill",
+    "desc": "Unlocked 99 Hitpoints achievement.",
     "date": "August 5, 2026",
     "icon": "fas fa-trophy"
   },
@@ -388,14 +396,6 @@
     "member": "ryanwri",
     "category": "skill",
     "desc": "Unlocked 99 Magic achievement.",
-    "date": "August 1, 2026",
-    "icon": "fas fa-trophy"
-  },
-  {
-    "title": "99 Strength",
-    "member": "ryanwri",
-    "category": "skill",
-    "desc": "Unlocked 99 Strength achievement.",
     "date": "August 1, 2026",
     "icon": "fas fa-trophy"
   }
