@@ -1,5 +1,29 @@
 [
   {
+    "title": "99 Firemaking",
+    "member": "OmgWtfHax",
+    "category": "skill",
+    "desc": "Unlocked 99 Firemaking achievement.",
+    "date": "August 16, 2026",
+    "icon": "fas fa-trophy"
+  },
+  {
+    "title": "200 The Corrupted Gauntlet kills",
+    "member": "7up is ass",
+    "category": "drop",
+    "desc": "Unlocked 200 The Corrupted Gauntlet kills achievement.",
+    "date": "August 16, 2026",
+    "icon": "fas fa-skull"
+  },
+  {
+    "title": "1000 Duke Sucellus kills",
+    "member": "cbrkenny",
+    "category": "drop",
+    "desc": "Unlocked 1000 Duke Sucellus kills achievement.",
+    "date": "August 16, 2026",
+    "icon": "fas fa-skull"
+  },
+  {
     "title": "500 Yama kills",
     "member": "kodakid98",
     "category": "drop",
@@ -288,18 +312,18 @@
     "icon": "fas fa-skull"
   },
   {
-    "title": "99 Strength",
-    "member": "Jearbear1821",
-    "category": "skill",
-    "desc": "Unlocked 99 Strength achievement.",
-    "date": "August 5, 2026",
-    "icon": "fas fa-trophy"
-  },
-  {
     "title": "99 Hitpoints",
     "member": "Jearbear1821",
     "category": "skill",
     "desc": "Unlocked 99 Hitpoints achievement.",
+    "date": "August 5, 2026",
+    "icon": "fas fa-trophy"
+  },
+  {
+    "title": "99 Strength",
+    "member": "Jearbear1821",
+    "category": "skill",
+    "desc": "Unlocked 99 Strength achievement.",
     "date": "August 5, 2026",
     "icon": "fas fa-trophy"
   },
@@ -374,29 +398,5 @@
     "desc": "Unlocked 100 Brutus kills achievement.",
     "date": "August 3, 2026",
     "icon": "fas fa-skull"
-  },
-  {
-    "title": "1000 Alchemical Hydra kills",
-    "member": "statgrabber1",
-    "category": "drop",
-    "desc": "Unlocked 1000 Alchemical Hydra kills achievement.",
-    "date": "August 3, 2026",
-    "icon": "fas fa-skull"
-  },
-  {
-    "title": "500 The Leviathan kills",
-    "member": "crippled2k87",
-    "category": "drop",
-    "desc": "Unlocked 500 The Leviathan kills achievement.",
-    "date": "August 3, 2026",
-    "icon": "fas fa-skull"
-  },
-  {
-    "title": "18m Overall Exp.",
-    "member": "guzanator",
-    "category": "skill",
-    "desc": "Unlocked 18m Overall Exp. achievement.",
-    "date": "August 2, 2026",
-    "icon": "fas fa-trophy"
   }
 ]
