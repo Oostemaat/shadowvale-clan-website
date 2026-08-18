@@ -1,5 +1,13 @@
 [
   {
+    "title": "500 Thermonuclear Smoke Devil kills",
+    "member": "statgrabber1",
+    "category": "drop",
+    "desc": "Unlocked 500 Thermonuclear Smoke Devil kills achievement.",
+    "date": "August 18, 2026",
+    "icon": "fas fa-skull"
+  },
+  {
     "title": "99 Attack",
     "member": "Dr Diggy",
     "category": "skill",
@@ -390,13 +398,5 @@
     "desc": "Unlocked 100 Theatre Of Blood kills achievement.",
     "date": "August 3, 2026",
     "icon": "fas fa-skull"
-  },
-  {
-    "title": "99 Farming",
-    "member": "firestorm862",
-    "category": "skill",
-    "desc": "Unlocked 99 Farming achievement.",
-    "date": "August 3, 2026",
-    "icon": "fas fa-trophy"
   }
 ]
