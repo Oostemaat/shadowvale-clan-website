@@ -1,5 +1,13 @@
 [
   {
+    "title": "99 Agility",
+    "member": "argetdraco",
+    "category": "skill",
+    "desc": "Unlocked 99 Agility achievement.",
+    "date": "August 19, 2026",
+    "icon": "fas fa-trophy"
+  },
+  {
     "title": "500 Thermonuclear Smoke Devil kills",
     "member": "statgrabber1",
     "category": "drop",
@@ -388,14 +396,6 @@
     "member": "ManoleRS",
     "category": "drop",
     "desc": "Unlocked 100 Brutus kills achievement.",
-    "date": "August 3, 2026",
-    "icon": "fas fa-skull"
-  },
-  {
-    "title": "100 Theatre Of Blood kills",
-    "member": "Dr Diggy",
-    "category": "drop",
-    "desc": "Unlocked 100 Theatre Of Blood kills achievement.",
     "date": "August 3, 2026",
     "icon": "fas fa-skull"
   }
