@@ -1,5 +1,13 @@
 [
   {
+    "title": "100 Bryophyta kills",
+    "member": "sammydafoe82",
+    "category": "drop",
+    "desc": "Unlocked 100 Bryophyta kills achievement.",
+    "date": "August 19, 2026",
+    "icon": "fas fa-skull"
+  },
+  {
     "title": "99 Agility",
     "member": "argetdraco",
     "category": "skill",
@@ -390,13 +398,5 @@
     "desc": "Unlocked 99 Hitpoints achievement.",
     "date": "August 3, 2026",
     "icon": "fas fa-trophy"
-  },
-  {
-    "title": "100 Brutus kills",
-    "member": "ManoleRS",
-    "category": "drop",
-    "desc": "Unlocked 100 Brutus kills achievement.",
-    "date": "August 3, 2026",
-    "icon": "fas fa-skull"
   }
 ]
