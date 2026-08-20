@@ -152,14 +152,6 @@
     "icon": "fas fa-trophy"
   },
   {
-    "title": "500 Commander Zilyana kills",
-    "member": "hufe",
-    "category": "drop",
-    "desc": "Unlocked 500 Commander Zilyana kills achievement.",
-    "date": "August 12, 2026",
-    "icon": "fas fa-skull"
-  },
-  {
     "title": "500 The Royal Titans kills",
     "member": "gim vxnm",
     "category": "drop",
@@ -360,18 +352,18 @@
     "icon": "fas fa-trophy"
   },
   {
-    "title": "99 Strength",
-    "member": "Jearbear1821",
-    "category": "skill",
-    "desc": "Unlocked 99 Strength achievement.",
-    "date": "August 5, 2026",
-    "icon": "fas fa-trophy"
-  },
-  {
     "title": "99 Hitpoints",
     "member": "Jearbear1821",
     "category": "skill",
     "desc": "Unlocked 99 Hitpoints achievement.",
+    "date": "August 5, 2026",
+    "icon": "fas fa-trophy"
+  },
+  {
+    "title": "99 Strength",
+    "member": "Jearbear1821",
+    "category": "skill",
+    "desc": "Unlocked 99 Strength achievement.",
     "date": "August 5, 2026",
     "icon": "fas fa-trophy"
   },
@@ -397,6 +389,14 @@
     "category": "drop",
     "desc": "Unlocked 13034431 Sailing kills achievement.",
     "date": "August 4, 2026",
+    "icon": "fas fa-skull"
+  },
+  {
+    "title": "1000 Maggot King kills",
+    "member": "Superswale",
+    "category": "drop",
+    "desc": "Unlocked 1000 Maggot King kills achievement.",
+    "date": "August 3, 2026",
     "icon": "fas fa-skull"
   }
 ]
