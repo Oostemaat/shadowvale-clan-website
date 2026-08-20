@@ -1,5 +1,21 @@
 [
   {
+    "title": "100 Doom Of Mokhaiotl kills",
+    "member": "ryanwri",
+    "category": "drop",
+    "desc": "Unlocked 100 Doom Of Mokhaiotl kills achievement.",
+    "date": "August 20, 2026",
+    "icon": "fas fa-skull"
+  },
+  {
+    "title": "99 Magic",
+    "member": "Yatted",
+    "category": "skill",
+    "desc": "Unlocked 99 Magic achievement.",
+    "date": "August 20, 2026",
+    "icon": "fas fa-trophy"
+  },
+  {
     "title": "99 Magic",
     "member": "zemberr",
     "category": "skill",
@@ -352,18 +368,18 @@
     "icon": "fas fa-trophy"
   },
   {
-    "title": "99 Hitpoints",
-    "member": "Jearbear1821",
-    "category": "skill",
-    "desc": "Unlocked 99 Hitpoints achievement.",
-    "date": "August 5, 2026",
-    "icon": "fas fa-trophy"
-  },
-  {
     "title": "99 Strength",
     "member": "Jearbear1821",
     "category": "skill",
     "desc": "Unlocked 99 Strength achievement.",
+    "date": "August 5, 2026",
+    "icon": "fas fa-trophy"
+  },
+  {
+    "title": "99 Hitpoints",
+    "member": "Jearbear1821",
+    "category": "skill",
+    "desc": "Unlocked 99 Hitpoints achievement.",
     "date": "August 5, 2026",
     "icon": "fas fa-trophy"
   },
@@ -382,21 +398,5 @@
     "desc": "Unlocked 50,000,000 Strength Exp. achievement.",
     "date": "August 4, 2026",
     "icon": "fas fa-trophy"
-  },
-  {
-    "title": "13034431 Sailing kills",
-    "member": "Naught",
-    "category": "drop",
-    "desc": "Unlocked 13034431 Sailing kills achievement.",
-    "date": "August 4, 2026",
-    "icon": "fas fa-skull"
-  },
-  {
-    "title": "1000 Maggot King kills",
-    "member": "Superswale",
-    "category": "drop",
-    "desc": "Unlocked 1000 Maggot King kills achievement.",
-    "date": "August 3, 2026",
-    "icon": "fas fa-skull"
   }
 ]
