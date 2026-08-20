@@ -344,10 +344,10 @@
     "icon": "fas fa-skull"
   },
   {
-    "title": "99 Strength",
-    "member": "Jearbear1821",
+    "title": "99 Ranged",
+    "member": "Aceium",
     "category": "skill",
-    "desc": "Unlocked 99 Strength achievement.",
+    "desc": "Unlocked 99 Ranged achievement.",
     "date": "August 5, 2026",
     "icon": "fas fa-trophy"
   },
@@ -356,6 +356,14 @@
     "member": "Jearbear1821",
     "category": "skill",
     "desc": "Unlocked 99 Hitpoints achievement.",
+    "date": "August 5, 2026",
+    "icon": "fas fa-trophy"
+  },
+  {
+    "title": "99 Strength",
+    "member": "Jearbear1821",
+    "category": "skill",
+    "desc": "Unlocked 99 Strength achievement.",
     "date": "August 5, 2026",
     "icon": "fas fa-trophy"
   },
@@ -390,13 +398,5 @@
     "desc": "Unlocked 1000 Maggot King kills achievement.",
     "date": "August 3, 2026",
     "icon": "fas fa-skull"
-  },
-  {
-    "title": "99 Hitpoints",
-    "member": "second ashes",
-    "category": "skill",
-    "desc": "Unlocked 99 Hitpoints achievement.",
-    "date": "August 3, 2026",
-    "icon": "fas fa-trophy"
   }
 ]
