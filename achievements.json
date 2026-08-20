@@ -1,5 +1,13 @@
 [
   {
+    "title": "99 Magic",
+    "member": "zemberr",
+    "category": "skill",
+    "desc": "Unlocked 99 Magic achievement.",
+    "date": "August 20, 2026",
+    "icon": "fas fa-trophy"
+  },
+  {
     "title": "100 Bryophyta kills",
     "member": "sammydafoe82",
     "category": "drop",
@@ -352,18 +360,18 @@
     "icon": "fas fa-trophy"
   },
   {
-    "title": "99 Hitpoints",
-    "member": "Jearbear1821",
-    "category": "skill",
-    "desc": "Unlocked 99 Hitpoints achievement.",
-    "date": "August 5, 2026",
-    "icon": "fas fa-trophy"
-  },
-  {
     "title": "99 Strength",
     "member": "Jearbear1821",
     "category": "skill",
     "desc": "Unlocked 99 Strength achievement.",
+    "date": "August 5, 2026",
+    "icon": "fas fa-trophy"
+  },
+  {
+    "title": "99 Hitpoints",
+    "member": "Jearbear1821",
+    "category": "skill",
+    "desc": "Unlocked 99 Hitpoints achievement.",
     "date": "August 5, 2026",
     "icon": "fas fa-trophy"
   },
@@ -389,14 +397,6 @@
     "category": "drop",
     "desc": "Unlocked 13034431 Sailing kills achievement.",
     "date": "August 4, 2026",
-    "icon": "fas fa-skull"
-  },
-  {
-    "title": "1000 Maggot King kills",
-    "member": "Superswale",
-    "category": "drop",
-    "desc": "Unlocked 1000 Maggot King kills achievement.",
-    "date": "August 3, 2026",
     "icon": "fas fa-skull"
   }
 ]
