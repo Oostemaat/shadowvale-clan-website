@@ -24,6 +24,14 @@
     "icon": "fas fa-trophy"
   },
   {
+    "title": "1000 Vardorvis kills",
+    "member": "dark neun",
+    "category": "drop",
+    "desc": "Unlocked 1000 Vardorvis kills achievement.",
+    "date": "August 20, 2026",
+    "icon": "fas fa-skull"
+  },
+  {
     "title": "100 Doom Of Mokhaiotl kills",
     "member": "ryanwri",
     "category": "drop",
@@ -360,6 +368,14 @@
     "icon": "fas fa-skull"
   },
   {
+    "title": "99 Magic",
+    "member": "dark neun",
+    "category": "skill",
+    "desc": "Unlocked 99 Magic achievement.",
+    "date": "August 6, 2026",
+    "icon": "fas fa-trophy"
+  },
+  {
     "title": "100 Brutus kills",
     "member": "nylawen",
     "category": "drop",
@@ -382,21 +398,5 @@
     "desc": "Unlocked 1000 Maggot King kills achievement.",
     "date": "August 6, 2026",
     "icon": "fas fa-skull"
-  },
-  {
-    "title": "99 Ranged",
-    "member": "Aceium",
-    "category": "skill",
-    "desc": "Unlocked 99 Ranged achievement.",
-    "date": "August 5, 2026",
-    "icon": "fas fa-trophy"
-  },
-  {
-    "title": "99 Hitpoints",
-    "member": "Jearbear1821",
-    "category": "skill",
-    "desc": "Unlocked 99 Hitpoints achievement.",
-    "date": "August 5, 2026",
-    "icon": "fas fa-trophy"
   }
 ]
