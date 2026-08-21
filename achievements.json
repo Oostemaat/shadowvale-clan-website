@@ -1,5 +1,13 @@
 [
   {
+    "title": "99 Magic",
+    "member": "murkules9",
+    "category": "skill",
+    "desc": "Unlocked 99 Magic achievement.",
+    "date": "August 21, 2026",
+    "icon": "fas fa-trophy"
+  },
+  {
     "title": "100 Doom Of Mokhaiotl kills",
     "member": "ryanwri",
     "category": "drop",
@@ -390,13 +398,5 @@
     "desc": "Unlocked 500 Yama kills achievement.",
     "date": "August 4, 2026",
     "icon": "fas fa-skull"
-  },
-  {
-    "title": "50,000,000 Strength Exp.",
-    "member": "PushingPoops",
-    "category": "skill",
-    "desc": "Unlocked 50,000,000 Strength Exp. achievement.",
-    "date": "August 4, 2026",
-    "icon": "fas fa-trophy"
   }
 ]
