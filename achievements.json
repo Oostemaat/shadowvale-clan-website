@@ -1,5 +1,21 @@
 [
   {
+    "title": "99 Attack",
+    "member": "Z31Z31",
+    "category": "skill",
+    "desc": "Unlocked 99 Attack achievement.",
+    "date": "August 21, 2026",
+    "icon": "fas fa-trophy"
+  },
+  {
+    "title": "250 Lunar Chests",
+    "member": "Sk8err Sk",
+    "category": "drop",
+    "desc": "Unlocked 250 Lunar Chests achievement.",
+    "date": "August 21, 2026",
+    "icon": "fas fa-skull"
+  },
+  {
     "title": "99 Magic",
     "member": "murkules9",
     "category": "skill",
@@ -376,27 +392,11 @@
     "icon": "fas fa-trophy"
   },
   {
-    "title": "99 Strength",
-    "member": "Jearbear1821",
-    "category": "skill",
-    "desc": "Unlocked 99 Strength achievement.",
-    "date": "August 5, 2026",
-    "icon": "fas fa-trophy"
-  },
-  {
     "title": "99 Hitpoints",
     "member": "Jearbear1821",
     "category": "skill",
     "desc": "Unlocked 99 Hitpoints achievement.",
     "date": "August 5, 2026",
     "icon": "fas fa-trophy"
-  },
-  {
-    "title": "500 Yama kills",
-    "member": "zemberr",
-    "category": "drop",
-    "desc": "Unlocked 500 Yama kills achievement.",
-    "date": "August 4, 2026",
-    "icon": "fas fa-skull"
   }
 ]
