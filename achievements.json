@@ -1,5 +1,21 @@
 [
   {
+    "title": "Base 60 Stats",
+    "member": "Jesus Comes",
+    "category": "skill",
+    "desc": "Unlocked Base 60 Stats achievement.",
+    "date": "August 22, 2026",
+    "icon": "fas fa-trophy"
+  },
+  {
+    "title": "500 Brutus kills",
+    "member": "5DMG",
+    "category": "drop",
+    "desc": "Unlocked 500 Brutus kills achievement.",
+    "date": "August 22, 2026",
+    "icon": "fas fa-skull"
+  },
+  {
     "title": "99 Attack",
     "member": "Z31Z31",
     "category": "skill",
@@ -380,22 +396,6 @@
     "member": "nylawen",
     "category": "drop",
     "desc": "Unlocked 100 Brutus kills achievement.",
-    "date": "August 6, 2026",
-    "icon": "fas fa-skull"
-  },
-  {
-    "title": "Base 60 Stats",
-    "member": "snuffles11",
-    "category": "skill",
-    "desc": "Unlocked Base 60 Stats achievement.",
-    "date": "August 6, 2026",
-    "icon": "fas fa-trophy"
-  },
-  {
-    "title": "1000 Maggot King kills",
-    "member": "Manswarm",
-    "category": "drop",
-    "desc": "Unlocked 1000 Maggot King kills achievement.",
     "date": "August 6, 2026",
     "icon": "fas fa-skull"
   }
