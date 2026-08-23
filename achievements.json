@@ -1,5 +1,13 @@
 [
   {
+    "title": "500 Chaos Elemental kills",
+    "member": "Manswarm",
+    "category": "drop",
+    "desc": "Unlocked 500 Chaos Elemental kills achievement.",
+    "date": "August 23, 2026",
+    "icon": "fas fa-skull"
+  },
+  {
     "title": "Base 60 Stats",
     "member": "Jesus Comes",
     "category": "skill",
@@ -390,13 +398,5 @@
     "desc": "Unlocked 99 Magic achievement.",
     "date": "August 6, 2026",
     "icon": "fas fa-trophy"
-  },
-  {
-    "title": "100 Brutus kills",
-    "member": "nylawen",
-    "category": "drop",
-    "desc": "Unlocked 100 Brutus kills achievement.",
-    "date": "August 6, 2026",
-    "icon": "fas fa-skull"
   }
 ]
