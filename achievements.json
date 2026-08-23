@@ -1,5 +1,13 @@
 [
   {
+    "title": "500 The Leviathan kills",
+    "member": "cbrkenny",
+    "category": "drop",
+    "desc": "Unlocked 500 The Leviathan kills achievement.",
+    "date": "August 23, 2026",
+    "icon": "fas fa-skull"
+  },
+  {
     "title": "500 Chaos Elemental kills",
     "member": "Manswarm",
     "category": "drop",
@@ -390,13 +398,5 @@
     "desc": "Unlocked 1000 The Royal Titans kills achievement.",
     "date": "August 7, 2026",
     "icon": "fas fa-skull"
-  },
-  {
-    "title": "99 Magic",
-    "member": "dark neun",
-    "category": "skill",
-    "desc": "Unlocked 99 Magic achievement.",
-    "date": "August 6, 2026",
-    "icon": "fas fa-trophy"
   }
 ]
