@@ -1,5 +1,21 @@
 [
   {
+    "title": "99 Herblore",
+    "member": "statgrabber1",
+    "category": "skill",
+    "desc": "Unlocked 99 Herblore achievement.",
+    "date": "August 24, 2026",
+    "icon": "fas fa-trophy"
+  },
+  {
+    "title": "99 Smithing",
+    "member": "OmgWtfHax",
+    "category": "skill",
+    "desc": "Unlocked 99 Smithing achievement.",
+    "date": "August 24, 2026",
+    "icon": "fas fa-trophy"
+  },
+  {
     "title": "99 Ranged",
     "member": "ironskullyy",
     "category": "skill",
@@ -240,6 +256,14 @@
     "icon": "fas fa-trophy"
   },
   {
+    "title": "1000 Sarachnis kills",
+    "member": "Knd l",
+    "category": "drop",
+    "desc": "Unlocked 1000 Sarachnis kills achievement.",
+    "date": "August 12, 2026",
+    "icon": "fas fa-skull"
+  },
+  {
     "title": "500 The Royal Titans kills",
     "member": "gim vxnm",
     "category": "drop",
@@ -368,35 +392,11 @@
     "icon": "fas fa-skull"
   },
   {
-    "title": "200m Overall Exp.",
-    "member": "AlexLix",
+    "title": "18m Overall Exp.",
+    "member": "Knd l",
     "category": "skill",
-    "desc": "Unlocked 200m Overall Exp. achievement.",
+    "desc": "Unlocked 18m Overall Exp. achievement.",
     "date": "August 8, 2026",
-    "icon": "fas fa-trophy"
-  },
-  {
-    "title": "128m Overall Exp.",
-    "member": "OmgWtfHax",
-    "category": "skill",
-    "desc": "Unlocked 128m Overall Exp. achievement.",
-    "date": "August 7, 2026",
-    "icon": "fas fa-trophy"
-  },
-  {
-    "title": "250 Lunar Chests",
-    "member": "Void of Echo",
-    "category": "drop",
-    "desc": "Unlocked 250 Lunar Chests achievement.",
-    "date": "August 7, 2026",
-    "icon": "fas fa-skull"
-  },
-  {
-    "title": "99 Ranged",
-    "member": "Javelin Josh",
-    "category": "skill",
-    "desc": "Unlocked 99 Ranged achievement.",
-    "date": "August 7, 2026",
     "icon": "fas fa-trophy"
   }
 ]
