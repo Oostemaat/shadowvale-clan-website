@@ -1,5 +1,13 @@
 [
   {
+    "title": "99 Ranged",
+    "member": "ironskullyy",
+    "category": "skill",
+    "desc": "Unlocked 99 Ranged achievement.",
+    "date": "August 24, 2026",
+    "icon": "fas fa-trophy"
+  },
+  {
     "title": "500 The Leviathan kills",
     "member": "cbrkenny",
     "category": "drop",
@@ -390,13 +398,5 @@
     "desc": "Unlocked 99 Ranged achievement.",
     "date": "August 7, 2026",
     "icon": "fas fa-trophy"
-  },
-  {
-    "title": "1000 The Royal Titans kills",
-    "member": "cbrkenny",
-    "category": "drop",
-    "desc": "Unlocked 1000 The Royal Titans kills achievement.",
-    "date": "August 7, 2026",
-    "icon": "fas fa-skull"
   }
 ]
