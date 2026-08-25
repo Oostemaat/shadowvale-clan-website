@@ -1,5 +1,13 @@
 [
   {
+    "title": "1000 Araxxor kills",
+    "member": "ComingHome",
+    "category": "drop",
+    "desc": "Unlocked 1000 Araxxor kills achievement.",
+    "date": "August 25, 2026",
+    "icon": "fas fa-skull"
+  },
+  {
     "title": "99 Herblore",
     "member": "statgrabber1",
     "category": "skill",
@@ -390,13 +398,5 @@
     "desc": "Unlocked 100 Clue Scrolls Master kills achievement.",
     "date": "August 8, 2026",
     "icon": "fas fa-skull"
-  },
-  {
-    "title": "18m Overall Exp.",
-    "member": "Knd l",
-    "category": "skill",
-    "desc": "Unlocked 18m Overall Exp. achievement.",
-    "date": "August 8, 2026",
-    "icon": "fas fa-trophy"
   }
 ]
