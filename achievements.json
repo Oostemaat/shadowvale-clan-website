@@ -1,5 +1,13 @@
 [
   {
+    "title": "50 Skotizo kills",
+    "member": "dark neun",
+    "category": "drop",
+    "desc": "Unlocked 50 Skotizo kills achievement.",
+    "date": "August 25, 2026",
+    "icon": "fas fa-skull"
+  },
+  {
     "title": "18m Overall Exp.",
     "member": "guzzzy39",
     "category": "skill",
@@ -388,14 +396,6 @@
     "member": "7up is ass",
     "category": "drop",
     "desc": "Unlocked 500 Shellbane Gryphon kills achievement.",
-    "date": "August 9, 2026",
-    "icon": "fas fa-skull"
-  },
-  {
-    "title": "100 Brutus kills",
-    "member": "lvl 420",
-    "category": "drop",
-    "desc": "Unlocked 100 Brutus kills achievement.",
     "date": "August 9, 2026",
     "icon": "fas fa-skull"
   }
