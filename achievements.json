@@ -1,5 +1,13 @@
 [
   {
+    "title": "99 Mining",
+    "member": "PewPewPachu",
+    "category": "skill",
+    "desc": "Unlocked 99 Mining achievement.",
+    "date": "August 25, 2026",
+    "icon": "fas fa-trophy"
+  },
+  {
     "title": "1000 Araxxor kills",
     "member": "ComingHome",
     "category": "drop",
@@ -390,13 +398,5 @@
     "desc": "Unlocked Base 60 Stats achievement.",
     "date": "August 8, 2026",
     "icon": "fas fa-trophy"
-  },
-  {
-    "title": "100 Clue Scrolls Master kills",
-    "member": "kodakid98",
-    "category": "drop",
-    "desc": "Unlocked 100 Clue Scrolls Master kills achievement.",
-    "date": "August 8, 2026",
-    "icon": "fas fa-skull"
   }
 ]
