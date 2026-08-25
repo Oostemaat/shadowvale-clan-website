@@ -1,5 +1,13 @@
 [
   {
+    "title": "18m Overall Exp.",
+    "member": "guzzzy39",
+    "category": "skill",
+    "desc": "Unlocked 18m Overall Exp. achievement.",
+    "date": "August 25, 2026",
+    "icon": "fas fa-trophy"
+  },
+  {
     "title": "99 Slayer",
     "member": "AlexLix",
     "category": "skill",
@@ -390,13 +398,5 @@
     "desc": "Unlocked 100 Brutus kills achievement.",
     "date": "August 9, 2026",
     "icon": "fas fa-skull"
-  },
-  {
-    "title": "Base 60 Stats",
-    "member": "Bloats_Flys",
-    "category": "skill",
-    "desc": "Unlocked Base 60 Stats achievement.",
-    "date": "August 9, 2026",
-    "icon": "fas fa-trophy"
   }
 ]
