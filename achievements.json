@@ -1,5 +1,21 @@
 [
   {
+    "title": "99 Crafting",
+    "member": "statgrabber1",
+    "category": "skill",
+    "desc": "Unlocked 99 Crafting achievement.",
+    "date": "August 26, 2026",
+    "icon": "fas fa-trophy"
+  },
+  {
+    "title": "100 The Corrupted Gauntlet kills",
+    "member": "niteshadex81",
+    "category": "drop",
+    "desc": "Unlocked 100 The Corrupted Gauntlet kills achievement.",
+    "date": "August 26, 2026",
+    "icon": "fas fa-skull"
+  },
+  {
     "title": "50,000,000 Hitpoints Exp.",
     "member": "kodakid98",
     "category": "skill",
@@ -381,22 +397,6 @@
     "category": "drop",
     "desc": "Unlocked 1000 Callisto kills achievement.",
     "date": "August 11, 2026",
-    "icon": "fas fa-skull"
-  },
-  {
-    "title": "1000 Yama kills",
-    "member": "PushingPoops",
-    "category": "drop",
-    "desc": "Unlocked 1000 Yama kills achievement.",
-    "date": "August 11, 2026",
-    "icon": "fas fa-skull"
-  },
-  {
-    "title": "500 Abyssal Sire kills",
-    "member": "crit seeker",
-    "category": "drop",
-    "desc": "Unlocked 500 Abyssal Sire kills achievement.",
-    "date": "August 10, 2026",
     "icon": "fas fa-skull"
   }
 ]
