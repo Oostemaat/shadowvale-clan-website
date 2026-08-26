@@ -1,5 +1,13 @@
 [
   {
+    "title": "50,000,000 Hitpoints Exp.",
+    "member": "kodakid98",
+    "category": "skill",
+    "desc": "Unlocked 50,000,000 Hitpoints Exp. achievement.",
+    "date": "August 26, 2026",
+    "icon": "fas fa-trophy"
+  },
+  {
     "title": "99 Strength",
     "member": "zemberr",
     "category": "skill",
@@ -390,13 +398,5 @@
     "desc": "Unlocked 500 Abyssal Sire kills achievement.",
     "date": "August 10, 2026",
     "icon": "fas fa-skull"
-  },
-  {
-    "title": "99 Hitpoints",
-    "member": "ironskullyy",
-    "category": "skill",
-    "desc": "Unlocked 99 Hitpoints achievement.",
-    "date": "August 10, 2026",
-    "icon": "fas fa-trophy"
   }
 ]
