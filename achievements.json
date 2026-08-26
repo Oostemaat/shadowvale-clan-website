@@ -1,5 +1,13 @@
 [
   {
+    "title": "99 Strength",
+    "member": "zemberr",
+    "category": "skill",
+    "desc": "Unlocked 99 Strength achievement.",
+    "date": "August 25, 2026",
+    "icon": "fas fa-trophy"
+  },
+  {
     "title": "50 Skotizo kills",
     "member": "dark neun",
     "category": "drop",
@@ -390,13 +398,5 @@
     "desc": "Unlocked 99 Hitpoints achievement.",
     "date": "August 10, 2026",
     "icon": "fas fa-trophy"
-  },
-  {
-    "title": "500 Shellbane Gryphon kills",
-    "member": "7up is ass",
-    "category": "drop",
-    "desc": "Unlocked 500 Shellbane Gryphon kills achievement.",
-    "date": "August 9, 2026",
-    "icon": "fas fa-skull"
   }
 ]
