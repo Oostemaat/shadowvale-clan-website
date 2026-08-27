@@ -1,5 +1,13 @@
 [
   {
+    "title": "1000 Maggot King kills",
+    "member": "S0ME",
+    "category": "drop",
+    "desc": "Unlocked 1000 Maggot King kills achievement.",
+    "date": "August 27, 2026",
+    "icon": "fas fa-skull"
+  },
+  {
     "title": "99 Crafting",
     "member": "statgrabber1",
     "category": "skill",
@@ -388,14 +396,6 @@
     "member": "1I 1I",
     "category": "drop",
     "desc": "Unlocked 100 Tombs Of Amascut Expert kills achievement.",
-    "date": "August 11, 2026",
-    "icon": "fas fa-skull"
-  },
-  {
-    "title": "1000 Callisto kills",
-    "member": "dyrn",
-    "category": "drop",
-    "desc": "Unlocked 1000 Callisto kills achievement.",
     "date": "August 11, 2026",
     "icon": "fas fa-skull"
   }
