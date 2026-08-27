@@ -1,5 +1,21 @@
 [
   {
+    "title": "Base 60 Stats",
+    "member": "mr mayhemz",
+    "category": "skill",
+    "desc": "Unlocked Base 60 Stats achievement.",
+    "date": "August 27, 2026",
+    "icon": "fas fa-trophy"
+  },
+  {
+    "title": "Base 60 Stats",
+    "member": "im bigmeat",
+    "category": "skill",
+    "desc": "Unlocked Base 60 Stats achievement.",
+    "date": "August 27, 2026",
+    "icon": "fas fa-trophy"
+  },
+  {
     "title": "1000 Maggot King kills",
     "member": "S0ME",
     "category": "drop",
@@ -382,21 +398,5 @@
     "desc": "Unlocked 99 Slayer achievement.",
     "date": "August 11, 2026",
     "icon": "fas fa-trophy"
-  },
-  {
-    "title": "500 Vardorvis kills",
-    "member": "youngninja",
-    "category": "drop",
-    "desc": "Unlocked 500 Vardorvis kills achievement.",
-    "date": "August 11, 2026",
-    "icon": "fas fa-skull"
-  },
-  {
-    "title": "100 Tombs Of Amascut Expert kills",
-    "member": "1I 1I",
-    "category": "drop",
-    "desc": "Unlocked 100 Tombs Of Amascut Expert kills achievement.",
-    "date": "August 11, 2026",
-    "icon": "fas fa-skull"
   }
 ]
