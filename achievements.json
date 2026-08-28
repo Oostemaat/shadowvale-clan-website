@@ -1,5 +1,13 @@
 [
   {
+    "title": "1000 The Leviathan kills",
+    "member": "cbrkenny",
+    "category": "drop",
+    "desc": "Unlocked 1000 The Leviathan kills achievement.",
+    "date": "August 28, 2026",
+    "icon": "fas fa-skull"
+  },
+  {
     "title": "Base 60 Stats",
     "member": "mr mayhemz",
     "category": "skill",
@@ -390,13 +398,5 @@
     "desc": "Unlocked 500 Duke Sucellus kills achievement.",
     "date": "August 11, 2026",
     "icon": "fas fa-skull"
-  },
-  {
-    "title": "99 Slayer",
-    "member": "5DMG",
-    "category": "skill",
-    "desc": "Unlocked 99 Slayer achievement.",
-    "date": "August 11, 2026",
-    "icon": "fas fa-trophy"
   }
 ]
