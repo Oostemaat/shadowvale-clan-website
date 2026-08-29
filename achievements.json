@@ -1,5 +1,13 @@
 [
   {
+    "title": "5000 Soul Wars Zeal kills",
+    "member": "Manswarm",
+    "category": "drop",
+    "desc": "Unlocked 5000 Soul Wars Zeal kills achievement.",
+    "date": "August 29, 2026",
+    "icon": "fas fa-skull"
+  },
+  {
     "title": "500 The Whisperer kills",
     "member": "dark neun",
     "category": "drop",
@@ -390,13 +398,5 @@
     "desc": "Unlocked 10 Mimic kills achievement.",
     "date": "August 13, 2026",
     "icon": "fas fa-skull"
-  },
-  {
-    "title": "18m Overall Exp.",
-    "member": "Jearbear1821",
-    "category": "skill",
-    "desc": "Unlocked 18m Overall Exp. achievement.",
-    "date": "August 12, 2026",
-    "icon": "fas fa-trophy"
   }
 ]
