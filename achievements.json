@@ -1,5 +1,21 @@
 [
   {
+    "title": "100 The Gauntlet kills",
+    "member": "Jearbear1821",
+    "category": "drop",
+    "desc": "Unlocked 100 The Gauntlet kills achievement.",
+    "date": "August 29, 2026",
+    "icon": "fas fa-skull"
+  },
+  {
+    "title": "500 Duke Sucellus kills",
+    "member": "1I 1I",
+    "category": "drop",
+    "desc": "Unlocked 500 Duke Sucellus kills achievement.",
+    "date": "August 29, 2026",
+    "icon": "fas fa-skull"
+  },
+  {
     "title": "1000 The Leviathan kills",
     "member": "cbrkenny",
     "category": "drop",
@@ -380,22 +396,6 @@
     "member": "gim vxnm",
     "category": "drop",
     "desc": "Unlocked 500 The Royal Titans kills achievement.",
-    "date": "August 11, 2026",
-    "icon": "fas fa-skull"
-  },
-  {
-    "title": "100m Overall Exp.",
-    "member": "zemberr",
-    "category": "skill",
-    "desc": "Unlocked 100m Overall Exp. achievement.",
-    "date": "August 11, 2026",
-    "icon": "fas fa-trophy"
-  },
-  {
-    "title": "500 Duke Sucellus kills",
-    "member": "cbrkenny",
-    "category": "drop",
-    "desc": "Unlocked 500 Duke Sucellus kills achievement.",
     "date": "August 11, 2026",
     "icon": "fas fa-skull"
   }
