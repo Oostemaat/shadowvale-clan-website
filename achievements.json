@@ -1,5 +1,13 @@
 [
   {
+    "title": "100 Lunar Chests",
+    "member": "Bloats_Flys",
+    "category": "drop",
+    "desc": "Unlocked 100 Lunar Chests achievement.",
+    "date": "August 29, 2026",
+    "icon": "fas fa-skull"
+  },
+  {
     "title": "100 The Gauntlet kills",
     "member": "Jearbear1821",
     "category": "drop",
@@ -389,14 +397,6 @@
     "category": "drop",
     "desc": "Unlocked 1000 Sarachnis kills achievement.",
     "date": "August 12, 2026",
-    "icon": "fas fa-skull"
-  },
-  {
-    "title": "500 The Royal Titans kills",
-    "member": "gim vxnm",
-    "category": "drop",
-    "desc": "Unlocked 500 The Royal Titans kills achievement.",
-    "date": "August 11, 2026",
     "icon": "fas fa-skull"
   }
 ]
