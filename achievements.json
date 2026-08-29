@@ -1,5 +1,13 @@
 [
   {
+    "title": "500 The Whisperer kills",
+    "member": "dark neun",
+    "category": "drop",
+    "desc": "Unlocked 500 The Whisperer kills achievement.",
+    "date": "August 29, 2026",
+    "icon": "fas fa-skull"
+  },
+  {
     "title": "100 Lunar Chests",
     "member": "Bloats_Flys",
     "category": "drop",
@@ -390,13 +398,5 @@
     "desc": "Unlocked 18m Overall Exp. achievement.",
     "date": "August 12, 2026",
     "icon": "fas fa-trophy"
-  },
-  {
-    "title": "1000 Sarachnis kills",
-    "member": "Knd l",
-    "category": "drop",
-    "desc": "Unlocked 1000 Sarachnis kills achievement.",
-    "date": "August 12, 2026",
-    "icon": "fas fa-skull"
   }
 ]
