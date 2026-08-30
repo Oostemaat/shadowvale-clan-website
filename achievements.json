@@ -1,5 +1,13 @@
 [
   {
+    "title": "99 Attack",
+    "member": "skullyyyy",
+    "category": "skill",
+    "desc": "Unlocked 99 Attack achievement.",
+    "date": "August 30, 2026",
+    "icon": "fas fa-trophy"
+  },
+  {
     "title": "5000 Soul Wars Zeal kills",
     "member": "Manswarm",
     "category": "drop",
@@ -388,14 +396,6 @@
     "member": "Yatted",
     "category": "drop",
     "desc": "Unlocked 500 Araxxor kills achievement.",
-    "date": "August 13, 2026",
-    "icon": "fas fa-skull"
-  },
-  {
-    "title": "10 Mimic kills",
-    "member": "Manswarm",
-    "category": "drop",
-    "desc": "Unlocked 10 Mimic kills achievement.",
     "date": "August 13, 2026",
     "icon": "fas fa-skull"
   }
