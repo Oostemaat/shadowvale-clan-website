@@ -1,5 +1,13 @@
 [
   {
+    "title": "99 Fishing",
+    "member": "BotsKnowMyRs",
+    "category": "skill",
+    "desc": "Unlocked 99 Fishing achievement.",
+    "date": "September 1, 2026",
+    "icon": "fas fa-trophy"
+  },
+  {
     "title": "500 The Leviathan kills",
     "member": "youngninja",
     "category": "drop",
@@ -390,13 +398,5 @@
     "desc": "Unlocked 500 Wintertodt kills achievement.",
     "date": "August 14, 2026",
     "icon": "fas fa-skull"
-  },
-  {
-    "title": "100m Overall Exp.",
-    "member": "Jearbear1821",
-    "category": "skill",
-    "desc": "Unlocked 100m Overall Exp. achievement.",
-    "date": "August 13, 2026",
-    "icon": "fas fa-trophy"
   }
 ]
