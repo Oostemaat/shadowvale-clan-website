@@ -1,5 +1,13 @@
 [
   {
+    "title": "100 Theatre Of Blood kills",
+    "member": "gxku",
+    "category": "drop",
+    "desc": "Unlocked 100 Theatre Of Blood kills achievement.",
+    "date": "September 2, 2026",
+    "icon": "fas fa-skull"
+  },
+  {
     "title": "500 General Graardor kills",
     "member": "crippled2k87",
     "category": "drop",
@@ -390,13 +398,5 @@
     "desc": "Unlocked 99 Defence achievement.",
     "date": "August 15, 2026",
     "icon": "fas fa-trophy"
-  },
-  {
-    "title": "500 Vorkath kills",
-    "member": "kodakid98",
-    "category": "drop",
-    "desc": "Unlocked 500 Vorkath kills achievement.",
-    "date": "August 14, 2026",
-    "icon": "fas fa-skull"
   }
 ]
