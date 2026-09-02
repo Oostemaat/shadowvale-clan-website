@@ -1,5 +1,13 @@
 [
   {
+    "title": "500 General Graardor kills",
+    "member": "crippled2k87",
+    "category": "drop",
+    "desc": "Unlocked 500 General Graardor kills achievement.",
+    "date": "September 2, 2026",
+    "icon": "fas fa-skull"
+  },
+  {
     "title": "500 Artio kills",
     "member": "dyrn",
     "category": "drop",
@@ -390,13 +398,5 @@
     "desc": "Unlocked 500 Vorkath kills achievement.",
     "date": "August 14, 2026",
     "icon": "fas fa-skull"
-  },
-  {
-    "title": "99 Defence",
-    "member": "cbrkenny",
-    "category": "skill",
-    "desc": "Unlocked 99 Defence achievement.",
-    "date": "August 14, 2026",
-    "icon": "fas fa-trophy"
   }
 ]
