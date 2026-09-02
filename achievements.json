@@ -1,5 +1,13 @@
 [
   {
+    "title": "1200 Collection Log Slots",
+    "member": "ComingHome",
+    "category": "milestone",
+    "desc": "Unlocked 1200 Collection Log Slots achievement.",
+    "date": "September 2, 2026",
+    "icon": "fas fa-box-open"
+  },
+  {
     "title": "100 Theatre Of Blood kills",
     "member": "gxku",
     "category": "drop",
@@ -390,13 +398,5 @@
     "desc": "Unlocked 500 Wintertodt kills achievement.",
     "date": "August 14, 2026",
     "icon": "fas fa-skull"
-  },
-  {
-    "title": "100m Overall Exp.",
-    "member": "Jearbear1821",
-    "category": "skill",
-    "desc": "Unlocked 100m Overall Exp. achievement.",
-    "date": "August 13, 2026",
-    "icon": "fas fa-trophy"
   }
 ]
