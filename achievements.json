@@ -1,13 +1,5 @@
 [
   {
-    "title": "500 Phantom Muspah kills",
-    "member": "cbrkenny",
-    "category": "drop",
-    "desc": "Unlocked 500 Phantom Muspah kills achievement.",
-    "date": "September 2, 2026",
-    "icon": "fas fa-skull"
-  },
-  {
     "title": "100 Theatre Of Blood kills",
     "member": "gxku",
     "category": "drop",
@@ -101,14 +93,6 @@
     "category": "drop",
     "desc": "Unlocked 500 Duke Sucellus kills achievement.",
     "date": "August 29, 2026",
-    "icon": "fas fa-skull"
-  },
-  {
-    "title": "1000 The Leviathan kills",
-    "member": "cbrkenny",
-    "category": "drop",
-    "desc": "Unlocked 1000 The Leviathan kills achievement.",
-    "date": "August 28, 2026",
     "icon": "fas fa-skull"
   },
   {
@@ -240,14 +224,6 @@
     "icon": "fas fa-trophy"
   },
   {
-    "title": "500 The Leviathan kills",
-    "member": "cbrkenny",
-    "category": "drop",
-    "desc": "Unlocked 500 The Leviathan kills achievement.",
-    "date": "August 23, 2026",
-    "icon": "fas fa-skull"
-  },
-  {
     "title": "500 Chaos Elemental kills",
     "member": "Manswarm",
     "category": "drop",
@@ -376,14 +352,6 @@
     "icon": "fas fa-skull"
   },
   {
-    "title": "1000 Duke Sucellus kills",
-    "member": "cbrkenny",
-    "category": "drop",
-    "desc": "Unlocked 1000 Duke Sucellus kills achievement.",
-    "date": "August 16, 2026",
-    "icon": "fas fa-skull"
-  },
-  {
     "title": "500 Yama kills",
     "member": "kodakid98",
     "category": "drop",
@@ -397,6 +365,38 @@
     "category": "skill",
     "desc": "Unlocked 200m Overall Exp. achievement.",
     "date": "August 15, 2026",
+    "icon": "fas fa-trophy"
+  },
+  {
+    "title": "99 Defence",
+    "member": "Jmnz88",
+    "category": "skill",
+    "desc": "Unlocked 99 Defence achievement.",
+    "date": "August 15, 2026",
+    "icon": "fas fa-trophy"
+  },
+  {
+    "title": "500 Vorkath kills",
+    "member": "kodakid98",
+    "category": "drop",
+    "desc": "Unlocked 500 Vorkath kills achievement.",
+    "date": "August 14, 2026",
+    "icon": "fas fa-skull"
+  },
+  {
+    "title": "500 Wintertodt kills",
+    "member": "OmgWtfHax",
+    "category": "drop",
+    "desc": "Unlocked 500 Wintertodt kills achievement.",
+    "date": "August 14, 2026",
+    "icon": "fas fa-skull"
+  },
+  {
+    "title": "100m Overall Exp.",
+    "member": "Jearbear1821",
+    "category": "skill",
+    "desc": "Unlocked 100m Overall Exp. achievement.",
+    "date": "August 13, 2026",
     "icon": "fas fa-trophy"
   }
 ]
