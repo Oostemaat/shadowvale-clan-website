@@ -1,5 +1,13 @@
 [
   {
+    "title": "50,000,000 Ranged Exp.",
+    "member": "gimsparrowbr",
+    "category": "skill",
+    "desc": "Unlocked 50,000,000 Ranged Exp. achievement.",
+    "date": "September 3, 2026",
+    "icon": "fas fa-trophy"
+  },
+  {
     "title": "Base 60 Stats",
     "member": "GIMSotetseg",
     "category": "skill",
@@ -390,13 +398,5 @@
     "desc": "Unlocked 99 Defence achievement.",
     "date": "August 15, 2026",
     "icon": "fas fa-trophy"
-  },
-  {
-    "title": "500 Vorkath kills",
-    "member": "kodakid98",
-    "category": "drop",
-    "desc": "Unlocked 500 Vorkath kills achievement.",
-    "date": "August 14, 2026",
-    "icon": "fas fa-skull"
   }
 ]
