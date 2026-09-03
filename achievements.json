@@ -1,5 +1,13 @@
 [
   {
+    "title": "Base 60 Stats",
+    "member": "GIMSotetseg",
+    "category": "skill",
+    "desc": "Unlocked Base 60 Stats achievement.",
+    "date": "September 3, 2026",
+    "icon": "fas fa-trophy"
+  },
+  {
     "title": "1200 Collection Log Slots",
     "member": "ComingHome",
     "category": "milestone",
@@ -388,14 +396,6 @@
     "member": "kodakid98",
     "category": "drop",
     "desc": "Unlocked 500 Vorkath kills achievement.",
-    "date": "August 14, 2026",
-    "icon": "fas fa-skull"
-  },
-  {
-    "title": "500 Wintertodt kills",
-    "member": "OmgWtfHax",
-    "category": "drop",
-    "desc": "Unlocked 500 Wintertodt kills achievement.",
     "date": "August 14, 2026",
     "icon": "fas fa-skull"
   }
