@@ -1,6 +1,14 @@
 [
   {
     "title": "99 Strength",
+    "member": "ironskullyy",
+    "category": "skill",
+    "desc": "Unlocked 99 Strength achievement.",
+    "date": "September 4, 2026",
+    "icon": "fas fa-trophy"
+  },
+  {
+    "title": "99 Strength",
     "member": "ellui",
     "category": "skill",
     "desc": "Unlocked 99 Strength achievement.",
@@ -389,14 +397,6 @@
     "category": "drop",
     "desc": "Unlocked 200 The Corrupted Gauntlet kills achievement.",
     "date": "August 16, 2026",
-    "icon": "fas fa-skull"
-  },
-  {
-    "title": "500 Yama kills",
-    "member": "kodakid98",
-    "category": "drop",
-    "desc": "Unlocked 500 Yama kills achievement.",
-    "date": "August 15, 2026",
     "icon": "fas fa-skull"
   }
 ]
