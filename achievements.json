@@ -1,5 +1,21 @@
 [
   {
+    "title": "99 Strength",
+    "member": "ellui",
+    "category": "skill",
+    "desc": "Unlocked 99 Strength achievement.",
+    "date": "September 4, 2026",
+    "icon": "fas fa-trophy"
+  },
+  {
+    "title": "50,000,000 Hitpoints Exp.",
+    "member": "PushingPoops",
+    "category": "skill",
+    "desc": "Unlocked 50,000,000 Hitpoints Exp. achievement.",
+    "date": "September 4, 2026",
+    "icon": "fas fa-trophy"
+  },
+  {
     "title": "50,000,000 Ranged Exp.",
     "member": "gimsparrowbr",
     "category": "skill",
@@ -382,21 +398,5 @@
     "desc": "Unlocked 500 Yama kills achievement.",
     "date": "August 15, 2026",
     "icon": "fas fa-skull"
-  },
-  {
-    "title": "200m Overall Exp.",
-    "member": "Squiddy btw",
-    "category": "skill",
-    "desc": "Unlocked 200m Overall Exp. achievement.",
-    "date": "August 15, 2026",
-    "icon": "fas fa-trophy"
-  },
-  {
-    "title": "99 Defence",
-    "member": "Jmnz88",
-    "category": "skill",
-    "desc": "Unlocked 99 Defence achievement.",
-    "date": "August 15, 2026",
-    "icon": "fas fa-trophy"
   }
 ]
