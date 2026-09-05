@@ -1,5 +1,13 @@
 [
   {
+    "title": "1000 Kril Tsutsaroth kills",
+    "member": "Lvl 6",
+    "category": "drop",
+    "desc": "Unlocked 1000 Kril Tsutsaroth kills achievement.",
+    "date": "September 5, 2026",
+    "icon": "fas fa-skull"
+  },
+  {
     "title": "99 Strength",
     "member": "ironskullyy",
     "category": "skill",
@@ -390,13 +398,5 @@
     "desc": "Unlocked 99 Firemaking achievement.",
     "date": "August 16, 2026",
     "icon": "fas fa-trophy"
-  },
-  {
-    "title": "200 The Corrupted Gauntlet kills",
-    "member": "7up is ass",
-    "category": "drop",
-    "desc": "Unlocked 200 The Corrupted Gauntlet kills achievement.",
-    "date": "August 16, 2026",
-    "icon": "fas fa-skull"
   }
 ]
