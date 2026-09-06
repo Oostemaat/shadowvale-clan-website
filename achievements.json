@@ -1,5 +1,13 @@
 [
   {
+    "title": "99 Hitpoints",
+    "member": "1I 1I",
+    "category": "skill",
+    "desc": "Unlocked 99 Hitpoints achievement.",
+    "date": "September 6, 2026",
+    "icon": "fas fa-trophy"
+  },
+  {
     "title": "50 Hespori kills",
     "member": "Manswarm",
     "category": "drop",
@@ -390,13 +398,5 @@
     "desc": "Unlocked 99 Firemaking achievement.",
     "date": "August 16, 2026",
     "icon": "fas fa-trophy"
-  },
-  {
-    "title": "200 The Corrupted Gauntlet kills",
-    "member": "7up is ass",
-    "category": "drop",
-    "desc": "Unlocked 200 The Corrupted Gauntlet kills achievement.",
-    "date": "August 16, 2026",
-    "icon": "fas fa-skull"
   }
 ]
