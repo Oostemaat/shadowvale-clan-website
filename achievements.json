@@ -1,5 +1,13 @@
 [
   {
+    "title": "1000 General Graardor kills",
+    "member": "crippled2k87",
+    "category": "drop",
+    "desc": "Unlocked 1000 General Graardor kills achievement.",
+    "date": "September 6, 2026",
+    "icon": "fas fa-skull"
+  },
+  {
     "title": "1000 Kril Tsutsaroth kills",
     "member": "Lvl 6",
     "category": "drop",
@@ -389,14 +397,6 @@
     "category": "skill",
     "desc": "Unlocked 99 Attack achievement.",
     "date": "August 17, 2026",
-    "icon": "fas fa-trophy"
-  },
-  {
-    "title": "99 Firemaking",
-    "member": "OmgWtfHax",
-    "category": "skill",
-    "desc": "Unlocked 99 Firemaking achievement.",
-    "date": "August 16, 2026",
     "icon": "fas fa-trophy"
   }
 ]
