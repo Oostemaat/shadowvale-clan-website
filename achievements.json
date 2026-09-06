@@ -128,14 +128,6 @@
     "icon": "fas fa-skull"
   },
   {
-    "title": "500 The Whisperer kills",
-    "member": "dark neun",
-    "category": "drop",
-    "desc": "Unlocked 500 The Whisperer kills achievement.",
-    "date": "August 29, 2026",
-    "icon": "fas fa-skull"
-  },
-  {
     "title": "100 Lunar Chests",
     "member": "Bloats_Flys",
     "category": "drop",
@@ -214,14 +206,6 @@
     "desc": "Unlocked 99 Strength achievement.",
     "date": "August 25, 2026",
     "icon": "fas fa-trophy"
-  },
-  {
-    "title": "50 Skotizo kills",
-    "member": "dark neun",
-    "category": "drop",
-    "desc": "Unlocked 50 Skotizo kills achievement.",
-    "date": "August 25, 2026",
-    "icon": "fas fa-skull"
   },
   {
     "title": "18m Overall Exp.",
@@ -336,14 +320,6 @@
     "icon": "fas fa-trophy"
   },
   {
-    "title": "1000 Vardorvis kills",
-    "member": "dark neun",
-    "category": "drop",
-    "desc": "Unlocked 1000 Vardorvis kills achievement.",
-    "date": "August 20, 2026",
-    "icon": "fas fa-skull"
-  },
-  {
     "title": "100 Doom Of Mokhaiotl kills",
     "member": "ryanwri",
     "category": "drop",
@@ -398,5 +374,29 @@
     "desc": "Unlocked 99 Attack achievement.",
     "date": "August 17, 2026",
     "icon": "fas fa-trophy"
+  },
+  {
+    "title": "99 Firemaking",
+    "member": "OmgWtfHax",
+    "category": "skill",
+    "desc": "Unlocked 99 Firemaking achievement.",
+    "date": "August 16, 2026",
+    "icon": "fas fa-trophy"
+  },
+  {
+    "title": "200 The Corrupted Gauntlet kills",
+    "member": "7up is ass",
+    "category": "drop",
+    "desc": "Unlocked 200 The Corrupted Gauntlet kills achievement.",
+    "date": "August 16, 2026",
+    "icon": "fas fa-skull"
+  },
+  {
+    "title": "500 Yama kills",
+    "member": "kodakid98",
+    "category": "drop",
+    "desc": "Unlocked 500 Yama kills achievement.",
+    "date": "August 15, 2026",
+    "icon": "fas fa-skull"
   }
 ]
