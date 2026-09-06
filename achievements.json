@@ -1,5 +1,13 @@
 [
   {
+    "title": "50 Hespori kills",
+    "member": "Manswarm",
+    "category": "drop",
+    "desc": "Unlocked 50 Hespori kills achievement.",
+    "date": "September 6, 2026",
+    "icon": "fas fa-skull"
+  },
+  {
     "title": "1000 General Graardor kills",
     "member": "crippled2k87",
     "category": "drop",
@@ -389,14 +397,6 @@
     "category": "drop",
     "desc": "Unlocked 200 The Corrupted Gauntlet kills achievement.",
     "date": "August 16, 2026",
-    "icon": "fas fa-skull"
-  },
-  {
-    "title": "500 Yama kills",
-    "member": "kodakid98",
-    "category": "drop",
-    "desc": "Unlocked 500 Yama kills achievement.",
-    "date": "August 15, 2026",
     "icon": "fas fa-skull"
   }
 ]
