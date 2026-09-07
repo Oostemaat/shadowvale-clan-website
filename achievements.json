@@ -1,5 +1,13 @@
 [
   {
+    "title": "50,000,000 Magic Exp.",
+    "member": "crippled2k87",
+    "category": "skill",
+    "desc": "Unlocked 50,000,000 Magic Exp. achievement.",
+    "date": "September 7, 2026",
+    "icon": "fas fa-trophy"
+  },
+  {
     "title": "99 Construction",
     "member": "Lvl 6",
     "category": "skill",
@@ -390,13 +398,5 @@
     "desc": "Unlocked 500 Thermonuclear Smoke Devil kills achievement.",
     "date": "August 18, 2026",
     "icon": "fas fa-skull"
-  },
-  {
-    "title": "99 Attack",
-    "member": "Dr Diggy",
-    "category": "skill",
-    "desc": "Unlocked 99 Attack achievement.",
-    "date": "August 17, 2026",
-    "icon": "fas fa-trophy"
   }
 ]
