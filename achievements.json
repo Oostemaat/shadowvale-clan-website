@@ -1,5 +1,13 @@
 [
   {
+    "title": "50,000,000 Hitpoints Exp.",
+    "member": "i use haki",
+    "category": "skill",
+    "desc": "Unlocked 50,000,000 Hitpoints Exp. achievement.",
+    "date": "September 7, 2026",
+    "icon": "fas fa-trophy"
+  },
+  {
     "title": "100 Tombs Of Amascut Expert kills",
     "member": "guzanator",
     "category": "drop",
@@ -390,13 +398,5 @@
     "desc": "Unlocked 99 Magic achievement.",
     "date": "August 20, 2026",
     "icon": "fas fa-trophy"
-  },
-  {
-    "title": "100 Bryophyta kills",
-    "member": "sammydafoe82",
-    "category": "drop",
-    "desc": "Unlocked 100 Bryophyta kills achievement.",
-    "date": "August 19, 2026",
-    "icon": "fas fa-skull"
   }
 ]
