@@ -1,5 +1,13 @@
 [
   {
+    "title": "100 Tombs Of Amascut Expert kills",
+    "member": "guzanator",
+    "category": "drop",
+    "desc": "Unlocked 100 Tombs Of Amascut Expert kills achievement.",
+    "date": "September 7, 2026",
+    "icon": "fas fa-skull"
+  },
+  {
     "title": "99 Fishing",
     "member": "argetdraco",
     "category": "skill",
@@ -390,13 +398,5 @@
     "desc": "Unlocked 100 Bryophyta kills achievement.",
     "date": "August 19, 2026",
     "icon": "fas fa-skull"
-  },
-  {
-    "title": "99 Agility",
-    "member": "argetdraco",
-    "category": "skill",
-    "desc": "Unlocked 99 Agility achievement.",
-    "date": "August 19, 2026",
-    "icon": "fas fa-trophy"
   }
 ]
