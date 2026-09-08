@@ -1,5 +1,13 @@
 [
   {
+    "title": "99 Mining",
+    "member": "skullyyyy",
+    "category": "skill",
+    "desc": "Unlocked 99 Mining achievement.",
+    "date": "September 8, 2026",
+    "icon": "fas fa-trophy"
+  },
+  {
     "title": "100 The Corrupted Gauntlet kills",
     "member": "gim vxnm",
     "category": "drop",
@@ -390,13 +398,5 @@
     "desc": "Unlocked 100 Doom Of Mokhaiotl kills achievement.",
     "date": "August 20, 2026",
     "icon": "fas fa-skull"
-  },
-  {
-    "title": "99 Magic",
-    "member": "Yatted",
-    "category": "skill",
-    "desc": "Unlocked 99 Magic achievement.",
-    "date": "August 20, 2026",
-    "icon": "fas fa-trophy"
   }
 ]
