@@ -1,5 +1,13 @@
 [
   {
+    "title": "500 Mad Angel kills",
+    "member": "Manswarm",
+    "category": "drop",
+    "desc": "Unlocked 500 Mad Angel kills achievement.",
+    "date": "September 9, 2026",
+    "icon": "fas fa-skull"
+  },
+  {
     "title": "200 The Gauntlet kills",
     "member": "Jmnz88",
     "category": "drop",
@@ -390,13 +398,5 @@
     "desc": "Unlocked 250 Lunar Chests achievement.",
     "date": "August 21, 2026",
     "icon": "fas fa-skull"
-  },
-  {
-    "title": "99 Magic",
-    "member": "murkules9",
-    "category": "skill",
-    "desc": "Unlocked 99 Magic achievement.",
-    "date": "August 21, 2026",
-    "icon": "fas fa-trophy"
   }
 ]
