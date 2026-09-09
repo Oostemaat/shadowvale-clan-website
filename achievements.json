@@ -1,5 +1,13 @@
 [
   {
+    "title": "Base 60 Stats",
+    "member": "gim vxnm",
+    "category": "skill",
+    "desc": "Unlocked Base 60 Stats achievement.",
+    "date": "September 9, 2026",
+    "icon": "fas fa-trophy"
+  },
+  {
     "title": "99 Strength",
     "member": "Stokers Mint",
     "category": "skill",
@@ -390,13 +398,5 @@
     "desc": "Unlocked 500 Chaos Elemental kills achievement.",
     "date": "August 23, 2026",
     "icon": "fas fa-skull"
-  },
-  {
-    "title": "Base 60 Stats",
-    "member": "Jesus Stinks",
-    "category": "skill",
-    "desc": "Unlocked Base 60 Stats achievement.",
-    "date": "August 22, 2026",
-    "icon": "fas fa-trophy"
   }
 ]
