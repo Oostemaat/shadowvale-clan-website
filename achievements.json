@@ -1,5 +1,13 @@
 [
   {
+    "title": "500 The Royal Titans kills",
+    "member": "Manswarm",
+    "category": "drop",
+    "desc": "Unlocked 500 The Royal Titans kills achievement.",
+    "date": "September 9, 2026",
+    "icon": "fas fa-skull"
+  },
+  {
     "title": "500 Mad Angel kills",
     "member": "Manswarm",
     "category": "drop",
@@ -390,13 +398,5 @@
     "desc": "Unlocked 99 Attack achievement.",
     "date": "August 21, 2026",
     "icon": "fas fa-trophy"
-  },
-  {
-    "title": "250 Lunar Chests",
-    "member": "Sk8err Sk",
-    "category": "drop",
-    "desc": "Unlocked 250 Lunar Chests achievement.",
-    "date": "August 21, 2026",
-    "icon": "fas fa-skull"
   }
 ]
