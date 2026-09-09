@@ -1,5 +1,13 @@
 [
   {
+    "title": "200 The Gauntlet kills",
+    "member": "Jmnz88",
+    "category": "drop",
+    "desc": "Unlocked 200 The Gauntlet kills achievement.",
+    "date": "September 9, 2026",
+    "icon": "fas fa-skull"
+  },
+  {
     "title": "99 Mining",
     "member": "skullyyyy",
     "category": "skill",
@@ -390,13 +398,5 @@
     "desc": "Unlocked 99 Magic achievement.",
     "date": "August 21, 2026",
     "icon": "fas fa-trophy"
-  },
-  {
-    "title": "100 Doom Of Mokhaiotl kills",
-    "member": "ryanwri",
-    "category": "drop",
-    "desc": "Unlocked 100 Doom Of Mokhaiotl kills achievement.",
-    "date": "August 20, 2026",
-    "icon": "fas fa-skull"
   }
 ]
