@@ -1,5 +1,21 @@
 [
   {
+    "title": "500 Vardorvis kills",
+    "member": "frostdblaze",
+    "category": "drop",
+    "desc": "Unlocked 500 Vardorvis kills achievement.",
+    "date": "September 10, 2026",
+    "icon": "fas fa-skull"
+  },
+  {
+    "title": "500 Vardorvis kills",
+    "member": "Yatted",
+    "category": "drop",
+    "desc": "Unlocked 500 Vardorvis kills achievement.",
+    "date": "September 10, 2026",
+    "icon": "fas fa-skull"
+  },
+  {
     "title": "Base 60 Stats",
     "member": "gim vxnm",
     "category": "skill",
@@ -382,21 +398,5 @@
     "desc": "Unlocked 99 Smithing achievement.",
     "date": "August 24, 2026",
     "icon": "fas fa-trophy"
-  },
-  {
-    "title": "99 Ranged",
-    "member": "ironskullyy",
-    "category": "skill",
-    "desc": "Unlocked 99 Ranged achievement.",
-    "date": "August 24, 2026",
-    "icon": "fas fa-trophy"
-  },
-  {
-    "title": "500 Chaos Elemental kills",
-    "member": "Manswarm",
-    "category": "drop",
-    "desc": "Unlocked 500 Chaos Elemental kills achievement.",
-    "date": "August 23, 2026",
-    "icon": "fas fa-skull"
   }
 ]
