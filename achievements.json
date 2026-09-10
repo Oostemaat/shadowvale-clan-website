@@ -1,5 +1,13 @@
 [
   {
+    "title": "500 Nex kills",
+    "member": "Naphtic",
+    "category": "drop",
+    "desc": "Unlocked 500 Nex kills achievement.",
+    "date": "September 10, 2026",
+    "icon": "fas fa-skull"
+  },
+  {
     "title": "500 Vardorvis kills",
     "member": "frostdblaze",
     "category": "drop",
@@ -388,14 +396,6 @@
     "member": "statgrabber1",
     "category": "skill",
     "desc": "Unlocked 99 Herblore achievement.",
-    "date": "August 24, 2026",
-    "icon": "fas fa-trophy"
-  },
-  {
-    "title": "99 Smithing",
-    "member": "OmgWtfHax",
-    "category": "skill",
-    "desc": "Unlocked 99 Smithing achievement.",
     "date": "August 24, 2026",
     "icon": "fas fa-trophy"
   }
