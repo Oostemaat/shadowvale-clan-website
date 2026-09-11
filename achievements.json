@@ -1,5 +1,13 @@
 [
   {
+    "title": "500 Alchemical Hydra kills",
+    "member": "Jmnz88",
+    "category": "drop",
+    "desc": "Unlocked 500 Alchemical Hydra kills achievement.",
+    "date": "September 11, 2026",
+    "icon": "fas fa-skull"
+  },
+  {
     "title": "100 Clue Scrolls Master kills",
     "member": "Manswarm",
     "category": "drop",
@@ -388,14 +396,6 @@
     "member": "Jearbear1821",
     "category": "skill",
     "desc": "Unlocked 99 Cooking achievement.",
-    "date": "August 25, 2026",
-    "icon": "fas fa-trophy"
-  },
-  {
-    "title": "99 Mining",
-    "member": "PewPewPachu",
-    "category": "skill",
-    "desc": "Unlocked 99 Mining achievement.",
     "date": "August 25, 2026",
     "icon": "fas fa-trophy"
   }
