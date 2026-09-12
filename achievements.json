@@ -1,5 +1,13 @@
 [
   {
+    "title": "500 Maggot King kills",
+    "member": "i use haki",
+    "category": "drop",
+    "desc": "Unlocked 500 Maggot King kills achievement.",
+    "date": "September 12, 2026",
+    "icon": "fas fa-skull"
+  },
+  {
     "title": "Base 60 Stats",
     "member": "Ashelia",
     "category": "skill",
@@ -32,18 +40,18 @@
     "icon": "fas fa-skull"
   },
   {
-    "title": "1000 Clue Scrolls All kills",
-    "member": "Manswarm",
-    "category": "drop",
-    "desc": "Unlocked 1000 Clue Scrolls All kills achievement.",
-    "date": "September 10, 2026",
-    "icon": "fas fa-skull"
-  },
-  {
     "title": "100 Clue Scrolls Master kills",
     "member": "Manswarm",
     "category": "drop",
     "desc": "Unlocked 100 Clue Scrolls Master kills achievement.",
+    "date": "September 10, 2026",
+    "icon": "fas fa-skull"
+  },
+  {
+    "title": "1000 Clue Scrolls All kills",
+    "member": "Manswarm",
+    "category": "drop",
+    "desc": "Unlocked 1000 Clue Scrolls All kills achievement.",
     "date": "September 10, 2026",
     "icon": "fas fa-skull"
   },
@@ -389,14 +397,6 @@
     "category": "skill",
     "desc": "Unlocked 50,000,000 Hitpoints Exp. achievement.",
     "date": "August 26, 2026",
-    "icon": "fas fa-trophy"
-  },
-  {
-    "title": "99 Strength",
-    "member": "zemberr",
-    "category": "skill",
-    "desc": "Unlocked 99 Strength achievement.",
-    "date": "August 25, 2026",
     "icon": "fas fa-trophy"
   }
 ]
