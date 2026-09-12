@@ -1,5 +1,13 @@
 [
   {
+    "title": "1000 The Leviathan kills",
+    "member": "crippled2k87",
+    "category": "drop",
+    "desc": "Unlocked 1000 The Leviathan kills achievement.",
+    "date": "September 12, 2026",
+    "icon": "fas fa-skull"
+  },
+  {
     "title": "500 Maggot King kills",
     "member": "i use haki",
     "category": "drop",
@@ -390,13 +398,5 @@
     "desc": "Unlocked 100 The Corrupted Gauntlet kills achievement.",
     "date": "August 26, 2026",
     "icon": "fas fa-skull"
-  },
-  {
-    "title": "50,000,000 Hitpoints Exp.",
-    "member": "kodakid98",
-    "category": "skill",
-    "desc": "Unlocked 50,000,000 Hitpoints Exp. achievement.",
-    "date": "August 26, 2026",
-    "icon": "fas fa-trophy"
   }
 ]
