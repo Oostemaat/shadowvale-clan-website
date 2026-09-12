@@ -1,5 +1,13 @@
 [
   {
+    "title": "Base 60 Stats",
+    "member": "Ashelia",
+    "category": "skill",
+    "desc": "Unlocked Base 60 Stats achievement.",
+    "date": "September 12, 2026",
+    "icon": "fas fa-trophy"
+  },
+  {
     "title": "1000 The Leviathan kills",
     "member": "Manswarm",
     "category": "drop",
@@ -24,18 +32,18 @@
     "icon": "fas fa-skull"
   },
   {
-    "title": "100 Clue Scrolls Master kills",
-    "member": "Manswarm",
-    "category": "drop",
-    "desc": "Unlocked 100 Clue Scrolls Master kills achievement.",
-    "date": "September 10, 2026",
-    "icon": "fas fa-skull"
-  },
-  {
     "title": "1000 Clue Scrolls All kills",
     "member": "Manswarm",
     "category": "drop",
     "desc": "Unlocked 1000 Clue Scrolls All kills achievement.",
+    "date": "September 10, 2026",
+    "icon": "fas fa-skull"
+  },
+  {
+    "title": "100 Clue Scrolls Master kills",
+    "member": "Manswarm",
+    "category": "drop",
+    "desc": "Unlocked 100 Clue Scrolls Master kills achievement.",
     "date": "September 10, 2026",
     "icon": "fas fa-skull"
   },
@@ -388,14 +396,6 @@
     "member": "zemberr",
     "category": "skill",
     "desc": "Unlocked 99 Strength achievement.",
-    "date": "August 25, 2026",
-    "icon": "fas fa-trophy"
-  },
-  {
-    "title": "18m Overall Exp.",
-    "member": "guzzzy39",
-    "category": "skill",
-    "desc": "Unlocked 18m Overall Exp. achievement.",
     "date": "August 25, 2026",
     "icon": "fas fa-trophy"
   }
