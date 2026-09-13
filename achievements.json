@@ -1,5 +1,13 @@
 [
   {
+    "title": "99 Magic",
+    "member": "cumswarm",
+    "category": "skill",
+    "desc": "Unlocked 99 Magic achievement.",
+    "date": "September 13, 2026",
+    "icon": "fas fa-trophy"
+  },
+  {
     "title": "1000 The Leviathan kills",
     "member": "crippled2k87",
     "category": "drop",
@@ -390,13 +398,5 @@
     "desc": "Unlocked 99 Crafting achievement.",
     "date": "August 26, 2026",
     "icon": "fas fa-trophy"
-  },
-  {
-    "title": "100 The Corrupted Gauntlet kills",
-    "member": "niteshadex81",
-    "category": "drop",
-    "desc": "Unlocked 100 The Corrupted Gauntlet kills achievement.",
-    "date": "August 26, 2026",
-    "icon": "fas fa-skull"
   }
 ]
