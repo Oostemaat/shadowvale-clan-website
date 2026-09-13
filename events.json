@@ -126,5 +126,21 @@
     "startIso": "2026-09-17T22:30:00.000Z",
     "icon": "fas fa-book",
     "host": "Discord Bot"
+  },
+  {
+    "title": "0-3 HUEY. 4-7 CORP MASS. 8+ CALLISTO ANTI PK",
+    "subtitle": "CLAN EVENT",
+    "date": "2026-09-15",
+    "startIso": "2026-09-15T20:00:00.000Z",
+    "icon": "fas fa-skull",
+    "host": "Discord Bot"
+  },
+  {
+    "title": "HUEYCOATL SMALL TEAMS- LOW/NO EXPERIENCE",
+    "subtitle": "CLAN EVENT",
+    "date": "2026-09-18",
+    "startIso": "2026-09-18T17:00:00.000Z",
+    "icon": "fas fa-calendar-alt",
+    "host": "Discord Bot"
   }
 ]
