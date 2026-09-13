@@ -112,11 +112,19 @@
     "host": "Discord Bot"
   },
   {
-    "title": "NEX TEAMS",
+    "title": "NEX SMALL TEAMS - LEARNER FOCUSED",
     "subtitle": "CLAN EVENT",
     "date": "2026-09-17",
     "startIso": "2026-09-17T01:00:00.000Z",
     "icon": "fas fa-skull",
+    "host": "Discord Bot"
+  },
+  {
+    "title": "TOA LEARNERS - 300’S",
+    "subtitle": "CLAN EVENT",
+    "date": "2026-09-17",
+    "startIso": "2026-09-17T22:30:00.000Z",
+    "icon": "fas fa-book",
     "host": "Discord Bot"
   }
 ]
