@@ -1,5 +1,13 @@
 [
   {
+    "title": "500 The Whisperer kills",
+    "member": "youngninja",
+    "category": "drop",
+    "desc": "Unlocked 500 The Whisperer kills achievement.",
+    "date": "September 14, 2026",
+    "icon": "fas fa-skull"
+  },
+  {
     "title": "100 Lunar Chests",
     "member": "ManoleRS",
     "category": "drop",
@@ -16,20 +24,20 @@
     "icon": "fas fa-box-open"
   },
   {
-    "title": "500 Wintertodt kills",
-    "member": "MSXGrom",
-    "category": "drop",
-    "desc": "Unlocked 500 Wintertodt kills achievement.",
-    "date": "September 13, 2026",
-    "icon": "fas fa-skull"
-  },
-  {
     "title": "99 Firemaking",
     "member": "MSXGrom",
     "category": "skill",
     "desc": "Unlocked 99 Firemaking achievement.",
     "date": "September 13, 2026",
     "icon": "fas fa-trophy"
+  },
+  {
+    "title": "500 Wintertodt kills",
+    "member": "MSXGrom",
+    "category": "drop",
+    "desc": "Unlocked 500 Wintertodt kills achievement.",
+    "date": "September 13, 2026",
+    "icon": "fas fa-skull"
   },
   {
     "title": "99 Magic",
@@ -388,14 +396,6 @@
     "member": "Jearbear1821",
     "category": "drop",
     "desc": "Unlocked 100 The Gauntlet kills achievement.",
-    "date": "August 29, 2026",
-    "icon": "fas fa-skull"
-  },
-  {
-    "title": "500 Duke Sucellus kills",
-    "member": "Dzry",
-    "category": "drop",
-    "desc": "Unlocked 500 Duke Sucellus kills achievement.",
     "date": "August 29, 2026",
     "icon": "fas fa-skull"
   }
