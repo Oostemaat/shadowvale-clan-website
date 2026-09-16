@@ -1,5 +1,13 @@
 [
   {
+    "title": "200m Overall Exp.",
+    "member": "ryanwri",
+    "category": "skill",
+    "desc": "Unlocked 200m Overall Exp. achievement.",
+    "date": "September 16, 2026",
+    "icon": "fas fa-trophy"
+  },
+  {
     "title": "100 Tombs Of Amascut kills",
     "member": "kodakid98",
     "category": "drop",
@@ -390,13 +398,5 @@
     "desc": "Unlocked 99 Attack achievement.",
     "date": "August 30, 2026",
     "icon": "fas fa-trophy"
-  },
-  {
-    "title": "5000 Soul Wars Zeal kills",
-    "member": "Manswarm",
-    "category": "drop",
-    "desc": "Unlocked 5000 Soul Wars Zeal kills achievement.",
-    "date": "August 29, 2026",
-    "icon": "fas fa-skull"
   }
 ]
