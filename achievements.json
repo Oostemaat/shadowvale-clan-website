@@ -1,5 +1,13 @@
 [
   {
+    "title": "100 Tombs Of Amascut kills",
+    "member": "kodakid98",
+    "category": "drop",
+    "desc": "Unlocked 100 Tombs Of Amascut kills achievement.",
+    "date": "September 16, 2026",
+    "icon": "fas fa-skull"
+  },
+  {
     "title": "500 Cerberus kills",
     "member": "Uncle Hani",
     "category": "drop",
@@ -32,20 +40,20 @@
     "icon": "fas fa-box-open"
   },
   {
-    "title": "500 Wintertodt kills",
-    "member": "MSXGrom",
-    "category": "drop",
-    "desc": "Unlocked 500 Wintertodt kills achievement.",
-    "date": "September 13, 2026",
-    "icon": "fas fa-skull"
-  },
-  {
     "title": "99 Firemaking",
     "member": "MSXGrom",
     "category": "skill",
     "desc": "Unlocked 99 Firemaking achievement.",
     "date": "September 13, 2026",
     "icon": "fas fa-trophy"
+  },
+  {
+    "title": "500 Wintertodt kills",
+    "member": "MSXGrom",
+    "category": "drop",
+    "desc": "Unlocked 500 Wintertodt kills achievement.",
+    "date": "September 13, 2026",
+    "icon": "fas fa-skull"
   },
   {
     "title": "99 Magic",
@@ -388,14 +396,6 @@
     "member": "Manswarm",
     "category": "drop",
     "desc": "Unlocked 5000 Soul Wars Zeal kills achievement.",
-    "date": "August 29, 2026",
-    "icon": "fas fa-skull"
-  },
-  {
-    "title": "100 Lunar Chests",
-    "member": "Bloats_Flys",
-    "category": "drop",
-    "desc": "Unlocked 100 Lunar Chests achievement.",
     "date": "August 29, 2026",
     "icon": "fas fa-skull"
   }
