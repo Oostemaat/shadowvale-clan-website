@@ -1,11 +1,11 @@
 [
   {
-    "title": "99 Defence",
-    "member": "ryanwri",
-    "category": "skill",
-    "desc": "Unlocked 99 Defence achievement.",
-    "date": "September 17, 2026",
-    "icon": "fas fa-trophy"
+    "title": "1000 Araxxor kills",
+    "member": "Jmnz88",
+    "category": "drop",
+    "desc": "Unlocked 1000 Araxxor kills achievement.",
+    "date": "September 18, 2026",
+    "icon": "fas fa-skull"
   },
   {
     "title": "1000 Araxxor kills",
@@ -14,6 +14,14 @@
     "desc": "Unlocked 1000 Araxxor kills achievement.",
     "date": "September 17, 2026",
     "icon": "fas fa-skull"
+  },
+  {
+    "title": "99 Defence",
+    "member": "ryanwri",
+    "category": "skill",
+    "desc": "Unlocked 99 Defence achievement.",
+    "date": "September 17, 2026",
+    "icon": "fas fa-trophy"
   },
   {
     "title": "99 Hitpoints",
@@ -390,13 +398,5 @@
     "desc": "Unlocked 500 Artio kills achievement.",
     "date": "September 1, 2026",
     "icon": "fas fa-skull"
-  },
-  {
-    "title": "99 Fishing",
-    "member": "BotsKnowMyRs",
-    "category": "skill",
-    "desc": "Unlocked 99 Fishing achievement.",
-    "date": "September 1, 2026",
-    "icon": "fas fa-trophy"
   }
 ]
