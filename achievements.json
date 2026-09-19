@@ -40,12 +40,28 @@
     "icon": "fas fa-trophy"
   },
   {
+    "title": "99 Ranged",
+    "member": "Ruyzia",
+    "category": "skill",
+    "desc": "Unlocked 99 Ranged achievement.",
+    "date": "September 16, 2026",
+    "icon": "fas fa-trophy"
+  },
+  {
     "title": "100 Tombs Of Amascut kills",
     "member": "kodakid98",
     "category": "drop",
     "desc": "Unlocked 100 Tombs Of Amascut kills achievement.",
     "date": "September 16, 2026",
     "icon": "fas fa-skull"
+  },
+  {
+    "title": "99 Strength",
+    "member": "Ruyzia",
+    "category": "skill",
+    "desc": "Unlocked 99 Strength achievement.",
+    "date": "September 15, 2026",
+    "icon": "fas fa-trophy"
   },
   {
     "title": "500 Cerberus kills",
@@ -152,18 +168,18 @@
     "icon": "fas fa-skull"
   },
   {
-    "title": "100 Clue Scrolls Master kills",
-    "member": "Manswarm",
-    "category": "drop",
-    "desc": "Unlocked 100 Clue Scrolls Master kills achievement.",
-    "date": "September 10, 2026",
-    "icon": "fas fa-skull"
-  },
-  {
     "title": "1000 Clue Scrolls All kills",
     "member": "Manswarm",
     "category": "drop",
     "desc": "Unlocked 1000 Clue Scrolls All kills achievement.",
+    "date": "September 10, 2026",
+    "icon": "fas fa-skull"
+  },
+  {
+    "title": "100 Clue Scrolls Master kills",
+    "member": "Manswarm",
+    "category": "drop",
+    "desc": "Unlocked 100 Clue Scrolls Master kills achievement.",
     "date": "September 10, 2026",
     "icon": "fas fa-skull"
   },
@@ -376,27 +392,11 @@
     "icon": "fas fa-box-open"
   },
   {
-    "title": "100 Theatre Of Blood kills",
-    "member": "gxku",
-    "category": "drop",
-    "desc": "Unlocked 100 Theatre Of Blood kills achievement.",
+    "title": "100m Overall Exp.",
+    "member": "Ruyzia",
+    "category": "skill",
+    "desc": "Unlocked 100m Overall Exp. achievement.",
     "date": "September 2, 2026",
-    "icon": "fas fa-skull"
-  },
-  {
-    "title": "500 General Graardor kills",
-    "member": "crippled2k87",
-    "category": "drop",
-    "desc": "Unlocked 500 General Graardor kills achievement.",
-    "date": "September 2, 2026",
-    "icon": "fas fa-skull"
-  },
-  {
-    "title": "500 Artio kills",
-    "member": "dyrn",
-    "category": "drop",
-    "desc": "Unlocked 500 Artio kills achievement.",
-    "date": "September 1, 2026",
-    "icon": "fas fa-skull"
+    "icon": "fas fa-trophy"
   }
 ]
