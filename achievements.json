@@ -1,5 +1,13 @@
 [
   {
+    "title": "1000 Abyssal Sire kills",
+    "member": "crit seeker",
+    "category": "drop",
+    "desc": "Unlocked 1000 Abyssal Sire kills achievement.",
+    "date": "September 20, 2026",
+    "icon": "fas fa-skull"
+  },
+  {
     "title": "Base 60 Stats",
     "member": "raksha 303",
     "category": "skill",
@@ -24,20 +32,20 @@
     "icon": "fas fa-skull"
   },
   {
-    "title": "1000 Araxxor kills",
-    "member": "ryanwri",
-    "category": "drop",
-    "desc": "Unlocked 1000 Araxxor kills achievement.",
-    "date": "September 17, 2026",
-    "icon": "fas fa-skull"
-  },
-  {
     "title": "99 Defence",
     "member": "ryanwri",
     "category": "skill",
     "desc": "Unlocked 99 Defence achievement.",
     "date": "September 17, 2026",
     "icon": "fas fa-trophy"
+  },
+  {
+    "title": "1000 Araxxor kills",
+    "member": "ryanwri",
+    "category": "drop",
+    "desc": "Unlocked 1000 Araxxor kills achievement.",
+    "date": "September 17, 2026",
+    "icon": "fas fa-skull"
   },
   {
     "title": "99 Hitpoints",
@@ -112,20 +120,20 @@
     "icon": "fas fa-box-open"
   },
   {
-    "title": "500 Wintertodt kills",
-    "member": "MSXGrom",
-    "category": "drop",
-    "desc": "Unlocked 500 Wintertodt kills achievement.",
-    "date": "September 13, 2026",
-    "icon": "fas fa-skull"
-  },
-  {
     "title": "99 Firemaking",
     "member": "MSXGrom",
     "category": "skill",
     "desc": "Unlocked 99 Firemaking achievement.",
     "date": "September 13, 2026",
     "icon": "fas fa-trophy"
+  },
+  {
+    "title": "500 Wintertodt kills",
+    "member": "MSXGrom",
+    "category": "drop",
+    "desc": "Unlocked 500 Wintertodt kills achievement.",
+    "date": "September 13, 2026",
+    "icon": "fas fa-skull"
   },
   {
     "title": "99 Magic",
@@ -388,14 +396,6 @@
     "member": "gimsparrowbr",
     "category": "skill",
     "desc": "Unlocked 50,000,000 Ranged Exp. achievement.",
-    "date": "September 3, 2026",
-    "icon": "fas fa-trophy"
-  },
-  {
-    "title": "Base 60 Stats",
-    "member": "GIMSotetseg",
-    "category": "skill",
-    "desc": "Unlocked Base 60 Stats achievement.",
     "date": "September 3, 2026",
     "icon": "fas fa-trophy"
   }
