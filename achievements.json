@@ -1,5 +1,13 @@
 [
   {
+    "title": "Base 60 Stats",
+    "member": "MSXGrom",
+    "category": "skill",
+    "desc": "Unlocked Base 60 Stats achievement.",
+    "date": "September 21, 2026",
+    "icon": "fas fa-trophy"
+  },
+  {
     "title": "1000 Abyssal Sire kills",
     "member": "crit seeker",
     "category": "drop",
@@ -389,14 +397,6 @@
     "category": "skill",
     "desc": "Unlocked 50,000,000 Hitpoints Exp. achievement.",
     "date": "September 4, 2026",
-    "icon": "fas fa-trophy"
-  },
-  {
-    "title": "50,000,000 Ranged Exp.",
-    "member": "gimsparrowbr",
-    "category": "skill",
-    "desc": "Unlocked 50,000,000 Ranged Exp. achievement.",
-    "date": "September 3, 2026",
     "icon": "fas fa-trophy"
   }
 ]
