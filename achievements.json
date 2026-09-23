@@ -1,5 +1,13 @@
 [
   {
+    "title": "100 Tombs Of Amascut Expert kills",
+    "member": "N0R3",
+    "category": "drop",
+    "desc": "Unlocked 100 Tombs Of Amascut Expert kills achievement.",
+    "date": "September 23, 2026",
+    "icon": "fas fa-skull"
+  },
+  {
     "title": "500 Kalphite Queen kills",
     "member": "OmgWtfHax",
     "category": "drop",
@@ -176,20 +184,20 @@
     "icon": "fas fa-box-open"
   },
   {
-    "title": "99 Firemaking",
-    "member": "MSXGrom",
-    "category": "skill",
-    "desc": "Unlocked 99 Firemaking achievement.",
-    "date": "September 13, 2026",
-    "icon": "fas fa-trophy"
-  },
-  {
     "title": "500 Wintertodt kills",
     "member": "MSXGrom",
     "category": "drop",
     "desc": "Unlocked 500 Wintertodt kills achievement.",
     "date": "September 13, 2026",
     "icon": "fas fa-skull"
+  },
+  {
+    "title": "99 Firemaking",
+    "member": "MSXGrom",
+    "category": "skill",
+    "desc": "Unlocked 99 Firemaking achievement.",
+    "date": "September 13, 2026",
+    "icon": "fas fa-trophy"
   },
   {
     "title": "99 Magic",
@@ -248,18 +256,18 @@
     "icon": "fas fa-skull"
   },
   {
-    "title": "1000 Clue Scrolls All kills",
-    "member": "Manswarm",
-    "category": "drop",
-    "desc": "Unlocked 1000 Clue Scrolls All kills achievement.",
-    "date": "September 10, 2026",
-    "icon": "fas fa-skull"
-  },
-  {
     "title": "100 Clue Scrolls Master kills",
     "member": "Manswarm",
     "category": "drop",
     "desc": "Unlocked 100 Clue Scrolls Master kills achievement.",
+    "date": "September 10, 2026",
+    "icon": "fas fa-skull"
+  },
+  {
+    "title": "1000 Clue Scrolls All kills",
+    "member": "Manswarm",
+    "category": "drop",
+    "desc": "Unlocked 1000 Clue Scrolls All kills achievement.",
     "date": "September 10, 2026",
     "icon": "fas fa-skull"
   },
@@ -388,14 +396,6 @@
     "member": "Lvl 6",
     "category": "skill",
     "desc": "Unlocked 99 Construction achievement.",
-    "date": "September 6, 2026",
-    "icon": "fas fa-trophy"
-  },
-  {
-    "title": "99 Hitpoints",
-    "member": "Ghost H",
-    "category": "skill",
-    "desc": "Unlocked 99 Hitpoints achievement.",
     "date": "September 6, 2026",
     "icon": "fas fa-trophy"
   }
