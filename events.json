@@ -142,5 +142,13 @@
     "startIso": "2026-09-20T16:30:00.000Z",
     "icon": "fas fa-calendar-alt",
     "host": "Discord Bot"
+  },
+  {
+    "title": "NIGHTMARE NIGHT",
+    "subtitle": "CLAN EVENT",
+    "date": "2026-09-26",
+    "startIso": "2026-09-26T01:00:00.000Z",
+    "icon": "fas fa-calendar-alt",
+    "host": "Discord Bot"
   }
 ]
