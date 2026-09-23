@@ -1,5 +1,13 @@
 [
   {
+    "title": "500 Cerberus kills",
+    "member": "guzanator",
+    "category": "drop",
+    "desc": "Unlocked 500 Cerberus kills achievement.",
+    "date": "September 23, 2026",
+    "icon": "fas fa-skull"
+  },
+  {
     "title": "500 Kraken kills",
     "member": "Dykota434",
     "category": "drop",
@@ -72,20 +80,20 @@
     "icon": "fas fa-skull"
   },
   {
-    "title": "99 Defence",
-    "member": "ryanwri",
-    "category": "skill",
-    "desc": "Unlocked 99 Defence achievement.",
-    "date": "September 17, 2026",
-    "icon": "fas fa-trophy"
-  },
-  {
     "title": "1000 Araxxor kills",
     "member": "ryanwri",
     "category": "drop",
     "desc": "Unlocked 1000 Araxxor kills achievement.",
     "date": "September 17, 2026",
     "icon": "fas fa-skull"
+  },
+  {
+    "title": "99 Defence",
+    "member": "ryanwri",
+    "category": "skill",
+    "desc": "Unlocked 99 Defence achievement.",
+    "date": "September 17, 2026",
+    "icon": "fas fa-trophy"
   },
   {
     "title": "99 Hitpoints",
@@ -160,20 +168,20 @@
     "icon": "fas fa-box-open"
   },
   {
-    "title": "500 Wintertodt kills",
-    "member": "MSXGrom",
-    "category": "drop",
-    "desc": "Unlocked 500 Wintertodt kills achievement.",
-    "date": "September 13, 2026",
-    "icon": "fas fa-skull"
-  },
-  {
     "title": "99 Firemaking",
     "member": "MSXGrom",
     "category": "skill",
     "desc": "Unlocked 99 Firemaking achievement.",
     "date": "September 13, 2026",
     "icon": "fas fa-trophy"
+  },
+  {
+    "title": "500 Wintertodt kills",
+    "member": "MSXGrom",
+    "category": "drop",
+    "desc": "Unlocked 500 Wintertodt kills achievement.",
+    "date": "September 13, 2026",
+    "icon": "fas fa-skull"
   },
   {
     "title": "99 Magic",
@@ -388,14 +396,6 @@
     "member": "Manswarm",
     "category": "drop",
     "desc": "Unlocked 50 Hespori kills achievement.",
-    "date": "September 6, 2026",
-    "icon": "fas fa-skull"
-  },
-  {
-    "title": "1000 General Graardor kills",
-    "member": "crippled2k87",
-    "category": "drop",
-    "desc": "Unlocked 1000 General Graardor kills achievement.",
     "date": "September 6, 2026",
     "icon": "fas fa-skull"
   }
