@@ -1,5 +1,13 @@
 [
   {
+    "title": "500 Kalphite Queen kills",
+    "member": "OmgWtfHax",
+    "category": "drop",
+    "desc": "Unlocked 500 Kalphite Queen kills achievement.",
+    "date": "September 23, 2026",
+    "icon": "fas fa-skull"
+  },
+  {
     "title": "500 Cerberus kills",
     "member": "guzanator",
     "category": "drop",
@@ -240,18 +248,18 @@
     "icon": "fas fa-skull"
   },
   {
-    "title": "100 Clue Scrolls Master kills",
-    "member": "Manswarm",
-    "category": "drop",
-    "desc": "Unlocked 100 Clue Scrolls Master kills achievement.",
-    "date": "September 10, 2026",
-    "icon": "fas fa-skull"
-  },
-  {
     "title": "1000 Clue Scrolls All kills",
     "member": "Manswarm",
     "category": "drop",
     "desc": "Unlocked 1000 Clue Scrolls All kills achievement.",
+    "date": "September 10, 2026",
+    "icon": "fas fa-skull"
+  },
+  {
+    "title": "100 Clue Scrolls Master kills",
+    "member": "Manswarm",
+    "category": "drop",
+    "desc": "Unlocked 100 Clue Scrolls Master kills achievement.",
     "date": "September 10, 2026",
     "icon": "fas fa-skull"
   },
@@ -390,13 +398,5 @@
     "desc": "Unlocked 99 Hitpoints achievement.",
     "date": "September 6, 2026",
     "icon": "fas fa-trophy"
-  },
-  {
-    "title": "50 Hespori kills",
-    "member": "Manswarm",
-    "category": "drop",
-    "desc": "Unlocked 50 Hespori kills achievement.",
-    "date": "September 6, 2026",
-    "icon": "fas fa-skull"
   }
 ]
