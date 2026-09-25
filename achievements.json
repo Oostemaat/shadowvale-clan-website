@@ -1,5 +1,21 @@
 [
   {
+    "title": "700 Collection Log Slots",
+    "member": "Parkway Dry",
+    "category": "milestone",
+    "desc": "Unlocked 700 Collection Log Slots achievement.",
+    "date": "September 25, 2026",
+    "icon": "fas fa-box-open"
+  },
+  {
+    "title": "500 Clue Scrolls All kills",
+    "member": "Parkway Dry",
+    "category": "drop",
+    "desc": "Unlocked 500 Clue Scrolls All kills achievement.",
+    "date": "September 25, 2026",
+    "icon": "fas fa-skull"
+  },
+  {
     "title": "100 Lunar Chests",
     "member": "diggitydog10",
     "category": "drop",
@@ -64,18 +80,18 @@
     "icon": "fas fa-skull"
   },
   {
-    "title": "500 Abyssal Sire kills",
-    "member": "Dykota434",
-    "category": "drop",
-    "desc": "Unlocked 500 Abyssal Sire kills achievement.",
-    "date": "September 22, 2026",
-    "icon": "fas fa-skull"
-  },
-  {
     "title": "500 Kraken kills",
     "member": "Dykota434",
     "category": "drop",
     "desc": "Unlocked 500 Kraken kills achievement.",
+    "date": "September 22, 2026",
+    "icon": "fas fa-skull"
+  },
+  {
+    "title": "500 Abyssal Sire kills",
+    "member": "Dykota434",
+    "category": "drop",
+    "desc": "Unlocked 500 Abyssal Sire kills achievement.",
     "date": "September 22, 2026",
     "icon": "fas fa-skull"
   },
@@ -136,20 +152,20 @@
     "icon": "fas fa-skull"
   },
   {
-    "title": "99 Defence",
-    "member": "ryanwri",
-    "category": "skill",
-    "desc": "Unlocked 99 Defence achievement.",
-    "date": "September 17, 2026",
-    "icon": "fas fa-trophy"
-  },
-  {
     "title": "1000 Araxxor kills",
     "member": "ryanwri",
     "category": "drop",
     "desc": "Unlocked 1000 Araxxor kills achievement.",
     "date": "September 17, 2026",
     "icon": "fas fa-skull"
+  },
+  {
+    "title": "99 Defence",
+    "member": "ryanwri",
+    "category": "skill",
+    "desc": "Unlocked 99 Defence achievement.",
+    "date": "September 17, 2026",
+    "icon": "fas fa-trophy"
   },
   {
     "title": "99 Hitpoints",
@@ -381,22 +397,6 @@
     "category": "drop",
     "desc": "Unlocked 200 The Gauntlet kills achievement.",
     "date": "September 9, 2026",
-    "icon": "fas fa-skull"
-  },
-  {
-    "title": "99 Mining",
-    "member": "skullyyyy",
-    "category": "skill",
-    "desc": "Unlocked 99 Mining achievement.",
-    "date": "September 8, 2026",
-    "icon": "fas fa-trophy"
-  },
-  {
-    "title": "100 The Corrupted Gauntlet kills",
-    "member": "gim vxnm",
-    "category": "drop",
-    "desc": "Unlocked 100 The Corrupted Gauntlet kills achievement.",
-    "date": "September 7, 2026",
     "icon": "fas fa-skull"
   }
 ]
