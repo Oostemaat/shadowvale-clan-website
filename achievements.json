@@ -1,5 +1,13 @@
 [
   {
+    "title": "99 Slayer",
+    "member": "OmgWtfHax",
+    "category": "skill",
+    "desc": "Unlocked 99 Slayer achievement.",
+    "date": "September 25, 2026",
+    "icon": "fas fa-trophy"
+  },
+  {
     "title": "50 Hespori kills",
     "member": "Lvl 6",
     "category": "drop",
@@ -120,20 +128,20 @@
     "icon": "fas fa-skull"
   },
   {
-    "title": "1000 Araxxor kills",
-    "member": "ryanwri",
-    "category": "drop",
-    "desc": "Unlocked 1000 Araxxor kills achievement.",
-    "date": "September 17, 2026",
-    "icon": "fas fa-skull"
-  },
-  {
     "title": "99 Defence",
     "member": "ryanwri",
     "category": "skill",
     "desc": "Unlocked 99 Defence achievement.",
     "date": "September 17, 2026",
     "icon": "fas fa-trophy"
+  },
+  {
+    "title": "1000 Araxxor kills",
+    "member": "ryanwri",
+    "category": "drop",
+    "desc": "Unlocked 1000 Araxxor kills achievement.",
+    "date": "September 17, 2026",
+    "icon": "fas fa-skull"
   },
   {
     "title": "99 Hitpoints",
@@ -390,13 +398,5 @@
     "desc": "Unlocked 50,000,000 Hitpoints Exp. achievement.",
     "date": "September 7, 2026",
     "icon": "fas fa-trophy"
-  },
-  {
-    "title": "100 Tombs Of Amascut Expert kills",
-    "member": "guzanator",
-    "category": "drop",
-    "desc": "Unlocked 100 Tombs Of Amascut Expert kills achievement.",
-    "date": "September 7, 2026",
-    "icon": "fas fa-skull"
   }
 ]
