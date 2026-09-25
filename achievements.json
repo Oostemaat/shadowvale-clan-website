@@ -1,5 +1,13 @@
 [
   {
+    "title": "100 Lunar Chests",
+    "member": "diggitydog10",
+    "category": "drop",
+    "desc": "Unlocked 100 Lunar Chests achievement.",
+    "date": "September 25, 2026",
+    "icon": "fas fa-skull"
+  },
+  {
     "title": "99 Slayer",
     "member": "OmgWtfHax",
     "category": "skill",
@@ -56,18 +64,18 @@
     "icon": "fas fa-skull"
   },
   {
-    "title": "500 Kraken kills",
-    "member": "Dykota434",
-    "category": "drop",
-    "desc": "Unlocked 500 Kraken kills achievement.",
-    "date": "September 22, 2026",
-    "icon": "fas fa-skull"
-  },
-  {
     "title": "500 Abyssal Sire kills",
     "member": "Dykota434",
     "category": "drop",
     "desc": "Unlocked 500 Abyssal Sire kills achievement.",
+    "date": "September 22, 2026",
+    "icon": "fas fa-skull"
+  },
+  {
+    "title": "500 Kraken kills",
+    "member": "Dykota434",
+    "category": "drop",
+    "desc": "Unlocked 500 Kraken kills achievement.",
     "date": "September 22, 2026",
     "icon": "fas fa-skull"
   },
@@ -390,13 +398,5 @@
     "desc": "Unlocked 100 The Corrupted Gauntlet kills achievement.",
     "date": "September 7, 2026",
     "icon": "fas fa-skull"
-  },
-  {
-    "title": "50,000,000 Hitpoints Exp.",
-    "member": "i use haki",
-    "category": "skill",
-    "desc": "Unlocked 50,000,000 Hitpoints Exp. achievement.",
-    "date": "September 7, 2026",
-    "icon": "fas fa-trophy"
   }
 ]
