@@ -1,5 +1,13 @@
 [
   {
+    "title": "99 Ranged",
+    "member": "Jearbear1821",
+    "category": "skill",
+    "desc": "Unlocked 99 Ranged achievement.",
+    "date": "September 26, 2026",
+    "icon": "fas fa-trophy"
+  },
+  {
     "title": "700 Collection Log Slots",
     "member": "Parkway Dry",
     "category": "milestone",
@@ -80,18 +88,18 @@
     "icon": "fas fa-skull"
   },
   {
-    "title": "500 Kraken kills",
-    "member": "Dykota434",
-    "category": "drop",
-    "desc": "Unlocked 500 Kraken kills achievement.",
-    "date": "September 22, 2026",
-    "icon": "fas fa-skull"
-  },
-  {
     "title": "500 Abyssal Sire kills",
     "member": "Dykota434",
     "category": "drop",
     "desc": "Unlocked 500 Abyssal Sire kills achievement.",
+    "date": "September 22, 2026",
+    "icon": "fas fa-skull"
+  },
+  {
+    "title": "500 Kraken kills",
+    "member": "Dykota434",
+    "category": "drop",
+    "desc": "Unlocked 500 Kraken kills achievement.",
     "date": "September 22, 2026",
     "icon": "fas fa-skull"
   },
@@ -390,13 +398,5 @@
     "desc": "Unlocked 200 The Gauntlet kills achievement.",
     "date": "September 9, 2026",
     "icon": "fas fa-skull"
-  },
-  {
-    "title": "99 Mining",
-    "member": "skullyyyy",
-    "category": "skill",
-    "desc": "Unlocked 99 Mining achievement.",
-    "date": "September 8, 2026",
-    "icon": "fas fa-trophy"
   }
 ]
