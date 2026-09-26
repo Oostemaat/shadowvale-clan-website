@@ -1,5 +1,13 @@
 [
   {
+    "title": "1000 Yama kills",
+    "member": "diggitydog10",
+    "category": "drop",
+    "desc": "Unlocked 1000 Yama kills achievement.",
+    "date": "September 26, 2026",
+    "icon": "fas fa-skull"
+  },
+  {
     "title": "99 Ranged",
     "member": "Jearbear1821",
     "category": "skill",
@@ -8,20 +16,20 @@
     "icon": "fas fa-trophy"
   },
   {
-    "title": "700 Collection Log Slots",
-    "member": "Parkway Dry",
-    "category": "milestone",
-    "desc": "Unlocked 700 Collection Log Slots achievement.",
-    "date": "September 25, 2026",
-    "icon": "fas fa-box-open"
-  },
-  {
     "title": "500 Clue Scrolls All kills",
     "member": "Parkway Dry",
     "category": "drop",
     "desc": "Unlocked 500 Clue Scrolls All kills achievement.",
     "date": "September 25, 2026",
     "icon": "fas fa-skull"
+  },
+  {
+    "title": "700 Collection Log Slots",
+    "member": "Parkway Dry",
+    "category": "milestone",
+    "desc": "Unlocked 700 Collection Log Slots achievement.",
+    "date": "September 25, 2026",
+    "icon": "fas fa-box-open"
   },
   {
     "title": "100 Lunar Chests",
@@ -248,20 +256,20 @@
     "icon": "fas fa-box-open"
   },
   {
-    "title": "99 Firemaking",
-    "member": "MSXGrom",
-    "category": "skill",
-    "desc": "Unlocked 99 Firemaking achievement.",
-    "date": "September 13, 2026",
-    "icon": "fas fa-trophy"
-  },
-  {
     "title": "500 Wintertodt kills",
     "member": "MSXGrom",
     "category": "drop",
     "desc": "Unlocked 500 Wintertodt kills achievement.",
     "date": "September 13, 2026",
     "icon": "fas fa-skull"
+  },
+  {
+    "title": "99 Firemaking",
+    "member": "MSXGrom",
+    "category": "skill",
+    "desc": "Unlocked 99 Firemaking achievement.",
+    "date": "September 13, 2026",
+    "icon": "fas fa-trophy"
   },
   {
     "title": "99 Magic",
@@ -388,14 +396,6 @@
     "member": "Manswarm",
     "category": "drop",
     "desc": "Unlocked 500 Mad Angel kills achievement.",
-    "date": "September 9, 2026",
-    "icon": "fas fa-skull"
-  },
-  {
-    "title": "200 The Gauntlet kills",
-    "member": "Jmnz88",
-    "category": "drop",
-    "desc": "Unlocked 200 The Gauntlet kills achievement.",
     "date": "September 9, 2026",
     "icon": "fas fa-skull"
   }
