@@ -152,20 +152,20 @@
     "icon": "fas fa-skull"
   },
   {
-    "title": "1000 Araxxor kills",
-    "member": "ryanwri",
-    "category": "drop",
-    "desc": "Unlocked 1000 Araxxor kills achievement.",
-    "date": "September 17, 2026",
-    "icon": "fas fa-skull"
-  },
-  {
     "title": "99 Defence",
     "member": "ryanwri",
     "category": "skill",
     "desc": "Unlocked 99 Defence achievement.",
     "date": "September 17, 2026",
     "icon": "fas fa-trophy"
+  },
+  {
+    "title": "1000 Araxxor kills",
+    "member": "ryanwri",
+    "category": "drop",
+    "desc": "Unlocked 1000 Araxxor kills achievement.",
+    "date": "September 17, 2026",
+    "icon": "fas fa-skull"
   },
   {
     "title": "99 Hitpoints",
@@ -240,14 +240,6 @@
     "icon": "fas fa-box-open"
   },
   {
-    "title": "500 Wintertodt kills",
-    "member": "MSXGrom",
-    "category": "drop",
-    "desc": "Unlocked 500 Wintertodt kills achievement.",
-    "date": "September 13, 2026",
-    "icon": "fas fa-skull"
-  },
-  {
     "title": "99 Firemaking",
     "member": "MSXGrom",
     "category": "skill",
@@ -256,20 +248,20 @@
     "icon": "fas fa-trophy"
   },
   {
+    "title": "500 Wintertodt kills",
+    "member": "MSXGrom",
+    "category": "drop",
+    "desc": "Unlocked 500 Wintertodt kills achievement.",
+    "date": "September 13, 2026",
+    "icon": "fas fa-skull"
+  },
+  {
     "title": "99 Magic",
     "member": "cumswarm",
     "category": "skill",
     "desc": "Unlocked 99 Magic achievement.",
     "date": "September 13, 2026",
     "icon": "fas fa-trophy"
-  },
-  {
-    "title": "1000 The Leviathan kills",
-    "member": "crippled2k87",
-    "category": "drop",
-    "desc": "Unlocked 1000 The Leviathan kills achievement.",
-    "date": "September 12, 2026",
-    "icon": "fas fa-skull"
   },
   {
     "title": "500 Maggot King kills",
@@ -398,5 +390,13 @@
     "desc": "Unlocked 200 The Gauntlet kills achievement.",
     "date": "September 9, 2026",
     "icon": "fas fa-skull"
+  },
+  {
+    "title": "99 Mining",
+    "member": "skullyyyy",
+    "category": "skill",
+    "desc": "Unlocked 99 Mining achievement.",
+    "date": "September 8, 2026",
+    "icon": "fas fa-trophy"
   }
 ]
