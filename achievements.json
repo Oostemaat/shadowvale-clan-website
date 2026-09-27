@@ -1,5 +1,13 @@
 [
   {
+    "title": "500 The Leviathan kills",
+    "member": "statgrabber1",
+    "category": "drop",
+    "desc": "Unlocked 500 The Leviathan kills achievement.",
+    "date": "September 27, 2026",
+    "icon": "fas fa-skull"
+  },
+  {
     "title": "1000 Yama kills",
     "member": "diggitydog10",
     "category": "drop",
@@ -16,20 +24,20 @@
     "icon": "fas fa-trophy"
   },
   {
-    "title": "500 Clue Scrolls All kills",
-    "member": "Parkway Dry",
-    "category": "drop",
-    "desc": "Unlocked 500 Clue Scrolls All kills achievement.",
-    "date": "September 25, 2026",
-    "icon": "fas fa-skull"
-  },
-  {
     "title": "700 Collection Log Slots",
     "member": "Parkway Dry",
     "category": "milestone",
     "desc": "Unlocked 700 Collection Log Slots achievement.",
     "date": "September 25, 2026",
     "icon": "fas fa-box-open"
+  },
+  {
+    "title": "500 Clue Scrolls All kills",
+    "member": "Parkway Dry",
+    "category": "drop",
+    "desc": "Unlocked 500 Clue Scrolls All kills achievement.",
+    "date": "September 25, 2026",
+    "icon": "fas fa-skull"
   },
   {
     "title": "100 Lunar Chests",
@@ -388,14 +396,6 @@
     "member": "Manswarm",
     "category": "drop",
     "desc": "Unlocked 500 The Royal Titans kills achievement.",
-    "date": "September 9, 2026",
-    "icon": "fas fa-skull"
-  },
-  {
-    "title": "500 Mad Angel kills",
-    "member": "Manswarm",
-    "category": "drop",
-    "desc": "Unlocked 500 Mad Angel kills achievement.",
     "date": "September 9, 2026",
     "icon": "fas fa-skull"
   }
