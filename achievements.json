@@ -1,5 +1,13 @@
 [
   {
+    "title": "500 Thermonuclear Smoke Devil kills",
+    "member": "fake xx taxi",
+    "category": "drop",
+    "desc": "Unlocked 500 Thermonuclear Smoke Devil kills achievement.",
+    "date": "September 28, 2026",
+    "icon": "fas fa-skull"
+  },
+  {
     "title": "99 Ranged",
     "member": "Ghost H",
     "category": "skill",
@@ -48,20 +56,20 @@
     "icon": "fas fa-trophy"
   },
   {
-    "title": "500 Clue Scrolls All kills",
-    "member": "Parkway Dry",
-    "category": "drop",
-    "desc": "Unlocked 500 Clue Scrolls All kills achievement.",
-    "date": "September 25, 2026",
-    "icon": "fas fa-skull"
-  },
-  {
     "title": "700 Collection Log Slots",
     "member": "Parkway Dry",
     "category": "milestone",
     "desc": "Unlocked 700 Collection Log Slots achievement.",
     "date": "September 25, 2026",
     "icon": "fas fa-box-open"
+  },
+  {
+    "title": "500 Clue Scrolls All kills",
+    "member": "Parkway Dry",
+    "category": "drop",
+    "desc": "Unlocked 500 Clue Scrolls All kills achievement.",
+    "date": "September 25, 2026",
+    "icon": "fas fa-skull"
   },
   {
     "title": "100 Lunar Chests",
@@ -128,18 +136,18 @@
     "icon": "fas fa-skull"
   },
   {
-    "title": "500 Kraken kills",
-    "member": "Dykota434",
-    "category": "drop",
-    "desc": "Unlocked 500 Kraken kills achievement.",
-    "date": "September 22, 2026",
-    "icon": "fas fa-skull"
-  },
-  {
     "title": "500 Abyssal Sire kills",
     "member": "Dykota434",
     "category": "drop",
     "desc": "Unlocked 500 Abyssal Sire kills achievement.",
+    "date": "September 22, 2026",
+    "icon": "fas fa-skull"
+  },
+  {
+    "title": "500 Kraken kills",
+    "member": "Dykota434",
+    "category": "drop",
+    "desc": "Unlocked 500 Kraken kills achievement.",
     "date": "September 22, 2026",
     "icon": "fas fa-skull"
   },
@@ -200,20 +208,20 @@
     "icon": "fas fa-skull"
   },
   {
-    "title": "1000 Araxxor kills",
-    "member": "ryanwri",
-    "category": "drop",
-    "desc": "Unlocked 1000 Araxxor kills achievement.",
-    "date": "September 17, 2026",
-    "icon": "fas fa-skull"
-  },
-  {
     "title": "99 Defence",
     "member": "ryanwri",
     "category": "skill",
     "desc": "Unlocked 99 Defence achievement.",
     "date": "September 17, 2026",
     "icon": "fas fa-trophy"
+  },
+  {
+    "title": "1000 Araxxor kills",
+    "member": "ryanwri",
+    "category": "drop",
+    "desc": "Unlocked 1000 Araxxor kills achievement.",
+    "date": "September 17, 2026",
+    "icon": "fas fa-skull"
   },
   {
     "title": "99 Hitpoints",
@@ -390,13 +398,5 @@
     "desc": "Unlocked 500 Vardorvis kills achievement.",
     "date": "September 10, 2026",
     "icon": "fas fa-skull"
-  },
-  {
-    "title": "Base 60 Stats",
-    "member": "gim vxnm",
-    "category": "skill",
-    "desc": "Unlocked Base 60 Stats achievement.",
-    "date": "September 9, 2026",
-    "icon": "fas fa-trophy"
   }
 ]
