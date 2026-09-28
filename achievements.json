@@ -1,5 +1,13 @@
 [
   {
+    "title": "99 Ranged",
+    "member": "Ghost H",
+    "category": "skill",
+    "desc": "Unlocked 99 Ranged achievement.",
+    "date": "September 28, 2026",
+    "icon": "fas fa-trophy"
+  },
+  {
     "title": "99 Attack",
     "member": "ellui",
     "category": "skill",
@@ -120,18 +128,18 @@
     "icon": "fas fa-skull"
   },
   {
-    "title": "500 Abyssal Sire kills",
-    "member": "Dykota434",
-    "category": "drop",
-    "desc": "Unlocked 500 Abyssal Sire kills achievement.",
-    "date": "September 22, 2026",
-    "icon": "fas fa-skull"
-  },
-  {
     "title": "500 Kraken kills",
     "member": "Dykota434",
     "category": "drop",
     "desc": "Unlocked 500 Kraken kills achievement.",
+    "date": "September 22, 2026",
+    "icon": "fas fa-skull"
+  },
+  {
+    "title": "500 Abyssal Sire kills",
+    "member": "Dykota434",
+    "category": "drop",
+    "desc": "Unlocked 500 Abyssal Sire kills achievement.",
     "date": "September 22, 2026",
     "icon": "fas fa-skull"
   },
@@ -388,14 +396,6 @@
     "member": "gim vxnm",
     "category": "skill",
     "desc": "Unlocked Base 60 Stats achievement.",
-    "date": "September 9, 2026",
-    "icon": "fas fa-trophy"
-  },
-  {
-    "title": "99 Strength",
-    "member": "Stokers Mint",
-    "category": "skill",
-    "desc": "Unlocked 99 Strength achievement.",
     "date": "September 9, 2026",
     "icon": "fas fa-trophy"
   }
