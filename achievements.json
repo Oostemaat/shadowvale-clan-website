@@ -1,5 +1,13 @@
 [
   {
+    "title": "100m Overall Exp.",
+    "member": "7up is ass",
+    "category": "skill",
+    "desc": "Unlocked 100m Overall Exp. achievement.",
+    "date": "September 29, 2026",
+    "icon": "fas fa-trophy"
+  },
+  {
     "title": "100 Brutus kills",
     "member": "Ruyzia",
     "category": "drop",
@@ -388,14 +396,6 @@
     "member": "Naphtic",
     "category": "drop",
     "desc": "Unlocked 500 Nex kills achievement.",
-    "date": "September 10, 2026",
-    "icon": "fas fa-skull"
-  },
-  {
-    "title": "500 Vardorvis kills",
-    "member": "frostdblaze",
-    "category": "drop",
-    "desc": "Unlocked 500 Vardorvis kills achievement.",
     "date": "September 10, 2026",
     "icon": "fas fa-skull"
   }
