@@ -1,5 +1,13 @@
 [
   {
+    "title": "1000 Duke Sucellus kills",
+    "member": "Rmeich",
+    "category": "drop",
+    "desc": "Unlocked 1000 Duke Sucellus kills achievement.",
+    "date": "September 30, 2026",
+    "icon": "fas fa-skull"
+  },
+  {
     "title": "100m Overall Exp.",
     "member": "7up is ass",
     "category": "skill",
@@ -72,20 +80,20 @@
     "icon": "fas fa-trophy"
   },
   {
-    "title": "700 Collection Log Slots",
-    "member": "Parkway Dry",
-    "category": "milestone",
-    "desc": "Unlocked 700 Collection Log Slots achievement.",
-    "date": "September 25, 2026",
-    "icon": "fas fa-box-open"
-  },
-  {
     "title": "500 Clue Scrolls All kills",
     "member": "Parkway Dry",
     "category": "drop",
     "desc": "Unlocked 500 Clue Scrolls All kills achievement.",
     "date": "September 25, 2026",
     "icon": "fas fa-skull"
+  },
+  {
+    "title": "700 Collection Log Slots",
+    "member": "Parkway Dry",
+    "category": "milestone",
+    "desc": "Unlocked 700 Collection Log Slots achievement.",
+    "date": "September 25, 2026",
+    "icon": "fas fa-box-open"
   },
   {
     "title": "100 Lunar Chests",
@@ -152,18 +160,18 @@
     "icon": "fas fa-skull"
   },
   {
-    "title": "500 Abyssal Sire kills",
-    "member": "Dykota434",
-    "category": "drop",
-    "desc": "Unlocked 500 Abyssal Sire kills achievement.",
-    "date": "September 22, 2026",
-    "icon": "fas fa-skull"
-  },
-  {
     "title": "500 Kraken kills",
     "member": "Dykota434",
     "category": "drop",
     "desc": "Unlocked 500 Kraken kills achievement.",
+    "date": "September 22, 2026",
+    "icon": "fas fa-skull"
+  },
+  {
+    "title": "500 Abyssal Sire kills",
+    "member": "Dykota434",
+    "category": "drop",
+    "desc": "Unlocked 500 Abyssal Sire kills achievement.",
     "date": "September 22, 2026",
     "icon": "fas fa-skull"
   },
@@ -388,14 +396,6 @@
     "member": "Manswarm",
     "category": "drop",
     "desc": "Unlocked 1000 Clue Scrolls All kills achievement.",
-    "date": "September 10, 2026",
-    "icon": "fas fa-skull"
-  },
-  {
-    "title": "500 Nex kills",
-    "member": "Naphtic",
-    "category": "drop",
-    "desc": "Unlocked 500 Nex kills achievement.",
     "date": "September 10, 2026",
     "icon": "fas fa-skull"
   }
