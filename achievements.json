@@ -1,5 +1,21 @@
 [
   {
+    "title": "99 Defence",
+    "member": "Yatted",
+    "category": "skill",
+    "desc": "Unlocked 99 Defence achievement.",
+    "date": "October 1, 2026",
+    "icon": "fas fa-trophy"
+  },
+  {
+    "title": "99 Attack",
+    "member": "scubb",
+    "category": "skill",
+    "desc": "Unlocked 99 Attack achievement.",
+    "date": "October 1, 2026",
+    "icon": "fas fa-trophy"
+  },
+  {
     "title": "Base 60 Stats",
     "member": "1monkeynutz1",
     "category": "skill",
@@ -248,20 +264,20 @@
     "icon": "fas fa-skull"
   },
   {
-    "title": "1000 Araxxor kills",
-    "member": "ryanwri",
-    "category": "drop",
-    "desc": "Unlocked 1000 Araxxor kills achievement.",
-    "date": "September 17, 2026",
-    "icon": "fas fa-skull"
-  },
-  {
     "title": "99 Defence",
     "member": "ryanwri",
     "category": "skill",
     "desc": "Unlocked 99 Defence achievement.",
     "date": "September 17, 2026",
     "icon": "fas fa-trophy"
+  },
+  {
+    "title": "1000 Araxxor kills",
+    "member": "ryanwri",
+    "category": "drop",
+    "desc": "Unlocked 1000 Araxxor kills achievement.",
+    "date": "September 17, 2026",
+    "icon": "fas fa-skull"
   },
   {
     "title": "99 Hitpoints",
@@ -380,22 +396,6 @@
     "member": "Manswarm",
     "category": "drop",
     "desc": "Unlocked 1000 The Leviathan kills achievement.",
-    "date": "September 11, 2026",
-    "icon": "fas fa-skull"
-  },
-  {
-    "title": "99 Strength",
-    "member": "Bloats_Flys",
-    "category": "skill",
-    "desc": "Unlocked 99 Strength achievement.",
-    "date": "September 11, 2026",
-    "icon": "fas fa-trophy"
-  },
-  {
-    "title": "500 Alchemical Hydra kills",
-    "member": "Jmnz88",
-    "category": "drop",
-    "desc": "Unlocked 500 Alchemical Hydra kills achievement.",
     "date": "September 11, 2026",
     "icon": "fas fa-skull"
   }
