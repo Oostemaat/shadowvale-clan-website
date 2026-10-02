@@ -1,5 +1,21 @@
 [
   {
+    "title": "1000 Vardorvis kills",
+    "member": "Yatted",
+    "category": "drop",
+    "desc": "Unlocked 1000 Vardorvis kills achievement.",
+    "date": "October 2, 2026",
+    "icon": "fas fa-skull"
+  },
+  {
+    "title": "1000 General Graardor kills",
+    "member": "diggitydog10",
+    "category": "drop",
+    "desc": "Unlocked 1000 General Graardor kills achievement.",
+    "date": "October 2, 2026",
+    "icon": "fas fa-skull"
+  },
+  {
     "title": "500 Shellbane Gryphon kills",
     "member": "mrbine3799",
     "category": "drop",
@@ -216,18 +232,18 @@
     "icon": "fas fa-skull"
   },
   {
-    "title": "500 Abyssal Sire kills",
-    "member": "Dykota434",
-    "category": "drop",
-    "desc": "Unlocked 500 Abyssal Sire kills achievement.",
-    "date": "September 22, 2026",
-    "icon": "fas fa-skull"
-  },
-  {
     "title": "500 Kraken kills",
     "member": "Dykota434",
     "category": "drop",
     "desc": "Unlocked 500 Kraken kills achievement.",
+    "date": "September 22, 2026",
+    "icon": "fas fa-skull"
+  },
+  {
+    "title": "500 Abyssal Sire kills",
+    "member": "Dykota434",
+    "category": "drop",
+    "desc": "Unlocked 500 Abyssal Sire kills achievement.",
     "date": "September 22, 2026",
     "icon": "fas fa-skull"
   },
@@ -376,26 +392,10 @@
     "icon": "fas fa-box-open"
   },
   {
-    "title": "500 Wintertodt kills",
-    "member": "MSXGrom",
-    "category": "drop",
-    "desc": "Unlocked 500 Wintertodt kills achievement.",
-    "date": "September 13, 2026",
-    "icon": "fas fa-skull"
-  },
-  {
     "title": "99 Firemaking",
     "member": "MSXGrom",
     "category": "skill",
     "desc": "Unlocked 99 Firemaking achievement.",
-    "date": "September 13, 2026",
-    "icon": "fas fa-trophy"
-  },
-  {
-    "title": "99 Magic",
-    "member": "cumswarm",
-    "category": "skill",
-    "desc": "Unlocked 99 Magic achievement.",
     "date": "September 13, 2026",
     "icon": "fas fa-trophy"
   }
