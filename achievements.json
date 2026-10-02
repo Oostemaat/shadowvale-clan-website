@@ -1,5 +1,13 @@
 [
   {
+    "title": "18m Overall Exp.",
+    "member": "SwarmOrWarm",
+    "category": "skill",
+    "desc": "Unlocked 18m Overall Exp. achievement.",
+    "date": "October 2, 2026",
+    "icon": "fas fa-trophy"
+  },
+  {
     "title": "1000 Vardorvis kills",
     "member": "Yatted",
     "category": "drop",
@@ -390,13 +398,5 @@
     "desc": "Unlocked 500 Collection Log Slots achievement.",
     "date": "September 14, 2026",
     "icon": "fas fa-box-open"
-  },
-  {
-    "title": "99 Firemaking",
-    "member": "MSXGrom",
-    "category": "skill",
-    "desc": "Unlocked 99 Firemaking achievement.",
-    "date": "September 13, 2026",
-    "icon": "fas fa-trophy"
   }
 ]
