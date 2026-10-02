@@ -1,5 +1,13 @@
 [
   {
+    "title": "500 Shellbane Gryphon kills",
+    "member": "mrbine3799",
+    "category": "drop",
+    "desc": "Unlocked 500 Shellbane Gryphon kills achievement.",
+    "date": "October 2, 2026",
+    "icon": "fas fa-skull"
+  },
+  {
     "title": "48m Overall Exp.",
     "member": "guzanator",
     "category": "skill",
@@ -368,14 +376,6 @@
     "icon": "fas fa-box-open"
   },
   {
-    "title": "99 Firemaking",
-    "member": "MSXGrom",
-    "category": "skill",
-    "desc": "Unlocked 99 Firemaking achievement.",
-    "date": "September 13, 2026",
-    "icon": "fas fa-trophy"
-  },
-  {
     "title": "500 Wintertodt kills",
     "member": "MSXGrom",
     "category": "drop",
@@ -384,19 +384,19 @@
     "icon": "fas fa-skull"
   },
   {
+    "title": "99 Firemaking",
+    "member": "MSXGrom",
+    "category": "skill",
+    "desc": "Unlocked 99 Firemaking achievement.",
+    "date": "September 13, 2026",
+    "icon": "fas fa-trophy"
+  },
+  {
     "title": "99 Magic",
     "member": "cumswarm",
     "category": "skill",
     "desc": "Unlocked 99 Magic achievement.",
     "date": "September 13, 2026",
     "icon": "fas fa-trophy"
-  },
-  {
-    "title": "500 Maggot King kills",
-    "member": "i use haki",
-    "category": "drop",
-    "desc": "Unlocked 500 Maggot King kills achievement.",
-    "date": "September 12, 2026",
-    "icon": "fas fa-skull"
   }
 ]
