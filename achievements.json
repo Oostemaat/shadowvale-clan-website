@@ -1,5 +1,13 @@
 [
   {
+    "title": "100 Tombs Of Amascut Expert kills",
+    "member": "zew zew",
+    "category": "drop",
+    "desc": "Unlocked 100 Tombs Of Amascut Expert kills achievement.",
+    "date": "October 3, 2026",
+    "icon": "fas fa-skull"
+  },
+  {
     "title": "99 Ranged",
     "member": "Sk8err Sk",
     "category": "skill",
@@ -248,18 +256,18 @@
     "icon": "fas fa-skull"
   },
   {
-    "title": "500 Abyssal Sire kills",
-    "member": "Dykota434",
-    "category": "drop",
-    "desc": "Unlocked 500 Abyssal Sire kills achievement.",
-    "date": "September 22, 2026",
-    "icon": "fas fa-skull"
-  },
-  {
     "title": "500 Kraken kills",
     "member": "Dykota434",
     "category": "drop",
     "desc": "Unlocked 500 Kraken kills achievement.",
+    "date": "September 22, 2026",
+    "icon": "fas fa-skull"
+  },
+  {
+    "title": "500 Abyssal Sire kills",
+    "member": "Dykota434",
+    "category": "drop",
+    "desc": "Unlocked 500 Abyssal Sire kills achievement.",
     "date": "September 22, 2026",
     "icon": "fas fa-skull"
   },
@@ -320,20 +328,20 @@
     "icon": "fas fa-skull"
   },
   {
-    "title": "99 Defence",
-    "member": "ryanwri",
-    "category": "skill",
-    "desc": "Unlocked 99 Defence achievement.",
-    "date": "September 17, 2026",
-    "icon": "fas fa-trophy"
-  },
-  {
     "title": "1000 Araxxor kills",
     "member": "ryanwri",
     "category": "drop",
     "desc": "Unlocked 1000 Araxxor kills achievement.",
     "date": "September 17, 2026",
     "icon": "fas fa-skull"
+  },
+  {
+    "title": "99 Defence",
+    "member": "ryanwri",
+    "category": "skill",
+    "desc": "Unlocked 99 Defence achievement.",
+    "date": "September 17, 2026",
+    "icon": "fas fa-trophy"
   },
   {
     "title": "99 Hitpoints",
@@ -388,14 +396,6 @@
     "member": "youngninja",
     "category": "drop",
     "desc": "Unlocked 500 The Whisperer kills achievement.",
-    "date": "September 14, 2026",
-    "icon": "fas fa-skull"
-  },
-  {
-    "title": "100 Lunar Chests",
-    "member": "ManoleRS",
-    "category": "drop",
-    "desc": "Unlocked 100 Lunar Chests achievement.",
     "date": "September 14, 2026",
     "icon": "fas fa-skull"
   }
