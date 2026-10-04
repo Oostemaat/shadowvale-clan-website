@@ -1,5 +1,21 @@
 [
   {
+    "title": "50,000,000 Strength Exp.",
+    "member": "i use haki",
+    "category": "skill",
+    "desc": "Unlocked 50,000,000 Strength Exp. achievement.",
+    "date": "October 4, 2026",
+    "icon": "fas fa-trophy"
+  },
+  {
+    "title": "99 Defence",
+    "member": "BGSlayer",
+    "category": "skill",
+    "desc": "Unlocked 99 Defence achievement.",
+    "date": "October 4, 2026",
+    "icon": "fas fa-trophy"
+  },
+  {
     "title": "100 Tombs Of Amascut Expert kills",
     "member": "zew zew",
     "category": "drop",
@@ -328,20 +344,20 @@
     "icon": "fas fa-skull"
   },
   {
-    "title": "1000 Araxxor kills",
-    "member": "ryanwri",
-    "category": "drop",
-    "desc": "Unlocked 1000 Araxxor kills achievement.",
-    "date": "September 17, 2026",
-    "icon": "fas fa-skull"
-  },
-  {
     "title": "99 Defence",
     "member": "ryanwri",
     "category": "skill",
     "desc": "Unlocked 99 Defence achievement.",
     "date": "September 17, 2026",
     "icon": "fas fa-trophy"
+  },
+  {
+    "title": "1000 Araxxor kills",
+    "member": "ryanwri",
+    "category": "drop",
+    "desc": "Unlocked 1000 Araxxor kills achievement.",
+    "date": "September 17, 2026",
+    "icon": "fas fa-skull"
   },
   {
     "title": "99 Hitpoints",
@@ -382,21 +398,5 @@
     "desc": "Unlocked 99 Strength achievement.",
     "date": "September 15, 2026",
     "icon": "fas fa-trophy"
-  },
-  {
-    "title": "500 Cerberus kills",
-    "member": "Itz Hanibalz",
-    "category": "drop",
-    "desc": "Unlocked 500 Cerberus kills achievement.",
-    "date": "September 14, 2026",
-    "icon": "fas fa-skull"
-  },
-  {
-    "title": "500 The Whisperer kills",
-    "member": "youngninja",
-    "category": "drop",
-    "desc": "Unlocked 500 The Whisperer kills achievement.",
-    "date": "September 14, 2026",
-    "icon": "fas fa-skull"
   }
 ]
