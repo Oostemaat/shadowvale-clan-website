@@ -1,5 +1,13 @@
 [
   {
+    "title": "99 Ranged",
+    "member": "MSXGrom",
+    "category": "skill",
+    "desc": "Unlocked 99 Ranged achievement.",
+    "date": "October 4, 2026",
+    "icon": "fas fa-trophy"
+  },
+  {
     "title": "50,000,000 Strength Exp.",
     "member": "i use haki",
     "category": "skill",
@@ -272,18 +280,18 @@
     "icon": "fas fa-skull"
   },
   {
-    "title": "500 Kraken kills",
-    "member": "Dykota434",
-    "category": "drop",
-    "desc": "Unlocked 500 Kraken kills achievement.",
-    "date": "September 22, 2026",
-    "icon": "fas fa-skull"
-  },
-  {
     "title": "500 Abyssal Sire kills",
     "member": "Dykota434",
     "category": "drop",
     "desc": "Unlocked 500 Abyssal Sire kills achievement.",
+    "date": "September 22, 2026",
+    "icon": "fas fa-skull"
+  },
+  {
+    "title": "500 Kraken kills",
+    "member": "Dykota434",
+    "category": "drop",
+    "desc": "Unlocked 500 Kraken kills achievement.",
     "date": "September 22, 2026",
     "icon": "fas fa-skull"
   },
@@ -390,13 +398,5 @@
     "desc": "Unlocked 100 Tombs Of Amascut kills achievement.",
     "date": "September 16, 2026",
     "icon": "fas fa-skull"
-  },
-  {
-    "title": "99 Strength",
-    "member": "Ruyzia",
-    "category": "skill",
-    "desc": "Unlocked 99 Strength achievement.",
-    "date": "September 15, 2026",
-    "icon": "fas fa-trophy"
   }
 ]
