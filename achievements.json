@@ -1,9 +1,9 @@
 [
   {
-    "title": "313m Overall Exp.",
-    "member": "Iwhuttt",
+    "title": "99 Attack",
+    "member": "mrbine3799",
     "category": "skill",
-    "desc": "Unlocked 313m Overall Exp. achievement.",
+    "desc": "Unlocked 99 Attack achievement.",
     "date": "October 5, 2026",
     "icon": "fas fa-trophy"
   },
@@ -12,6 +12,14 @@
     "member": "Iwhuttt",
     "category": "skill",
     "desc": "Unlocked 99 Prayer achievement.",
+    "date": "October 5, 2026",
+    "icon": "fas fa-trophy"
+  },
+  {
+    "title": "313m Overall Exp.",
+    "member": "Iwhuttt",
+    "category": "skill",
+    "desc": "Unlocked 313m Overall Exp. achievement.",
     "date": "October 5, 2026",
     "icon": "fas fa-trophy"
   },
@@ -320,18 +328,18 @@
     "icon": "fas fa-skull"
   },
   {
-    "title": "500 Abyssal Sire kills",
-    "member": "Dykota434",
-    "category": "drop",
-    "desc": "Unlocked 500 Abyssal Sire kills achievement.",
-    "date": "September 22, 2026",
-    "icon": "fas fa-skull"
-  },
-  {
     "title": "500 Kraken kills",
     "member": "Dykota434",
     "category": "drop",
     "desc": "Unlocked 500 Kraken kills achievement.",
+    "date": "September 22, 2026",
+    "icon": "fas fa-skull"
+  },
+  {
+    "title": "500 Abyssal Sire kills",
+    "member": "Dykota434",
+    "category": "drop",
+    "desc": "Unlocked 500 Abyssal Sire kills achievement.",
     "date": "September 22, 2026",
     "icon": "fas fa-skull"
   },
@@ -390,13 +398,5 @@
     "desc": "Unlocked 1000 Araxxor kills achievement.",
     "date": "September 18, 2026",
     "icon": "fas fa-skull"
-  },
-  {
-    "title": "99 Defence",
-    "member": "ryanwri",
-    "category": "skill",
-    "desc": "Unlocked 99 Defence achievement.",
-    "date": "September 17, 2026",
-    "icon": "fas fa-trophy"
   }
 ]
