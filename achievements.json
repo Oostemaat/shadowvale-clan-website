@@ -1,5 +1,13 @@
 [
   {
+    "title": "500 Kalphite Queen kills",
+    "member": "shadedwizard",
+    "category": "drop",
+    "desc": "Unlocked 500 Kalphite Queen kills achievement.",
+    "date": "October 5, 2026",
+    "icon": "fas fa-skull"
+  },
+  {
     "title": "200 The Corrupted Gauntlet kills",
     "member": "Dark Minds",
     "category": "drop",
@@ -368,14 +376,6 @@
     "icon": "fas fa-skull"
   },
   {
-    "title": "99 Defence",
-    "member": "ryanwri",
-    "category": "skill",
-    "desc": "Unlocked 99 Defence achievement.",
-    "date": "September 17, 2026",
-    "icon": "fas fa-trophy"
-  },
-  {
     "title": "1000 Araxxor kills",
     "member": "ryanwri",
     "category": "drop",
@@ -384,19 +384,19 @@
     "icon": "fas fa-skull"
   },
   {
+    "title": "99 Defence",
+    "member": "ryanwri",
+    "category": "skill",
+    "desc": "Unlocked 99 Defence achievement.",
+    "date": "September 17, 2026",
+    "icon": "fas fa-trophy"
+  },
+  {
     "title": "99 Hitpoints",
     "member": "niteshadex81",
     "category": "skill",
     "desc": "Unlocked 99 Hitpoints achievement.",
     "date": "September 17, 2026",
-    "icon": "fas fa-trophy"
-  },
-  {
-    "title": "200m Overall Exp.",
-    "member": "ryanwri",
-    "category": "skill",
-    "desc": "Unlocked 200m Overall Exp. achievement.",
-    "date": "September 16, 2026",
     "icon": "fas fa-trophy"
   }
 ]
