@@ -1,5 +1,21 @@
 [
   {
+    "title": "313m Overall Exp.",
+    "member": "Iwhuttt",
+    "category": "skill",
+    "desc": "Unlocked 313m Overall Exp. achievement.",
+    "date": "October 5, 2026",
+    "icon": "fas fa-trophy"
+  },
+  {
+    "title": "99 Prayer",
+    "member": "Iwhuttt",
+    "category": "skill",
+    "desc": "Unlocked 99 Prayer achievement.",
+    "date": "October 5, 2026",
+    "icon": "fas fa-trophy"
+  },
+  {
     "title": "500 Kalphite Queen kills",
     "member": "shadedwizard",
     "category": "drop",
@@ -376,26 +392,10 @@
     "icon": "fas fa-skull"
   },
   {
-    "title": "1000 Araxxor kills",
-    "member": "ryanwri",
-    "category": "drop",
-    "desc": "Unlocked 1000 Araxxor kills achievement.",
-    "date": "September 17, 2026",
-    "icon": "fas fa-skull"
-  },
-  {
     "title": "99 Defence",
     "member": "ryanwri",
     "category": "skill",
     "desc": "Unlocked 99 Defence achievement.",
-    "date": "September 17, 2026",
-    "icon": "fas fa-trophy"
-  },
-  {
-    "title": "99 Hitpoints",
-    "member": "niteshadex81",
-    "category": "skill",
-    "desc": "Unlocked 99 Hitpoints achievement.",
     "date": "September 17, 2026",
     "icon": "fas fa-trophy"
   }
