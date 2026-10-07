@@ -1,5 +1,21 @@
 [
   {
+    "title": "99 Hunter",
+    "member": "OmgWtfHax",
+    "category": "skill",
+    "desc": "Unlocked 99 Hunter achievement.",
+    "date": "October 7, 2026",
+    "icon": "fas fa-trophy"
+  },
+  {
+    "title": "500 Clue Scrolls All kills",
+    "member": "Dr Diggy",
+    "category": "drop",
+    "desc": "Unlocked 500 Clue Scrolls All kills achievement.",
+    "date": "October 7, 2026",
+    "icon": "fas fa-skull"
+  },
+  {
     "title": "99 Attack",
     "member": "mrbine3799",
     "category": "skill",
@@ -8,18 +24,18 @@
     "icon": "fas fa-trophy"
   },
   {
-    "title": "99 Prayer",
-    "member": "Iwhuttt",
-    "category": "skill",
-    "desc": "Unlocked 99 Prayer achievement.",
-    "date": "October 5, 2026",
-    "icon": "fas fa-trophy"
-  },
-  {
     "title": "313m Overall Exp.",
     "member": "Iwhuttt",
     "category": "skill",
     "desc": "Unlocked 313m Overall Exp. achievement.",
+    "date": "October 5, 2026",
+    "icon": "fas fa-trophy"
+  },
+  {
+    "title": "99 Prayer",
+    "member": "Iwhuttt",
+    "category": "skill",
+    "desc": "Unlocked 99 Prayer achievement.",
     "date": "October 5, 2026",
     "icon": "fas fa-trophy"
   },
@@ -382,21 +398,5 @@
     "desc": "Unlocked Base 60 Stats achievement.",
     "date": "September 19, 2026",
     "icon": "fas fa-trophy"
-  },
-  {
-    "title": "99 Slayer",
-    "member": "argetdraco",
-    "category": "skill",
-    "desc": "Unlocked 99 Slayer achievement.",
-    "date": "September 19, 2026",
-    "icon": "fas fa-trophy"
-  },
-  {
-    "title": "1000 Araxxor kills",
-    "member": "Jmnz88",
-    "category": "drop",
-    "desc": "Unlocked 1000 Araxxor kills achievement.",
-    "date": "September 18, 2026",
-    "icon": "fas fa-skull"
   }
 ]
