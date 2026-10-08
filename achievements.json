@@ -40,18 +40,18 @@
     "icon": "fas fa-trophy"
   },
   {
-    "title": "99 Prayer",
-    "member": "Iwhuttt",
-    "category": "skill",
-    "desc": "Unlocked 99 Prayer achievement.",
-    "date": "October 5, 2026",
-    "icon": "fas fa-trophy"
-  },
-  {
     "title": "313m Overall Exp.",
     "member": "Iwhuttt",
     "category": "skill",
     "desc": "Unlocked 313m Overall Exp. achievement.",
+    "date": "October 5, 2026",
+    "icon": "fas fa-trophy"
+  },
+  {
+    "title": "99 Prayer",
+    "member": "Iwhuttt",
+    "category": "skill",
+    "desc": "Unlocked 99 Prayer achievement.",
     "date": "October 5, 2026",
     "icon": "fas fa-trophy"
   },
@@ -102,14 +102,6 @@
     "desc": "Unlocked 99 Defence achievement.",
     "date": "October 4, 2026",
     "icon": "fas fa-trophy"
-  },
-  {
-    "title": "100 Tombs Of Amascut Expert kills",
-    "member": "zew zew",
-    "category": "drop",
-    "desc": "Unlocked 100 Tombs Of Amascut Expert kills achievement.",
-    "date": "October 3, 2026",
-    "icon": "fas fa-skull"
   },
   {
     "title": "99 Ranged",
@@ -280,22 +272,6 @@
     "icon": "fas fa-trophy"
   },
   {
-    "title": "700 Collection Log Slots",
-    "member": "Parkway Dry",
-    "category": "milestone",
-    "desc": "Unlocked 700 Collection Log Slots achievement.",
-    "date": "September 25, 2026",
-    "icon": "fas fa-box-open"
-  },
-  {
-    "title": "500 Clue Scrolls All kills",
-    "member": "Parkway Dry",
-    "category": "drop",
-    "desc": "Unlocked 500 Clue Scrolls All kills achievement.",
-    "date": "September 25, 2026",
-    "icon": "fas fa-skull"
-  },
-  {
     "title": "100 Lunar Chests",
     "member": "diggitydog10",
     "category": "drop",
@@ -397,6 +373,30 @@
     "category": "skill",
     "desc": "Unlocked Base 60 Stats achievement.",
     "date": "September 21, 2026",
+    "icon": "fas fa-trophy"
+  },
+  {
+    "title": "1000 Abyssal Sire kills",
+    "member": "crit seeker",
+    "category": "drop",
+    "desc": "Unlocked 1000 Abyssal Sire kills achievement.",
+    "date": "September 20, 2026",
+    "icon": "fas fa-skull"
+  },
+  {
+    "title": "Base 60 Stats",
+    "member": "raksha 303",
+    "category": "skill",
+    "desc": "Unlocked Base 60 Stats achievement.",
+    "date": "September 19, 2026",
+    "icon": "fas fa-trophy"
+  },
+  {
+    "title": "99 Slayer",
+    "member": "argetdraco",
+    "category": "skill",
+    "desc": "Unlocked 99 Slayer achievement.",
+    "date": "September 19, 2026",
     "icon": "fas fa-trophy"
   }
 ]
