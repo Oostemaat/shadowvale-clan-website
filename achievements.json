@@ -1,5 +1,13 @@
 [
   {
+    "title": "99 Mining",
+    "member": "RNG Celery",
+    "category": "skill",
+    "desc": "Unlocked 99 Mining achievement.",
+    "date": "October 9, 2026",
+    "icon": "fas fa-trophy"
+  },
+  {
     "title": "500 Yama kills",
     "member": "Naphtic",
     "category": "drop",
@@ -48,18 +56,18 @@
     "icon": "fas fa-trophy"
   },
   {
-    "title": "99 Prayer",
-    "member": "Iwhuttt",
-    "category": "skill",
-    "desc": "Unlocked 99 Prayer achievement.",
-    "date": "October 5, 2026",
-    "icon": "fas fa-trophy"
-  },
-  {
     "title": "313m Overall Exp.",
     "member": "Iwhuttt",
     "category": "skill",
     "desc": "Unlocked 313m Overall Exp. achievement.",
+    "date": "October 5, 2026",
+    "icon": "fas fa-trophy"
+  },
+  {
+    "title": "99 Prayer",
+    "member": "Iwhuttt",
+    "category": "skill",
+    "desc": "Unlocked 99 Prayer achievement.",
     "date": "October 5, 2026",
     "icon": "fas fa-trophy"
   },
@@ -344,18 +352,18 @@
     "icon": "fas fa-skull"
   },
   {
-    "title": "500 Kraken kills",
-    "member": "Dykota434",
-    "category": "drop",
-    "desc": "Unlocked 500 Kraken kills achievement.",
-    "date": "September 22, 2026",
-    "icon": "fas fa-skull"
-  },
-  {
     "title": "500 Abyssal Sire kills",
     "member": "Dykota434",
     "category": "drop",
     "desc": "Unlocked 500 Abyssal Sire kills achievement.",
+    "date": "September 22, 2026",
+    "icon": "fas fa-skull"
+  },
+  {
+    "title": "500 Kraken kills",
+    "member": "Dykota434",
+    "category": "drop",
+    "desc": "Unlocked 500 Kraken kills achievement.",
     "date": "September 22, 2026",
     "icon": "fas fa-skull"
   },
@@ -390,13 +398,5 @@
     "desc": "Unlocked 1000 Abyssal Sire kills achievement.",
     "date": "September 20, 2026",
     "icon": "fas fa-skull"
-  },
-  {
-    "title": "Base 60 Stats",
-    "member": "raksha 303",
-    "category": "skill",
-    "desc": "Unlocked Base 60 Stats achievement.",
-    "date": "September 19, 2026",
-    "icon": "fas fa-trophy"
   }
 ]
