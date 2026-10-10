@@ -1,5 +1,13 @@
 [
   {
+    "title": "1000 Cerberus kills",
+    "member": "Itz Hanibalz",
+    "category": "drop",
+    "desc": "Unlocked 1000 Cerberus kills achievement.",
+    "date": "October 10, 2026",
+    "icon": "fas fa-skull"
+  },
+  {
     "title": "50,000,000 Hitpoints Exp.",
     "member": "N0R3",
     "category": "skill",
@@ -390,13 +398,5 @@
     "desc": "Unlocked 500 Yama kills achievement.",
     "date": "September 22, 2026",
     "icon": "fas fa-skull"
-  },
-  {
-    "title": "200m Overall Exp.",
-    "member": "MSXGrom",
-    "category": "skill",
-    "desc": "Unlocked 200m Overall Exp. achievement.",
-    "date": "September 22, 2026",
-    "icon": "fas fa-trophy"
   }
 ]
