@@ -1,5 +1,13 @@
 [
   {
+    "title": "50,000,000 Hitpoints Exp.",
+    "member": "N0R3",
+    "category": "skill",
+    "desc": "Unlocked 50,000,000 Hitpoints Exp. achievement.",
+    "date": "October 10, 2026",
+    "icon": "fas fa-trophy"
+  },
+  {
     "title": "99 Woodcutting",
     "member": "5DMG",
     "category": "skill",
@@ -389,14 +397,6 @@
     "category": "skill",
     "desc": "Unlocked 200m Overall Exp. achievement.",
     "date": "September 22, 2026",
-    "icon": "fas fa-trophy"
-  },
-  {
-    "title": "Base 60 Stats",
-    "member": "MSXGrom",
-    "category": "skill",
-    "desc": "Unlocked Base 60 Stats achievement.",
-    "date": "September 21, 2026",
     "icon": "fas fa-trophy"
   }
 ]
