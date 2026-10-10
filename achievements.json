@@ -1,5 +1,13 @@
 [
   {
+    "title": "18m Overall Exp.",
+    "member": "mequsi",
+    "category": "skill",
+    "desc": "Unlocked 18m Overall Exp. achievement.",
+    "date": "October 10, 2026",
+    "icon": "fas fa-trophy"
+  },
+  {
     "title": "99 Farming",
     "member": "Squiddy btw",
     "category": "skill",
@@ -388,14 +396,6 @@
     "member": "Dykota434",
     "category": "drop",
     "desc": "Unlocked 500 Kraken kills achievement.",
-    "date": "September 22, 2026",
-    "icon": "fas fa-skull"
-  },
-  {
-    "title": "500 Abyssal Sire kills",
-    "member": "Dykota434",
-    "category": "drop",
-    "desc": "Unlocked 500 Abyssal Sire kills achievement.",
     "date": "September 22, 2026",
     "icon": "fas fa-skull"
   }
