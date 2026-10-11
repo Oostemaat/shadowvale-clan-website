@@ -1,5 +1,13 @@
 [
   {
+    "title": "10 Sol Heredit kills",
+    "member": "Rmeich",
+    "category": "drop",
+    "desc": "Unlocked 10 Sol Heredit kills achievement.",
+    "date": "October 11, 2026",
+    "icon": "fas fa-skull"
+  },
+  {
     "title": "18m Overall Exp.",
     "member": "mequsi",
     "category": "skill",
@@ -389,14 +397,6 @@
     "category": "drop",
     "desc": "Unlocked 500 Cerberus kills achievement.",
     "date": "September 23, 2026",
-    "icon": "fas fa-skull"
-  },
-  {
-    "title": "500 Kraken kills",
-    "member": "Dykota434",
-    "category": "drop",
-    "desc": "Unlocked 500 Kraken kills achievement.",
-    "date": "September 22, 2026",
     "icon": "fas fa-skull"
   }
 ]
