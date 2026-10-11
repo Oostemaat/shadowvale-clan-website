@@ -1,5 +1,13 @@
 [
   {
+    "title": "Base 60 Stats",
+    "member": "snakeyes54",
+    "category": "skill",
+    "desc": "Unlocked Base 60 Stats achievement.",
+    "date": "October 11, 2026",
+    "icon": "fas fa-trophy"
+  },
+  {
     "title": "10 Sol Heredit kills",
     "member": "Rmeich",
     "category": "drop",
@@ -388,14 +396,6 @@
     "member": "OmgWtfHax",
     "category": "drop",
     "desc": "Unlocked 500 Kalphite Queen kills achievement.",
-    "date": "September 23, 2026",
-    "icon": "fas fa-skull"
-  },
-  {
-    "title": "500 Cerberus kills",
-    "member": "guzanator",
-    "category": "drop",
-    "desc": "Unlocked 500 Cerberus kills achievement.",
     "date": "September 23, 2026",
     "icon": "fas fa-skull"
   }
