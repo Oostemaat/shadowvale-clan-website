@@ -1,5 +1,13 @@
 [
   {
+    "title": "99 Ranged",
+    "member": "Jesussavesrn",
+    "category": "skill",
+    "desc": "Unlocked 99 Ranged achievement.",
+    "date": "October 12, 2026",
+    "icon": "fas fa-trophy"
+  },
+  {
     "title": "99 Fletching",
     "member": "BotsKnowMyRs",
     "category": "skill",
@@ -390,13 +398,5 @@
     "desc": "Unlocked 100 Doom Of Mokhaiotl kills achievement.",
     "date": "September 25, 2026",
     "icon": "fas fa-skull"
-  },
-  {
-    "title": "99 Attack",
-    "member": "Yatted",
-    "category": "skill",
-    "desc": "Unlocked 99 Attack achievement.",
-    "date": "September 24, 2026",
-    "icon": "fas fa-trophy"
   }
 ]
