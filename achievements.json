@@ -16,14 +16,6 @@
     "icon": "fas fa-trophy"
   },
   {
-    "title": "500 Yama kills",
-    "member": "Dr Diggy",
-    "category": "drop",
-    "desc": "Unlocked 500 Yama kills achievement.",
-    "date": "October 11, 2026",
-    "icon": "fas fa-skull"
-  },
-  {
     "title": "Base 60 Stats",
     "member": "snakeyes54",
     "category": "skill",
@@ -88,14 +80,6 @@
     "icon": "fas fa-trophy"
   },
   {
-    "title": "500 Yama kills",
-    "member": "Naphtic",
-    "category": "drop",
-    "desc": "Unlocked 500 Yama kills achievement.",
-    "date": "October 8, 2026",
-    "icon": "fas fa-skull"
-  },
-  {
     "title": "18m Overall Exp.",
     "member": "bitter isle",
     "category": "skill",
@@ -118,14 +102,6 @@
     "desc": "Unlocked 99 Hunter achievement.",
     "date": "October 7, 2026",
     "icon": "fas fa-trophy"
-  },
-  {
-    "title": "500 Clue Scrolls All kills",
-    "member": "Dr Diggy",
-    "category": "drop",
-    "desc": "Unlocked 500 Clue Scrolls All kills achievement.",
-    "date": "October 7, 2026",
-    "icon": "fas fa-skull"
   },
   {
     "title": "99 Attack",
@@ -397,6 +373,30 @@
     "category": "drop",
     "desc": "Unlocked 100 Doom Of Mokhaiotl kills achievement.",
     "date": "September 25, 2026",
+    "icon": "fas fa-skull"
+  },
+  {
+    "title": "99 Attack",
+    "member": "Yatted",
+    "category": "skill",
+    "desc": "Unlocked 99 Attack achievement.",
+    "date": "September 24, 2026",
+    "icon": "fas fa-trophy"
+  },
+  {
+    "title": "100 Tombs Of Amascut Expert kills",
+    "member": "N0R3",
+    "category": "drop",
+    "desc": "Unlocked 100 Tombs Of Amascut Expert kills achievement.",
+    "date": "September 23, 2026",
+    "icon": "fas fa-skull"
+  },
+  {
+    "title": "500 Kalphite Queen kills",
+    "member": "OmgWtfHax",
+    "category": "drop",
+    "desc": "Unlocked 500 Kalphite Queen kills achievement.",
+    "date": "September 23, 2026",
     "icon": "fas fa-skull"
   }
 ]
