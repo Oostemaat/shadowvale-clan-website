@@ -112,18 +112,18 @@
     "icon": "fas fa-trophy"
   },
   {
-    "title": "313m Overall Exp.",
-    "member": "Iwhuttt",
-    "category": "skill",
-    "desc": "Unlocked 313m Overall Exp. achievement.",
-    "date": "October 5, 2026",
-    "icon": "fas fa-trophy"
-  },
-  {
     "title": "99 Prayer",
     "member": "Iwhuttt",
     "category": "skill",
     "desc": "Unlocked 99 Prayer achievement.",
+    "date": "October 5, 2026",
+    "icon": "fas fa-trophy"
+  },
+  {
+    "title": "313m Overall Exp.",
+    "member": "Iwhuttt",
+    "category": "skill",
+    "desc": "Unlocked 313m Overall Exp. achievement.",
     "date": "October 5, 2026",
     "icon": "fas fa-trophy"
   },
@@ -180,14 +180,6 @@
     "member": "Sk8err Sk",
     "category": "skill",
     "desc": "Unlocked 99 Ranged achievement.",
-    "date": "October 2, 2026",
-    "icon": "fas fa-trophy"
-  },
-  {
-    "title": "18m Overall Exp.",
-    "member": "CloacaGaper",
-    "category": "skill",
-    "desc": "Unlocked 18m Overall Exp. achievement.",
     "date": "October 2, 2026",
     "icon": "fas fa-trophy"
   },
@@ -396,6 +388,14 @@
     "member": "OmgWtfHax",
     "category": "drop",
     "desc": "Unlocked 500 Kalphite Queen kills achievement.",
+    "date": "September 23, 2026",
+    "icon": "fas fa-skull"
+  },
+  {
+    "title": "500 Cerberus kills",
+    "member": "guzanator",
+    "category": "drop",
+    "desc": "Unlocked 500 Cerberus kills achievement.",
     "date": "September 23, 2026",
     "icon": "fas fa-skull"
   }
