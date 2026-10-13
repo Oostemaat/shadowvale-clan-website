@@ -1,5 +1,13 @@
 [
   {
+    "title": "2000 Last Man Standing kills",
+    "member": "Imdurkheim",
+    "category": "drop",
+    "desc": "Unlocked 2000 Last Man Standing kills achievement.",
+    "date": "October 13, 2026",
+    "icon": "fas fa-skull"
+  },
+  {
     "title": "99 Ranged",
     "member": "Jesussavesrn",
     "category": "skill",
@@ -388,14 +396,6 @@
     "member": "OmgWtfHax",
     "category": "drop",
     "desc": "Unlocked 500 Kalphite Queen kills achievement.",
-    "date": "September 23, 2026",
-    "icon": "fas fa-skull"
-  },
-  {
-    "title": "500 Cerberus kills",
-    "member": "guzanator",
-    "category": "drop",
-    "desc": "Unlocked 500 Cerberus kills achievement.",
     "date": "September 23, 2026",
     "icon": "fas fa-skull"
   }
