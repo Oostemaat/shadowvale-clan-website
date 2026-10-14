@@ -8,14 +8,6 @@
     "icon": "fas fa-skull"
   },
   {
-    "title": "99 Ranged",
-    "member": "Jesussavesrn",
-    "category": "skill",
-    "desc": "Unlocked 99 Ranged achievement.",
-    "date": "October 12, 2026",
-    "icon": "fas fa-trophy"
-  },
-  {
     "title": "99 Fletching",
     "member": "BotsKnowMyRs",
     "category": "skill",
@@ -256,14 +248,6 @@
     "icon": "fas fa-trophy"
   },
   {
-    "title": "500 Spindel kills",
-    "member": "Jesussavesrn",
-    "category": "drop",
-    "desc": "Unlocked 500 Spindel kills achievement.",
-    "date": "September 30, 2026",
-    "icon": "fas fa-skull"
-  },
-  {
     "title": "1000 Duke Sucellus kills",
     "member": "Rmeich",
     "category": "drop",
@@ -397,6 +381,22 @@
     "category": "drop",
     "desc": "Unlocked 500 Kalphite Queen kills achievement.",
     "date": "September 23, 2026",
+    "icon": "fas fa-skull"
+  },
+  {
+    "title": "500 Cerberus kills",
+    "member": "guzanator",
+    "category": "drop",
+    "desc": "Unlocked 500 Cerberus kills achievement.",
+    "date": "September 23, 2026",
+    "icon": "fas fa-skull"
+  },
+  {
+    "title": "500 Abyssal Sire kills",
+    "member": "Dykota434",
+    "category": "drop",
+    "desc": "Unlocked 500 Abyssal Sire kills achievement.",
+    "date": "September 22, 2026",
     "icon": "fas fa-skull"
   }
 ]
