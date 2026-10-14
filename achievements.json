@@ -1,5 +1,13 @@
 [
   {
+    "title": "500 Kraken kills",
+    "member": "MSXGrom",
+    "category": "drop",
+    "desc": "Unlocked 500 Kraken kills achievement.",
+    "date": "October 14, 2026",
+    "icon": "fas fa-skull"
+  },
+  {
     "title": "2000 Last Man Standing kills",
     "member": "Imdurkheim",
     "category": "drop",
@@ -390,13 +398,5 @@
     "desc": "Unlocked 1000 Abyssal Sire kills achievement.",
     "date": "September 20, 2026",
     "icon": "fas fa-skull"
-  },
-  {
-    "title": "Base 60 Stats",
-    "member": "raksha 303",
-    "category": "skill",
-    "desc": "Unlocked Base 60 Stats achievement.",
-    "date": "September 19, 2026",
-    "icon": "fas fa-trophy"
   }
 ]
